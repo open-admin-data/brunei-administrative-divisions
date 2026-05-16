@@ -1,0 +1,610 @@
+[
+  {
+    "id": "BN-BM-MK13-KP044",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Berangan",
+      "en": "Kg. Berangan",
+      "slug": "kg-berangan-44"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP044",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BA1111"
+    ],
+    "geo": {
+      "lat": "4.905",
+      "lon": "114.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP065",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kianggeh",
+      "en": "Kg. Kianggeh",
+      "slug": "kg-kianggeh-65"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP065",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BA1211"
+    ],
+    "geo": {
+      "lat": "4.864",
+      "lon": "114.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP072",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kumbang Pasang",
+      "en": "Kg. Kumbang Pasang",
+      "slug": "kg-kumbang-pasang-72"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP072",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BA1511"
+    ],
+    "geo": {
+      "lat": "4.907",
+      "lon": "114.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP088",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Melabau",
+      "en": "Kg. Melabau",
+      "slug": "kg-melabau-88"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP088",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.897",
+      "lon": "114.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP179",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Parit Kianggeh",
+      "en": "Kg. Parit Kianggeh",
+      "slug": "kg-parit-kianggeh-179"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP179",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.886",
+      "lon": "114.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP116",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pusar Ulak",
+      "en": "Kg. Pusar Ulak",
+      "slug": "kg-pusar-ulak-116"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP116",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BA1411"
+    ],
+    "geo": {
+      "lat": "4.897",
+      "lon": "114.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP162",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tasek Lama",
+      "en": "Kg. Tasek Lama",
+      "slug": "kg-tasek-lama-162"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP162",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BA1611"
+    ],
+    "geo": {
+      "lat": "4.905",
+      "lon": "114.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP166",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tumasek",
+      "en": "Kg. Tumasek",
+      "slug": "kg-tumasek-166"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP166",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BA2112"
+    ],
+    "geo": {
+      "lat": "4.881",
+      "lon": "114.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP167",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tungkadeh",
+      "en": "Kg. Tungkadeh",
+      "slug": "kg-tungkadeh-167"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP167",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BA1311"
+    ],
+    "geo": {
+      "lat": "4.905",
+      "lon": "114.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP181",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lingkungan Diplomatik",
+      "en": "Lingkungan Diplomatik",
+      "slug": "lingkungan-diplomatik-181"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP181",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.922",
+      "lon": "114.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13-KP256",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pusat Bandar",
+      "en": "Pusat Bandar",
+      "slug": "pusat-bandar-256"
+    },
+    "code": {
+      "id": "BN-BM-MK13-KP256",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK13",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kianggeh",
+        "en": "Kianggeh",
+        "slug": "kianggeh-bn-bm-mk13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK13",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.89",
+      "lon": "114.941"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

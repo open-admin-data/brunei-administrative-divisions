@@ -1,0 +1,284 @@
+[
+  {
+    "id": "BN-TE-MK01",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Amo",
+      "en": "Amo",
+      "slug": "amo-bn-te-mk01"
+    },
+    "code": {
+      "id": "BN-TE-MK01",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Bangar",
+      "en": "Bangar",
+      "slug": "bangar-bn-te-mk23"
+    },
+    "code": {
+      "id": "BN-TE-MK23",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Batu Apoi",
+      "en": "Batu Apoi",
+      "slug": "batu-apoi-bn-te-mk02"
+    },
+    "code": {
+      "id": "BN-TE-MK02",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Bokok",
+      "en": "Bokok",
+      "slug": "bokok-bn-te-mk03"
+    },
+    "code": {
+      "id": "BN-TE-MK03",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK24",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Labu",
+      "en": "Labu",
+      "slug": "labu-bn-te-mk24"
+    },
+    "code": {
+      "id": "BN-TE-MK24",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.766",
+      "lon": "115.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK41",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NA",
+      "en": "NA",
+      "slug": "na-bn-te-mk41"
+    },
+    "code": {
+      "id": "BN-TE-MK41",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.872"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

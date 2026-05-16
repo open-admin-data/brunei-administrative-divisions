@@ -1,0 +1,47 @@
+{
+  "id": "BN-BE-MK39",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Melilas",
+    "en": "Melilas",
+    "slug": "melilas-bn-be-mk39"
+  },
+  "code": {
+    "id": "BN-BE-MK39",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BE",
+    "level": 1,
+    "name": {
+      "local": "Belait",
+      "en": "Belait",
+      "slug": "belait-bn-be"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.108",
+    "lon": "114.679"
+  },
+  "metadata": {},
+  "source": {}
+}

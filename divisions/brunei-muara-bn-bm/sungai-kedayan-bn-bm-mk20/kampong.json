@@ -1,0 +1,386 @@
+[
+  {
+    "id": "BN-BM-MK20-KP255",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Salat",
+      "en": "Kg. Bukit Salat",
+      "slug": "kg-bukit-salat-255"
+    },
+    "code": {
+      "id": "BN-BM-MK20-KP255",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK20",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kedayan",
+        "en": "Sungai Kedayan",
+        "slug": "sungai-kedayan-bn-bm-mk20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK20",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BN1311"
+    ],
+    "geo": {
+      "lat": "4.89",
+      "lon": "114.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK20-KP070",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kuala Peminyak",
+      "en": "Kg. Kuala Peminyak",
+      "slug": "kg-kuala-peminyak-70"
+    },
+    "code": {
+      "id": "BN-BM-MK20-KP070",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK20",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kedayan",
+        "en": "Sungai Kedayan",
+        "slug": "sungai-kedayan-bn-bm-mk20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK20",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BN2111"
+    ],
+    "geo": {
+      "lat": "4.885",
+      "lon": "114.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK20-KP107",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pengiran Pemancha Lama",
+      "en": "Kg. Pengiran Pemancha Lama",
+      "slug": "kg-pengiran-pemancha-lama-107"
+    },
+    "code": {
+      "id": "BN-BM-MK20-KP107",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK20",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kedayan",
+        "en": "Sungai Kedayan",
+        "slug": "sungai-kedayan-bn-bm-mk20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK20",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.885",
+      "lon": "114.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK20-KP254",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sumbiling Lama Sungai Kedayan",
+      "en": "Kg. Sumbiling Lama Sungai Kedayan",
+      "slug": "kg-sumbiling-lama-sungai-kedayan-254"
+    },
+    "code": {
+      "id": "BN-BM-MK20-KP254",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK20",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kedayan",
+        "en": "Sungai Kedayan",
+        "slug": "sungai-kedayan-bn-bm-mk20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK20",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.892",
+      "lon": "114.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK20-KP146",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Kedayan A",
+      "en": "Kg. Sungai Kedayan A",
+      "slug": "kg-sungai-kedayan-a-146"
+    },
+    "code": {
+      "id": "BN-BM-MK20-KP146",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK20",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kedayan",
+        "en": "Sungai Kedayan",
+        "slug": "sungai-kedayan-bn-bm-mk20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK20",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.887",
+      "lon": "114.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK20-KP147",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Kedayan B",
+      "en": "Kg. Sungai Kedayan B",
+      "slug": "kg-sungai-kedayan-b-147"
+    },
+    "code": {
+      "id": "BN-BM-MK20-KP147",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK20",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kedayan",
+        "en": "Sungai Kedayan",
+        "slug": "sungai-kedayan-bn-bm-mk20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK20",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.887",
+      "lon": "114.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK20-KP171",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Ujong Tanjong",
+      "en": "Kg. Ujong Tanjong",
+      "slug": "kg-ujong-tanjong-171"
+    },
+    "code": {
+      "id": "BN-BM-MK20-KP171",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK20",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kedayan",
+        "en": "Sungai Kedayan",
+        "slug": "sungai-kedayan-bn-bm-mk20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK20",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BN1911"
+    ],
+    "geo": {
+      "lat": "4.885",
+      "lon": "114.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

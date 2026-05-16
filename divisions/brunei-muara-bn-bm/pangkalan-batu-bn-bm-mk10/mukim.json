@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK10",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Pangkalan Batu",
+    "en": "Pangkalan Batu",
+    "slug": "pangkalan-batu-bn-bm-mk10"
+  },
+  "code": {
+    "id": "BN-BM-MK10",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.814",
+    "lon": "114.819"
+  },
+  "metadata": {},
+  "source": {}
+}

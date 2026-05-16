@@ -1,0 +1,47 @@
+{
+  "id": "BN-TU-MK35",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Tanjong Maya",
+    "en": "Tanjong Maya",
+    "slug": "tanjong-maya-bn-tu-mk35"
+  },
+  "code": {
+    "id": "BN-TU-MK35",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-TU",
+    "level": 1,
+    "name": {
+      "local": "Tutong",
+      "en": "Tutong",
+      "slug": "tutong-bn-tu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.732",
+    "lon": "114.648"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,616 @@
+[
+  {
+    "id": "BN-TU-MK35-KP360",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bangunggos",
+      "en": "Kg. Bangunggos",
+      "slug": "kg-bangunggos-360"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP360",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.735",
+      "lon": "114.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP367",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Sibut",
+      "en": "Kg. Bukit Sibut",
+      "slug": "kg-bukit-sibut-367"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP367",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD2741"
+    ],
+    "geo": {
+      "lat": "4.762",
+      "lon": "114.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP402",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Udal",
+      "en": "Kg. Bukit Udal",
+      "slug": "kg-bukit-udal-402"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP402",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD2341"
+    ],
+    "geo": {
+      "lat": "4.731",
+      "lon": "114.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP359",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Liulon",
+      "en": "Kg. Liulon",
+      "slug": "kg-liulon-359"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP359",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD2941"
+    ],
+    "geo": {
+      "lat": "4.758",
+      "lon": "114.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP364",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lubok Pulau",
+      "en": "Kg. Lubok Pulau",
+      "slug": "kg-lubok-pulau-364"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP364",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD2541"
+    ],
+    "geo": {
+      "lat": "4.764",
+      "lon": "114.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP366",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Padang",
+      "en": "Kg. Padang",
+      "slug": "kg-padang-366"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP366",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD3141"
+    ],
+    "geo": {
+      "lat": "4.757",
+      "lon": "114.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP363",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pemadang",
+      "en": "Kg. Pemadang",
+      "slug": "kg-pemadang-363"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP363",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD1941"
+    ],
+    "geo": {
+      "lat": "4.705",
+      "lon": "114.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP362",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Penapar",
+      "en": "Kg. Penapar",
+      "slug": "kg-penapar-362"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP362",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD1741"
+    ],
+    "geo": {
+      "lat": "4.719",
+      "lon": "114.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP361",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sebakit",
+      "en": "Kg. Sebakit",
+      "slug": "kg-sebakit-361"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP361",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD1341"
+    ],
+    "geo": {
+      "lat": "4.739",
+      "lon": "114.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP365",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanjong Maya",
+      "en": "Kg. Tanjong Maya",
+      "slug": "kg-tanjong-maya-365"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP365",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD1141"
+    ],
+    "geo": {
+      "lat": "4.749",
+      "lon": "114.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35-KP358",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanjong Panjang",
+      "en": "Kg. Tanjong Panjang",
+      "slug": "kg-tanjong-panjang-358"
+    },
+    "code": {
+      "id": "BN-TU-MK35-KP358",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK35",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tanjong Maya",
+        "en": "Tanjong Maya",
+        "slug": "tanjong-maya-bn-tu-mk35"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK35",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TD3341"
+    ],
+    "geo": {
+      "lat": "4.782",
+      "lon": "114.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

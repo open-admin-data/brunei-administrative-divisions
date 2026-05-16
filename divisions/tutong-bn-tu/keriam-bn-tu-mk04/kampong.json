@@ -1,0 +1,502 @@
+[
+  {
+    "id": "BN-TU-MK04-KP962",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kawasan Padang Tembak Binturan",
+      "en": "Kawasan Padang Tembak Binturan",
+      "slug": "kawasan-padang-tembak-binturan-962"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP962",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.849",
+      "lon": "114.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP325",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Panggal",
+      "en": "Kg. Bukit Panggal",
+      "slug": "kg-bukit-panggal-325"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP325",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TB1341"
+    ],
+    "geo": {
+      "lat": "4.828",
+      "lon": "114.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP014",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Ikas",
+      "en": "Kg. Ikas",
+      "slug": "kg-ikas-14"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP014",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TB3341"
+    ],
+    "geo": {
+      "lat": "4.865",
+      "lon": "114.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP327",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Keriam",
+      "en": "Kg. Keriam",
+      "slug": "kg-keriam-327"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP327",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TB1141"
+    ],
+    "geo": {
+      "lat": "4.816",
+      "lon": "114.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP241",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kupang",
+      "en": "Kg. Kupang",
+      "slug": "kg-kupang-241"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP241",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TB2941"
+    ],
+    "geo": {
+      "lat": "4.843",
+      "lon": "114.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP324",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Luagan Dudok",
+      "en": "Kg. Luagan Dudok",
+      "slug": "kg-luagan-dudok-324"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP324",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.817",
+      "lon": "114.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP240",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Maraburong",
+      "en": "Kg. Maraburong",
+      "slug": "kg-maraburong-240"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP240",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TB3141"
+    ],
+    "geo": {
+      "lat": "4.823",
+      "lon": "114.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP326",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sinaut",
+      "en": "Kg. Sinaut",
+      "slug": "kg-sinaut-326"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP326",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TB1741"
+    ],
+    "geo": {
+      "lat": "4.816",
+      "lon": "114.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK04-KP242",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Kelugos",
+      "en": "Kg. Sungai Kelugos",
+      "slug": "kg-sungai-kelugos-242"
+    },
+    "code": {
+      "id": "BN-TU-MK04-KP242",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK04",
+      "level": 2,
+      "name": {
+        "local": "Mukim Keriam",
+        "en": "Keriam",
+        "slug": "keriam-bn-tu-mk04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK04",
+        "level": 2,
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TB2741"
+    ],
+    "geo": {
+      "lat": "4.805",
+      "lon": "114.765"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

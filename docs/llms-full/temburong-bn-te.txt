@@ -1,0 +1,335 @@
+# Temburong — Brunei Administrative Divisions
+
+> 6 subdistricts, 74 villages
+> Code: BN-TE
+> Coordinates: 4.624, 115.129
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Subdistricts
+
+### Mukim Amo (Amo)
+
+Code: BN-TE-MK01, Coordinates: 4.542, 115.196
+Villages: 11
+
+#### Hutan Simpan Batu Apoi
+
+Code: BN-TE-MK01-KP007, Coordinates: 4.542, 115.196
+
+#### Kg. Amo
+
+Code: BN-TE-MK01-KP002, Postal: PD1151, Coordinates: 4.542, 115.196
+
+#### Kg. Batang Duri
+
+Code: BN-TE-MK01-KP005, Postal: PD1951, Coordinates: 4.645, 115.098
+
+#### Kg. Belaban
+
+Code: BN-TE-MK01-KP182, Postal: PD2451, Coordinates: 4.542, 115.196
+
+#### Kg. Biang
+
+Code: BN-TE-MK01-KP001, Postal: PD2551, Coordinates: 4.542, 115.196
+
+#### Kg. Parit Amo
+
+Code: BN-TE-MK01-KP185, Coordinates: 4.542, 115.196
+
+#### Kg. Selangan
+
+Code: BN-TE-MK01-KP184, Postal: PD2751, Coordinates: 4.645, 115.098
+
+#### Kg. Sibulu
+
+Code: BN-TE-MK01-KP183, Postal: PD2951, Coordinates: 4.542, 115.196
+
+#### Kg. Sibut
+
+Code: BN-TE-MK01-KP003, Postal: PD2151, Coordinates: 4.762, 114.662
+
+#### Kg. Sumbiling Baru
+
+Code: BN-TE-MK01-KP004, Postal: PD1851, Coordinates: 4.542, 115.196
+
+#### Kg. Sumbiling Lama Amo
+
+Code: BN-TE-MK01-KP006, Coordinates: 4.542, 115.196
+
+### Mukim Bangar (Bangar)
+
+Code: BN-TE-MK23, Coordinates: 4.711, 115.077
+Villages: 22
+
+#### Kg. Bang Bulan
+
+Code: BN-TE-MK23-KP204, Postal: PA2951, Coordinates: 4.711, 115.077
+
+#### Kg. Batang Tuau
+
+Code: BN-TE-MK23-KP195, Postal: PA3351, Coordinates: 4.702, 115.052
+
+#### Kg. Batu Bejarah
+
+Code: BN-TE-MK23-KP198, Postal: PA2451, Coordinates: 4.711, 115.077
+
+#### Kg. Belingos
+
+Code: BN-TE-MK23-KP206, Postal: PA3151, Coordinates: 4.711, 115.077
+
+#### Kg. Gadong
+
+Code: BN-TE-MK23-KP197, Coordinates: 4.9, 114.888
+
+#### Kg. Kastam Lama
+
+Code: BN-TE-MK23-KP186, Coordinates: 4.711, 115.077
+
+#### Kg. Kinalong
+
+Code: BN-TE-MK23-KP202, Coordinates: 4.711, 115.077
+
+#### Kg. Lagau
+
+Code: BN-TE-MK23-KP207, Postal: PA3451, Coordinates: 4.711, 115.077
+
+#### Kg. Menengah Bangar
+
+Code: BN-TE-MK23-KP192, Coordinates: 4.723, 115.07
+
+#### Kg. Parit Belayang
+
+Code: BN-TE-MK23-KP187, Coordinates: 4.711, 115.077
+
+#### Kg. Peliunan Bangar
+
+Code: BN-TE-MK23-KP188, Coordinates: 4.711, 115.077
+
+#### Kg. Piungan
+
+Code: BN-TE-MK23-KP205, Coordinates: 4.711, 115.077
+
+#### Kg. Puni
+
+Code: BN-TE-MK23-KP199, Postal: PA3751, Coordinates: 4.69, 115.042
+
+#### Kg. Semamang
+
+Code: BN-TE-MK23-KP200, Postal: PA2751, Coordinates: 4.711, 115.077
+
+#### Kg. Seri Tanjong Belayang
+
+Code: BN-TE-MK23-KP191, Postal: PA3551, Coordinates: 4.711, 115.077
+
+#### Kg. Subok Bangar
+
+Code: BN-TE-MK23-KP201, Coordinates: 4.711, 115.077
+
+#### Kg. Sungai Getahan
+
+Code: BN-TE-MK23-KP190, Coordinates: 4.711, 115.077
+
+#### Kg. Sungai Sulok
+
+Code: BN-TE-MK23-KP189, Postal: PA1951, Coordinates: 4.711, 115.077
+
+#### Kg. Sungai Tanam
+
+Code: BN-TE-MK23-KP196, Postal: PA2351, Coordinates: 4.711, 115.077
+
+#### Kg. Sungai Tanit
+
+Code: BN-TE-MK23-KP193, Postal: PA2151, Coordinates: 4.718, 115.071
+
+#### Kg. Ujong Jalan
+
+Code: BN-TE-MK23-KP203, Postal: PA3951, Coordinates: 4.69, 115.041
+
+#### Pekan Bangar
+
+Code: BN-TE-MK23-KP194, Postal: PA1351, Coordinates: 4.708, 115.073
+
+### Mukim Batu Apoi (Batu Apoi)
+
+Code: BN-TE-MK02, Coordinates: 4.658, 115.178
+Villages: 15
+
+#### Kg. Batu Apoi
+
+Code: BN-TE-MK02-KP213, Postal: PC1151, Coordinates: 4.715, 115.111
+
+#### Kg. Gadong Baru
+
+Code: BN-TE-MK02-KP219, Postal: PC1951, Coordinates: 4.706, 115.104
+
+#### Kg. Lakiun
+
+Code: BN-TE-MK02-KP210, Postal: PC2751, Coordinates: 4.658, 115.178
+
+#### Kg. Lamaling
+
+Code: BN-TE-MK02-KP217, Postal: PC3151, Coordinates: 4.658, 115.178
+
+#### Kg. Luagan
+
+Code: BN-TE-MK02-KP208, Postal: PC2151, Coordinates: 4.817, 114.73
+
+#### Kg. Negalang Ering
+
+Code: BN-TE-MK02-KP211, Postal: PC2351, Coordinates: 4.727, 115.125
+
+#### Kg. Negalang Unat
+
+Code: BN-TE-MK02-KP209, Postal: PC2551, Coordinates: 4.658, 115.178
+
+#### Kg. Peliunan Batu Apoi
+
+Code: BN-TE-MK02-KP214, Coordinates: 4.658, 115.178
+
+#### Kg. Rebada
+
+Code: BN-TE-MK02-KP216, Coordinates: 4.658, 115.178
+
+#### Kg. Sekurop
+
+Code: BN-TE-MK02-KP221, Postal: PC3551, Coordinates: 4.658, 115.178
+
+#### Kg. Selapon
+
+Code: BN-TE-MK02-KP008, Postal: PC3351, Coordinates: 4.708, 115.168
+
+#### Kg. Selilit
+
+Code: BN-TE-MK02-KP212, Coordinates: 4.658, 115.178
+
+#### Kg. Simbatang Batu Apoi
+
+Code: BN-TE-MK02-KP220, Coordinates: 4.658, 115.178
+
+#### Kg. Sungai Radang
+
+Code: BN-TE-MK02-KP218, Postal: PC1351, Coordinates: 4.658, 115.178
+
+#### Kg. Tanjong Bungar
+
+Code: BN-TE-MK02-KP215, Postal: PC2951, Coordinates: 4.658, 115.178
+
+### Mukim Bokok (Bokok)
+
+Code: BN-TE-MK03, Coordinates: 4.624, 115.129
+Villages: 15
+
+#### Hutan Simpan Batu Apoi
+
+Code: BN-TE-MK03-KP013, Coordinates: 4.624, 115.129
+
+#### Kawasan Bahaya Mukim Bokok
+
+Code: BN-TE-MK03-KP011, Coordinates: 4.624, 115.129
+
+#### Kg. Bakarut
+
+Code: BN-TE-MK03-KP229, Coordinates: 4.624, 115.129
+
+#### Kg. Belais Besar
+
+Code: BN-TE-MK03-KP224, Postal: PE1351, Coordinates: 4.624, 115.129
+
+#### Kg. Belais Kecil
+
+Code: BN-TE-MK03-KP223, Postal: PE1551, Coordinates: 4.624, 115.129
+
+#### Kg. Bokok
+
+Code: BN-TE-MK03-KP227, Postal: PE1951, Coordinates: 4.69, 115.042
+
+#### Kg. Buda-Buda
+
+Code: BN-TE-MK03-KP222, Postal: PE1151, Coordinates: 4.624, 115.129
+
+#### Kg. Kenua
+
+Code: BN-TE-MK03-KP231, Postal: PE3351, Coordinates: 4.624, 115.129
+
+#### Kg. Lepong
+
+Code: BN-TE-MK03-KP009, Coordinates: 4.624, 115.129
+
+#### Kg. Maniup
+
+Code: BN-TE-MK03-KP228, Postal: PE2151, Coordinates: 4.624, 115.129
+
+#### Kg. Paya Bagangan
+
+Code: BN-TE-MK03-KP226, Postal: PE1751, Coordinates: 4.624, 115.129
+
+#### Kg. Rataie
+
+Code: BN-TE-MK03-KP225, Postal: PE2751, Coordinates: 4.649, 115.065
+
+#### Kg. Semabat
+
+Code: BN-TE-MK03-KP010, Postal: PE4151, Coordinates: 4.624, 115.129
+
+#### Kg. Simbatang Bokok
+
+Code: BN-TE-MK03-KP230, Coordinates: 4.624, 115.129
+
+#### Kg. Temada
+
+Code: BN-TE-MK03-KP012, Postal: PE4351, Coordinates: 4.624, 115.129
+
+### Mukim Labu (Labu)
+
+Code: BN-TE-MK24, Coordinates: 4.766, 115.123
+Villages: 6
+
+#### Hutan Simpan Labu
+
+Code: BN-TE-MK24-KP232, Coordinates: 4.766, 115.123
+
+#### Hutan Simpan Perdayan
+
+Code: BN-TE-MK24-KP237, Coordinates: 4.766, 115.123
+
+#### Kg. Labu Estate
+
+Code: BN-TE-MK24-KP235, Postal: PB1151, Coordinates: 4.764, 115.185
+
+#### Kg. Perdayan
+
+Code: BN-TE-MK24-KP234, Coordinates: 4.766, 115.123
+
+#### Kg. Piasau-Piasau
+
+Code: BN-TE-MK24-KP233, Postal: PB1551, Coordinates: 4.785, 115.197
+
+#### Kg. Senukoh
+
+Code: BN-TE-MK24-KP236, Postal: PB1351, Coordinates: 4.766, 115.123
+
+### NA
+
+Code: BN-TE-MK41, Coordinates: 4.856, 114.872
+Villages: 5
+
+#### Pulau Berbunut
+
+Code: BN-TE-MK41-KP910, Coordinates: 4.89, 115.043
+
+#### Pulau Selanjak
+
+Code: BN-TE-MK41-KP926, Coordinates: 4.821, 115.069
+
+#### Pulau Selirong
+
+Code: BN-TE-MK41-KP911, Coordinates: 4.885, 115.127
+
+#### Pulau Siarau
+
+Code: BN-TE-MK41-KP915, Coordinates: 4.808, 115.046
+
+#### Pulau Tarap
+
+Code: BN-TE-MK41-KP925, Coordinates: 4.832, 115.073
+

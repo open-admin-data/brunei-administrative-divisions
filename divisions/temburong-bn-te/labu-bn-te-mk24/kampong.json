@@ -1,0 +1,332 @@
+[
+  {
+    "id": "BN-TE-MK24-KP232",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan Labu",
+      "en": "Hutan Simpan Labu",
+      "slug": "hutan-simpan-labu-232"
+    },
+    "code": {
+      "id": "BN-TE-MK24-KP232",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK24",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labu",
+        "en": "Labu",
+        "slug": "labu-bn-te-mk24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK24",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labu",
+          "en": "Labu",
+          "slug": "labu-bn-te-mk24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.766",
+      "lon": "115.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK24-KP237",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan Perdayan",
+      "en": "Hutan Simpan Perdayan",
+      "slug": "hutan-simpan-perdayan-237"
+    },
+    "code": {
+      "id": "BN-TE-MK24-KP237",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK24",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labu",
+        "en": "Labu",
+        "slug": "labu-bn-te-mk24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK24",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labu",
+          "en": "Labu",
+          "slug": "labu-bn-te-mk24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.766",
+      "lon": "115.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK24-KP235",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Labu Estate",
+      "en": "Kg. Labu Estate",
+      "slug": "kg-labu-estate-235"
+    },
+    "code": {
+      "id": "BN-TE-MK24-KP235",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK24",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labu",
+        "en": "Labu",
+        "slug": "labu-bn-te-mk24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK24",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labu",
+          "en": "Labu",
+          "slug": "labu-bn-te-mk24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PB1151"
+    ],
+    "geo": {
+      "lat": "4.764",
+      "lon": "115.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK24-KP234",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Perdayan",
+      "en": "Kg. Perdayan",
+      "slug": "kg-perdayan-234"
+    },
+    "code": {
+      "id": "BN-TE-MK24-KP234",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK24",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labu",
+        "en": "Labu",
+        "slug": "labu-bn-te-mk24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK24",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labu",
+          "en": "Labu",
+          "slug": "labu-bn-te-mk24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.766",
+      "lon": "115.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK24-KP233",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Piasau-Piasau",
+      "en": "Kg. Piasau-Piasau",
+      "slug": "kg-piasau-piasau-233"
+    },
+    "code": {
+      "id": "BN-TE-MK24-KP233",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK24",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labu",
+        "en": "Labu",
+        "slug": "labu-bn-te-mk24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK24",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labu",
+          "en": "Labu",
+          "slug": "labu-bn-te-mk24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PB1551"
+    ],
+    "geo": {
+      "lat": "4.785",
+      "lon": "115.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK24-KP236",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Senukoh",
+      "en": "Kg. Senukoh",
+      "slug": "kg-senukoh-236"
+    },
+    "code": {
+      "id": "BN-TE-MK24-KP236",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK24",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labu",
+        "en": "Labu",
+        "slug": "labu-bn-te-mk24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK24",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labu",
+          "en": "Labu",
+          "slug": "labu-bn-te-mk24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PB1351"
+    ],
+    "geo": {
+      "lat": "4.766",
+      "lon": "115.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

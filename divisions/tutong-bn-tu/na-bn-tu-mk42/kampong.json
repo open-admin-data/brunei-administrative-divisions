@@ -1,0 +1,110 @@
+[
+  {
+    "id": "BN-TU-MK42-KP921",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Bakuku",
+      "en": "Pulau Bakuku",
+      "slug": "pulau-bakuku-921"
+    },
+    "code": {
+      "id": "BN-TU-MK42-KP921",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK42",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-tu-mk42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK42",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-tu-mk42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.787",
+      "lon": "114.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK42-KP933",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Setawat",
+      "en": "Pulau Setawat",
+      "slug": "pulau-setawat-933"
+    },
+    "code": {
+      "id": "BN-TU-MK42-KP933",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK42",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-tu-mk42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK42",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-tu-mk42"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.774",
+      "lon": "114.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

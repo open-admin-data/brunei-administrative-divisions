@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK21",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Tamoi",
+    "en": "Tamoi",
+    "slug": "tamoi-bn-bm-mk21"
+  },
+  "code": {
+    "id": "BN-BM-MK21",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.878",
+    "lon": "114.928"
+  },
+  "metadata": {},
+  "source": {}
+}

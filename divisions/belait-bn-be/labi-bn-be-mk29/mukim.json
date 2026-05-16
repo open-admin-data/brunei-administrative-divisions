@@ -1,0 +1,47 @@
+{
+  "id": "BN-BE-MK29",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Labi",
+    "en": "Labi",
+    "slug": "labi-bn-be-mk29"
+  },
+  "code": {
+    "id": "BN-BE-MK29",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BE",
+    "level": 1,
+    "name": {
+      "local": "Belait",
+      "en": "Belait",
+      "slug": "belait-bn-be"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.444",
+    "lon": "114.432"
+  },
+  "metadata": {},
+  "source": {}
+}

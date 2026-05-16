@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK13",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Kianggeh",
+    "en": "Kianggeh",
+    "slug": "kianggeh-bn-bm-mk13"
+  },
+  "code": {
+    "id": "BN-BM-MK13",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.897",
+    "lon": "114.938"
+  },
+  "metadata": {},
+  "source": {}
+}

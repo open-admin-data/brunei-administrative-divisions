@@ -1,0 +1,30 @@
+{
+  "id": "BN-BE",
+  "level": 1,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belait",
+    "en": "Belait",
+    "slug": "belait-bn-be"
+  },
+  "code": {
+    "id": "BN-BE",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "mukim": 8,
+    "kampong": 83
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.392",
+    "lon": "114.581"
+  },
+  "metadata": {},
+  "source": {}
+}

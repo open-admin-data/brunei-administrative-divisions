@@ -1,0 +1,895 @@
+[
+  {
+    "id": "BN-BM-MK06",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Berakas A",
+      "en": "Berakas A",
+      "slug": "berakas-a-bn-bm-mk06"
+    },
+    "code": {
+      "id": "BN-BM-MK06",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.951",
+      "lon": "114.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Berakas B",
+      "en": "Berakas B",
+      "slug": "berakas-b-bn-bm-mk07"
+    },
+    "code": {
+      "id": "BN-BM-MK07",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.962",
+      "lon": "114.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Burong Pingai Ayer",
+      "en": "Burong Pingai Ayer",
+      "slug": "burong-pingai-ayer-bn-bm-mk17"
+    },
+    "code": {
+      "id": "BN-BM-MK17",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.872",
+      "lon": "114.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Gadong A",
+      "en": "Gadong A",
+      "slug": "gadong-a-bn-bm-mk05"
+    },
+    "code": {
+      "id": "BN-BM-MK05",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.917",
+      "lon": "114.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Gadong B",
+      "en": "Gadong B",
+      "slug": "gadong-b-bn-bm-mk14"
+    },
+    "code": {
+      "id": "BN-BM-MK14",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.917",
+      "lon": "114.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK13",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Kianggeh",
+      "en": "Kianggeh",
+      "slug": "kianggeh-bn-bm-mk13"
+    },
+    "code": {
+      "id": "BN-BM-MK13",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.897",
+      "lon": "114.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Kilanas",
+      "en": "Kilanas",
+      "slug": "kilanas-bn-bm-mk12"
+    },
+    "code": {
+      "id": "BN-BM-MK12",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK11",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Kota Batu",
+      "en": "Kota Batu",
+      "slug": "kota-batu-bn-bm-mk11"
+    },
+    "code": {
+      "id": "BN-BM-MK11",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Lumapas",
+      "en": "Lumapas",
+      "slug": "lumapas-bn-bm-mk16"
+    },
+    "code": {
+      "id": "BN-BM-MK16",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.843",
+      "lon": "114.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Mentiri",
+      "en": "Mentiri",
+      "slug": "mentiri-bn-bm-mk08"
+    },
+    "code": {
+      "id": "BN-BM-MK08",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.982",
+      "lon": "114.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NA",
+      "en": "NA",
+      "slug": "na-bn-bm-mk40"
+    },
+    "code": {
+      "id": "BN-BM-MK40",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Pangkalan Batu",
+      "en": "Pangkalan Batu",
+      "slug": "pangkalan-batu-bn-bm-mk10"
+    },
+    "code": {
+      "id": "BN-BM-MK10",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.814",
+      "lon": "114.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK09",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Peramu",
+      "en": "Peramu",
+      "slug": "peramu-bn-bm-mk09"
+    },
+    "code": {
+      "id": "BN-BM-MK09",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.884",
+      "lon": "114.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK22",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Saba",
+      "en": "Saba",
+      "slug": "saba-bn-bm-mk22"
+    },
+    "code": {
+      "id": "BN-BM-MK22",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Sengkurong",
+      "en": "Sengkurong",
+      "slug": "sengkurong-bn-bm-mk18"
+    },
+    "code": {
+      "id": "BN-BM-MK18",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.902",
+      "lon": "114.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK19",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Serasa",
+      "en": "Serasa",
+      "slug": "serasa-bn-bm-mk19"
+    },
+    "code": {
+      "id": "BN-BM-MK19",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.019",
+      "lon": "115.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK15",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Sungai Kebun",
+      "en": "Sungai Kebun",
+      "slug": "sungai-kebun-bn-bm-mk15"
+    },
+    "code": {
+      "id": "BN-BM-MK15",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.87",
+      "lon": "114.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK20",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Sungai Kedayan",
+      "en": "Sungai Kedayan",
+      "slug": "sungai-kedayan-bn-bm-mk20"
+    },
+    "code": {
+      "id": "BN-BM-MK20",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.887",
+      "lon": "114.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK21",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Tamoi",
+      "en": "Tamoi",
+      "slug": "tamoi-bn-bm-mk21"
+    },
+    "code": {
+      "id": "BN-BM-MK21",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.878",
+      "lon": "114.928"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

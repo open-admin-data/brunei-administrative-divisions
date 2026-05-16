@@ -1,0 +1,47 @@
+{
+  "id": "BN-BE-MK26",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Sukang",
+    "en": "Sukang",
+    "slug": "sukang-bn-be-mk26"
+  },
+  "code": {
+    "id": "BN-BE-MK26",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BE",
+    "level": 1,
+    "name": {
+      "local": "Belait",
+      "en": "Belait",
+      "slug": "belait-bn-be"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.34",
+    "lon": "114.706"
+  },
+  "metadata": {},
+  "source": {}
+}

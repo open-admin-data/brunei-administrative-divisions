@@ -1,0 +1,448 @@
+[
+  {
+    "id": "BN-BE-MK37-KP392",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Badas",
+      "en": "Badas",
+      "slug": "badas-392"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP392",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KB2133"
+    ],
+    "geo": {
+      "lat": "4.56",
+      "lon": "114.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37-KP391",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Anduki",
+      "en": "Kg. Anduki",
+      "slug": "kg-anduki-391"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP391",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KB2333"
+    ],
+    "geo": {
+      "lat": "4.635",
+      "lon": "114.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37-KP388",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lorong Tiga Selatan",
+      "en": "Kg. Lorong Tiga Selatan",
+      "slug": "kg-lorong-tiga-selatan-388"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP388",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KB1533"
+    ],
+    "geo": {
+      "lat": "4.599",
+      "lon": "114.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37-KP387",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Panaga",
+      "en": "Kg. Panaga",
+      "slug": "kg-panaga-387"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP387",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KB4533"
+    ],
+    "geo": {
+      "lat": "4.601",
+      "lon": "114.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37-KP390",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Bera",
+      "en": "Kg. Sungai Bera",
+      "slug": "kg-sungai-bera-390"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP390",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KB1933"
+    ],
+    "geo": {
+      "lat": "4.614",
+      "lon": "114.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37-KP386",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekan Seria Kawasan 1",
+      "en": "Pekan Seria Kawasan 1",
+      "slug": "pekan-seria-kawasan-1-386"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP386",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KB1133"
+    ],
+    "geo": {
+      "lat": "4.615",
+      "lon": "114.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37-KP396",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekan Seria Kawasan 2",
+      "en": "Pekan Seria Kawasan 2",
+      "slug": "pekan-seria-kawasan-2-396"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP396",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KB4733"
+    ],
+    "geo": {
+      "lat": "4.614",
+      "lon": "114.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37-KP389",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lorong Tengah Seria",
+      "en": "Perumahan Negara Lorong Tengah Seria",
+      "slug": "perumahan-negara-lorong-tengah-seria-389"
+    },
+    "code": {
+      "id": "BN-BE-MK37-KP389",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK37",
+      "level": 2,
+      "name": {
+        "local": "Mukim Seria",
+        "en": "Seria",
+        "slug": "seria-bn-be-mk37"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK37",
+        "level": 2,
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.6",
+      "lon": "114.337"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

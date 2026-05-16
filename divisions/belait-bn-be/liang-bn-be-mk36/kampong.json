@@ -1,0 +1,1160 @@
+[
+  {
+    "id": "BN-BE-MK36-KP370",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Badas Liang",
+      "en": "Badas Liang",
+      "slug": "badas-liang-370"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP370",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.629",
+      "lon": "114.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP375",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan Andulau",
+      "en": "Hutan Simpan Andulau",
+      "slug": "hutan-simpan-andulau-375"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP375",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.629",
+      "lon": "114.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP383",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Agis-Agis",
+      "en": "Kg. Agis-Agis",
+      "slug": "kg-agis-agis-383"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP383",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC3335"
+    ],
+    "geo": {
+      "lat": "4.667",
+      "lon": "114.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP382",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Keluyoh",
+      "en": "Kg. Keluyoh",
+      "slug": "kg-keluyoh-382"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP382",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC1735"
+    ],
+    "geo": {
+      "lat": "4.661",
+      "lon": "114.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP380",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lilas",
+      "en": "Kg. Lilas",
+      "slug": "kg-lilas-380"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP380",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC2535"
+    ],
+    "geo": {
+      "lat": "4.7",
+      "lon": "114.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP374",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lumut",
+      "en": "Kg. Lumut",
+      "slug": "kg-lumut-374"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP374",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC4335"
+    ],
+    "geo": {
+      "lat": "4.66",
+      "lon": "114.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP394",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lumut Tersusun",
+      "en": "Kg. Lumut Tersusun",
+      "slug": "kg-lumut-tersusun-394"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP394",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC4135"
+    ],
+    "geo": {
+      "lat": "4.655",
+      "lon": "114.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP378",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Perumpong",
+      "en": "Kg. Perumpong",
+      "slug": "kg-perumpong-378"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP378",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC1935"
+    ],
+    "geo": {
+      "lat": "4.674",
+      "lon": "114.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP399",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Bakong",
+      "en": "Kg. Sungai Bakong",
+      "slug": "kg-sungai-bakong-399"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP399",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC4535"
+    ],
+    "geo": {
+      "lat": "4.661",
+      "lon": "114.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP379",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Gana",
+      "en": "Kg. Sungai Gana",
+      "slug": "kg-sungai-gana-379"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP379",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC1335"
+    ],
+    "geo": {
+      "lat": "4.677",
+      "lon": "114.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP376",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Kang",
+      "en": "Kg. Sungai Kang",
+      "slug": "kg-sungai-kang-376"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP376",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.658",
+      "lon": "114.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP395",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Kuru",
+      "en": "Kg. Sungai Kuru",
+      "slug": "kg-sungai-kuru-395"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP395",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.662",
+      "lon": "114.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP384",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Lalit",
+      "en": "Kg. Sungai Lalit",
+      "slug": "kg-sungai-lalit-384"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP384",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC3535"
+    ],
+    "geo": {
+      "lat": "4.659",
+      "lon": "114.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP377",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Liang",
+      "en": "Kg. Sungai Liang",
+      "slug": "kg-sungai-liang-377"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP377",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC1135"
+    ],
+    "geo": {
+      "lat": "4.677",
+      "lon": "114.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP372",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Tali",
+      "en": "Kg. Sungai Tali",
+      "slug": "kg-sungai-tali-372"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP372",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.651",
+      "lon": "114.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP385",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Taring",
+      "en": "Kg. Sungai Taring",
+      "slug": "kg-sungai-taring-385"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP385",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC4735"
+    ],
+    "geo": {
+      "lat": "4.657",
+      "lon": "114.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP381",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tunggulian",
+      "en": "Kg. Tunggulian",
+      "slug": "kg-tunggulian-381"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP381",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KC2735"
+    ],
+    "geo": {
+      "lat": "4.691",
+      "lon": "114.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP371",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkhemahan Lumut",
+      "en": "Perkhemahan Lumut",
+      "slug": "perkhemahan-lumut-371"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP371",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.639",
+      "lon": "114.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP400",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lumut Kawasan 1",
+      "en": "Perumahan Negara Lumut Kawasan 1",
+      "slug": "perumahan-negara-lumut-kawasan-1-400"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP400",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.645",
+      "lon": "114.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP373",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lumut Kawasan 2",
+      "en": "Perumahan Negara Lumut Kawasan 2",
+      "slug": "perumahan-negara-lumut-kawasan-2-373"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP373",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.649",
+      "lon": "114.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36-KP393",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Lumut",
+      "en": "STKRJ Lumut",
+      "slug": "stkrj-lumut-393"
+    },
+    "code": {
+      "id": "BN-BE-MK36-KP393",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK36",
+      "level": 2,
+      "name": {
+        "local": "Mukim Liang",
+        "en": "Liang",
+        "slug": "liang-bn-be-mk36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK36",
+        "level": 2,
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.643",
+      "lon": "114.431"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,668 @@
+[
+  {
+    "id": "BN-TU-MK33-KP347",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Binchaya",
+      "en": "Kg. Binchaya",
+      "slug": "kg-binchaya-347"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP347",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC3545"
+    ],
+    "geo": {
+      "lat": "4.706",
+      "lon": "114.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP348",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Beruang",
+      "en": "Kg. Bukit Beruang",
+      "slug": "kg-bukit-beruang-348"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP348",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC3145"
+    ],
+    "geo": {
+      "lat": "4.735",
+      "lon": "114.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP349",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Pasir",
+      "en": "Kg. Bukit Pasir",
+      "slug": "kg-bukit-pasir-349"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP349",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.733",
+      "lon": "114.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP968",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Danau",
+      "en": "Kg. Danau",
+      "slug": "kg-danau-968"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP968",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC2345"
+    ],
+    "geo": {
+      "lat": "4.764",
+      "lon": "114.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP369",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Keramut",
+      "en": "Kg. Keramut",
+      "slug": "kg-keramut-369"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP369",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC2745"
+    ],
+    "geo": {
+      "lat": "4.749",
+      "lon": "114.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP345",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Panapar-Danau",
+      "en": "Kg. Panapar-Danau",
+      "slug": "kg-panapar-danau-345"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP345",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.749",
+      "lon": "114.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP322",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pangkalan Dalai",
+      "en": "Kg. Pangkalan Dalai",
+      "slug": "kg-pangkalan-dalai-322"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP322",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC3745"
+    ],
+    "geo": {
+      "lat": "4.689",
+      "lon": "114.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP346",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Penyatang",
+      "en": "Kg. Penyatang",
+      "slug": "kg-penyatang-346"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP346",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.763",
+      "lon": "114.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP368",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Paku",
+      "en": "Kg. Sungai Paku",
+      "slug": "kg-sungai-paku-368"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP368",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC2145"
+    ],
+    "geo": {
+      "lat": "4.71",
+      "lon": "114.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP350",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Telamba",
+      "en": "Kg. Telamba",
+      "slug": "kg-telamba-350"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP350",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC1545"
+    ],
+    "geo": {
+      "lat": "4.73",
+      "lon": "114.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP323",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Telisai",
+      "en": "Kg. Telisai",
+      "slug": "kg-telisai-323"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP323",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC1145"
+    ],
+    "geo": {
+      "lat": "4.736",
+      "lon": "114.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33-KP969",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tumpuan Ugas",
+      "en": "Kg. Tumpuan Ugas",
+      "slug": "kg-tumpuan-ugas-969"
+    },
+    "code": {
+      "id": "BN-TU-MK33-KP969",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK33",
+      "level": 2,
+      "name": {
+        "local": "Mukim Telisai",
+        "en": "Telisai",
+        "slug": "telisai-bn-tu-mk33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK33",
+        "level": 2,
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TC2945"
+    ],
+    "geo": {
+      "lat": "4.755",
+      "lon": "114.581"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

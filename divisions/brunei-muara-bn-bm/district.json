@@ -1,0 +1,30 @@
+{
+  "id": "BN-BM",
+  "level": 1,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Brunei-Muara",
+    "en": "Brunei-Muara",
+    "slug": "brunei-muara-bn-bm"
+  },
+  "code": {
+    "id": "BN-BM",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "mukim": 19,
+    "kampong": 197
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.94",
+    "lon": "115.014"
+  },
+  "metadata": {},
+  "source": {}
+}

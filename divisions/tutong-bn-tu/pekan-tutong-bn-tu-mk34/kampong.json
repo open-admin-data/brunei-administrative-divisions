@@ -1,0 +1,730 @@
+[
+  {
+    "id": "BN-TU-MK34-KP335",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Bendera",
+      "en": "Bukit Bendera",
+      "slug": "bukit-bendera-335"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP335",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA1341"
+    ],
+    "geo": {
+      "lat": "4.814",
+      "lon": "114.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP330",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kandang",
+      "en": "Kg. Kandang",
+      "slug": "kg-kandang-330"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP330",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA3741"
+    ],
+    "geo": {
+      "lat": "4.796",
+      "lon": "114.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP967",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kuala Tutong",
+      "en": "Kg. Kuala Tutong",
+      "slug": "kg-kuala-tutong-967"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP967",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA3341"
+    ],
+    "geo": {
+      "lat": "4.782",
+      "lon": "114.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP333",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Panchor Dulit",
+      "en": "Kg. Panchor Dulit",
+      "slug": "kg-panchor-dulit-333"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP333",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA2141"
+    ],
+    "geo": {
+      "lat": "4.805",
+      "lon": "114.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP336",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Panchor Papan",
+      "en": "Kg. Panchor Papan",
+      "slug": "kg-panchor-papan-336"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP336",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA1941"
+    ],
+    "geo": {
+      "lat": "4.813",
+      "lon": "114.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP966",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Penabai",
+      "en": "Kg. Penabai",
+      "slug": "kg-penabai-966"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP966",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA3541"
+    ],
+    "geo": {
+      "lat": "4.796",
+      "lon": "114.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP963",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Penanjong",
+      "en": "Kg. Penanjong",
+      "slug": "kg-penanjong-963"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP963",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA2741"
+    ],
+    "geo": {
+      "lat": "4.839",
+      "lon": "114.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP332",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Petani",
+      "en": "Kg. Petani",
+      "slug": "kg-petani-332"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP332",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA1741"
+    ],
+    "geo": {
+      "lat": "4.806",
+      "lon": "114.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP334",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sengkarai",
+      "en": "Kg. Sengkarai",
+      "slug": "kg-sengkarai-334"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP334",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA2341"
+    ],
+    "geo": {
+      "lat": "4.805",
+      "lon": "114.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP331",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Serambangun",
+      "en": "Kg. Serambangun",
+      "slug": "kg-serambangun-331"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP331",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA2541"
+    ],
+    "geo": {
+      "lat": "4.791",
+      "lon": "114.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP338",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanah Burok",
+      "en": "Kg. Tanah Burok",
+      "slug": "kg-tanah-burok-338"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP338",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA2941"
+    ],
+    "geo": {
+      "lat": "4.827",
+      "lon": "114.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP340",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paya Pekan Tutong",
+      "en": "Paya Pekan Tutong",
+      "slug": "paya-pekan-tutong-340"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP340",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA3941"
+    ],
+    "geo": {
+      "lat": "4.787",
+      "lon": "114.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34-KP964",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tutong Kem",
+      "en": "Tutong Kem",
+      "slug": "tutong-kem-964"
+    },
+    "code": {
+      "id": "BN-TU-MK34-KP964",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK34",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pekan Tutong",
+        "en": "Pekan Tutong",
+        "slug": "pekan-tutong-bn-tu-mk34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK34",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TA3141"
+    ],
+    "geo": {
+      "lat": "4.83",
+      "lon": "114.669"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

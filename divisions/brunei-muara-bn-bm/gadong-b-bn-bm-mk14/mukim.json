@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK14",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Gadong B",
+    "en": "Gadong B",
+    "slug": "gadong-b-bn-bm-mk14"
+  },
+  "code": {
+    "id": "BN-BM-MK14",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.917",
+    "lon": "114.896"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "BN-TU-MK33",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Telisai",
+    "en": "Telisai",
+    "slug": "telisai-bn-tu-mk33"
+  },
+  "code": {
+    "id": "BN-TU-MK33",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-TU",
+    "level": 1,
+    "name": {
+      "local": "Tutong",
+      "en": "Tutong",
+      "slug": "tutong-bn-tu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.719",
+    "lon": "114.573"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "id": "BN-BM-MK09-KP033",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bakut Berumput",
+      "en": "Kg. Bakut Berumput",
+      "slug": "kg-bakut-berumput-33"
+    },
+    "code": {
+      "id": "BN-BM-MK09-KP033",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK09",
+      "level": 2,
+      "name": {
+        "local": "Mukim Peramu",
+        "en": "Peramu",
+        "slug": "peramu-bn-bm-mk09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK09",
+        "level": 2,
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BP2326"
+    ],
+    "geo": {
+      "lat": "4.885",
+      "lon": "114.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK09-KP034",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bakut Pengiran Siraja Muda A",
+      "en": "Kg. Bakut Pengiran Siraja Muda A",
+      "slug": "kg-bakut-pengiran-siraja-muda-a-34"
+    },
+    "code": {
+      "id": "BN-BM-MK09-KP034",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK09",
+      "level": 2,
+      "name": {
+        "local": "Mukim Peramu",
+        "en": "Peramu",
+        "slug": "peramu-bn-bm-mk09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK09",
+        "level": 2,
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.884",
+      "lon": "114.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK09-KP035",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bakut Pengiran Siraja Muda B",
+      "en": "Kg. Bakut Pengiran Siraja Muda B",
+      "slug": "kg-bakut-pengiran-siraja-muda-b-35"
+    },
+    "code": {
+      "id": "BN-BM-MK09-KP035",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK09",
+      "level": 2,
+      "name": {
+        "local": "Mukim Peramu",
+        "en": "Peramu",
+        "slug": "peramu-bn-bm-mk09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK09",
+        "level": 2,
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK09-KP082",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lurong Sikuna",
+      "en": "Kg. Lurong Sikuna",
+      "slug": "kg-lurong-sikuna-82"
+    },
+    "code": {
+      "id": "BN-BM-MK09-KP082",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK09",
+      "level": 2,
+      "name": {
+        "local": "Mukim Peramu",
+        "en": "Peramu",
+        "slug": "peramu-bn-bm-mk09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK09",
+        "level": 2,
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.884",
+      "lon": "114.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK09-KP103",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pekilong Muara",
+      "en": "Kg. Pekilong Muara",
+      "slug": "kg-pekilong-muara-103"
+    },
+    "code": {
+      "id": "BN-BM-MK09-KP103",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK09",
+      "level": 2,
+      "name": {
+        "local": "Mukim Peramu",
+        "en": "Peramu",
+        "slug": "peramu-bn-bm-mk09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK09",
+        "level": 2,
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BP1326"
+    ],
+    "geo": {
+      "lat": "4.881",
+      "lon": "114.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK09-KP112",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Peramu",
+      "en": "Kg. Peramu",
+      "slug": "kg-peramu-112"
+    },
+    "code": {
+      "id": "BN-BM-MK09-KP112",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK09",
+      "level": 2,
+      "name": {
+        "local": "Mukim Peramu",
+        "en": "Peramu",
+        "slug": "peramu-bn-bm-mk09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK09",
+        "level": 2,
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BP1126"
+    ],
+    "geo": {
+      "lat": "4.882",
+      "lon": "114.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK09-KP136",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Setia Pahlawan",
+      "en": "Kg. Setia Pahlawan",
+      "slug": "kg-setia-pahlawan-136"
+    },
+    "code": {
+      "id": "BN-BM-MK09-KP136",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK09",
+      "level": 2,
+      "name": {
+        "local": "Mukim Peramu",
+        "en": "Peramu",
+        "slug": "peramu-bn-bm-mk09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK09",
+        "level": 2,
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.945"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

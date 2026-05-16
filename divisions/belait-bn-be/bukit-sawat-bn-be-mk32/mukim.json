@@ -1,0 +1,47 @@
+{
+  "id": "BN-BE-MK32",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Bukit Sawat",
+    "en": "Bukit Sawat",
+    "slug": "bukit-sawat-bn-be-mk32"
+  },
+  "code": {
+    "id": "BN-BE-MK32",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BE",
+    "level": 1,
+    "name": {
+      "local": "Belait",
+      "en": "Belait",
+      "slug": "belait-bn-be"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.553",
+    "lon": "114.584"
+  },
+  "metadata": {},
+  "source": {}
+}

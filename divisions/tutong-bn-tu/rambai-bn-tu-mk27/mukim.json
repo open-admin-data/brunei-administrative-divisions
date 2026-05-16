@@ -1,0 +1,47 @@
+{
+  "id": "BN-TU-MK27",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Rambai",
+    "en": "Rambai",
+    "slug": "rambai-bn-tu-mk27"
+  },
+  "code": {
+    "id": "BN-TU-MK27",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-TU",
+    "level": 1,
+    "name": {
+      "local": "Tutong",
+      "en": "Tutong",
+      "slug": "tutong-bn-tu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.481",
+    "lon": "114.754"
+  },
+  "metadata": {},
+  "source": {}
+}

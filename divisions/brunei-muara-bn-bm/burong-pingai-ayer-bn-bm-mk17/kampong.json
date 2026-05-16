@@ -1,0 +1,440 @@
+[
+  {
+    "id": "BN-BM-MK17-KP054",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Burong Pingai Ayer",
+      "en": "Kg. Burong Pingai Ayer",
+      "slug": "kg-burong-pingai-ayer-54"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP054",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.876",
+      "lon": "114.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17-KP081",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lurong Dalam",
+      "en": "Kg. Lurong Dalam",
+      "slug": "kg-lurong-dalam-81"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP081",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BM1326"
+    ],
+    "geo": {
+      "lat": "4.88",
+      "lon": "114.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17-KP096",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pandai Besi A",
+      "en": "Kg. Pandai Besi A",
+      "slug": "kg-pandai-besi-a-96"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP096",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.882",
+      "lon": "114.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17-KP097",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pandai Besi B",
+      "en": "Kg. Pandai Besi B",
+      "slug": "kg-pandai-besi-b-97"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP097",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17-KP102",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pekan Lama",
+      "en": "Kg. Pekan Lama",
+      "slug": "kg-pekan-lama-102"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP102",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BM2526"
+    ],
+    "geo": {
+      "lat": "4.882",
+      "lon": "114.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17-KP108",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pengiran Setia Negara",
+      "en": "Kg. Pengiran Setia Negara",
+      "slug": "kg-pengiran-setia-negara-108"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP108",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BM2326"
+    ],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17-KP150",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Pandan A",
+      "en": "Kg. Sungai Pandan A",
+      "slug": "kg-sungai-pandan-a-150"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP150",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.881",
+      "lon": "114.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK17-KP151",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Pandan B",
+      "en": "Kg. Sungai Pandan B",
+      "slug": "kg-sungai-pandan-b-151"
+    },
+    "code": {
+      "id": "BN-BM-MK17-KP151",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK17",
+      "level": 2,
+      "name": {
+        "local": "Mukim Burong Pingai Ayer",
+        "en": "Burong Pingai Ayer",
+        "slug": "burong-pingai-ayer-bn-bm-mk17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK17",
+        "level": 2,
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.881",
+      "lon": "114.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

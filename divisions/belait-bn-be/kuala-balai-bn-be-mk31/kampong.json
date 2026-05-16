@@ -1,0 +1,716 @@
+[
+  {
+    "id": "BN-BE-MK31-KP299",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan Kuala Balai",
+      "en": "Hutan Simpan Kuala Balai",
+      "slug": "hutan-simpan-kuala-balai-299"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP299",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP287",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kajitan",
+      "en": "Kg. Kajitan",
+      "slug": "kg-kajitan-287"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP287",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KD2332"
+    ],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP288",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kuala Balai",
+      "en": "Kg. Kuala Balai",
+      "slug": "kg-kuala-balai-288"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP288",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KD1132"
+    ],
+    "geo": {
+      "lat": "4.455",
+      "lon": "114.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP290",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lubok Lanyap",
+      "en": "Kg. Lubok Lanyap",
+      "slug": "kg-lubok-lanyap-290"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP290",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP289",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lubok Tapang",
+      "en": "Kg. Lubok Tapang",
+      "slug": "kg-lubok-tapang-289"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP289",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP291",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pangalayan",
+      "en": "Kg. Pangalayan",
+      "slug": "kg-pangalayan-291"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP291",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP292",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Penyarap",
+      "en": "Kg. Penyarap",
+      "slug": "kg-penyarap-292"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP292",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KD2732"
+    ],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP293",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Damit",
+      "en": "Kg. Sungai Damit",
+      "slug": "kg-sungai-damit-293"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP293",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KD1532"
+    ],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP294",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Lutong",
+      "en": "Kg. Sungai Lutong",
+      "slug": "kg-sungai-lutong-294"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP294",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KD3532"
+    ],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP295",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Mendaram",
+      "en": "Kg. Sungai Mendaram",
+      "slug": "kg-sungai-mendaram-295"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP295",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP296",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanjong Rangas",
+      "en": "Kg. Tanjong Rangas",
+      "slug": "kg-tanjong-rangas-296"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP296",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP297",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanjong Sudai",
+      "en": "Kg. Tanjong Sudai",
+      "slug": "kg-tanjong-sudai-297"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP297",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31-KP298",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tugong",
+      "en": "Kg. Tugong",
+      "slug": "kg-tugong-298"
+    },
+    "code": {
+      "id": "BN-BE-MK31-KP298",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK31",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Balai",
+        "en": "Kuala Balai",
+        "slug": "kuala-balai-bn-be-mk31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK31",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KD1932"
+    ],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

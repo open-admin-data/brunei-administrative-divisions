@@ -1,0 +1,30 @@
+{
+  "id": "BN-TU",
+  "level": 1,
+  "level_name": {
+    "local": "Daerah",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tutong",
+    "en": "Tutong",
+    "slug": "tutong-bn-tu"
+  },
+  "code": {
+    "id": "BN-TU",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "mukim": 9,
+    "kampong": 84
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.585",
+    "lon": "114.682"
+  },
+  "metadata": {},
+  "source": {}
+}

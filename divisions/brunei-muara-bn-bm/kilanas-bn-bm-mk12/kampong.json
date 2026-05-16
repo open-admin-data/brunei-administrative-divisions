@@ -1,0 +1,612 @@
+[
+  {
+    "id": "BN-BM-MK12-KP043",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bengkurong",
+      "en": "Kg. Bengkurong",
+      "slug": "kg-bengkurong-43"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP043",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF1920"
+    ],
+    "geo": {
+      "lat": "4.847",
+      "lon": "114.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP051",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bunut",
+      "en": "Kg. Bunut",
+      "slug": "kg-bunut-51"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP051",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF1320"
+    ],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP052",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bunut Perpindahan",
+      "en": "Kg. Bunut Perpindahan",
+      "slug": "kg-bunut-perpindahan-52"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP052",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.851",
+      "lon": "114.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP053",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Burong Lepas",
+      "en": "Kg. Burong Lepas",
+      "slug": "kg-burong-lepas-53"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP053",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF1720"
+    ],
+    "geo": {
+      "lat": "4.827",
+      "lon": "114.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP059",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Jangsak",
+      "en": "Kg. Jangsak",
+      "slug": "kg-jangsak-59"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP059",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF2720"
+    ],
+    "geo": {
+      "lat": "4.88",
+      "lon": "114.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP067",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kilanas",
+      "en": "Kg. Kilanas",
+      "slug": "kg-kilanas-67"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP067",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF2520"
+    ],
+    "geo": {
+      "lat": "4.869",
+      "lon": "114.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP084",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Madewa",
+      "en": "Kg. Madewa",
+      "slug": "kg-madewa-84"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP084",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.858",
+      "lon": "114.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP138",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sinarubai",
+      "en": "Kg. Sinarubai",
+      "slug": "kg-sinarubai-138"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP138",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF2120"
+    ],
+    "geo": {
+      "lat": "4.838",
+      "lon": "114.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP158",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanjong Bunut",
+      "en": "Kg. Tanjong Bunut",
+      "slug": "kg-tanjong-bunut-158"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP158",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF2920"
+    ],
+    "geo": {
+      "lat": "4.892",
+      "lon": "114.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP163",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tasek Meradun",
+      "en": "Kg. Tasek Meradun",
+      "slug": "kg-tasek-meradun-163"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP163",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BF1520"
+    ],
+    "geo": {
+      "lat": "4.854",
+      "lon": "114.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK12-KP164",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Telanai",
+      "en": "Kg. Telanai",
+      "slug": "kg-telanai-164"
+    },
+    "code": {
+      "id": "BN-BM-MK12-KP164",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK12",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kilanas",
+        "en": "Kilanas",
+        "slug": "kilanas-bn-bm-mk12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK12",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.871",
+      "lon": "114.901"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

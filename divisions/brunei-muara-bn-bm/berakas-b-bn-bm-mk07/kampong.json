@@ -1,0 +1,670 @@
+[
+  {
+    "id": "BN-BM-MK07-KP083",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Madang",
+      "en": "Kg. Madang",
+      "slug": "kg-madang-83"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP083",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC3715"
+    ],
+    "geo": {
+      "lat": "4.954",
+      "lon": "114.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP085",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Manggis",
+      "en": "Kg. Manggis",
+      "slug": "kg-manggis-85"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP085",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.955",
+      "lon": "114.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP126",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Salambigar",
+      "en": "Kg. Salambigar",
+      "slug": "kg-salambigar-126"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP126",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC1515"
+    ],
+    "geo": {
+      "lat": "4.982",
+      "lon": "114.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP140",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Akar",
+      "en": "Kg. Sungai Akar",
+      "slug": "kg-sungai-akar-140"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP140",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC4115"
+    ],
+    "geo": {
+      "lat": "4.938",
+      "lon": "114.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP144",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Hanching",
+      "en": "Kg. Sungai Hanching",
+      "slug": "kg-sungai-hanching-144"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP144",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC2115"
+    ],
+    "geo": {
+      "lat": "4.965",
+      "lon": "114.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP149",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Orok",
+      "en": "Kg. Sungai Orok",
+      "slug": "kg-sungai-orok-149"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP149",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC1715"
+    ],
+    "geo": {
+      "lat": "4.975",
+      "lon": "114.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP153",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Tilong",
+      "en": "Kg. Sungai Tilong",
+      "slug": "kg-sungai-tilong-153"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP153",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.957",
+      "lon": "114.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP021",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lambak Kanan Kawasan 1",
+      "en": "Perumahan Negara Lambak Kanan Kawasan 1",
+      "slug": "perumahan-negara-lambak-kanan-kawasan-1-21"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP021",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC2315"
+    ],
+    "geo": {
+      "lat": "4.977",
+      "lon": "114.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP017",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lambak Kanan Kawasan 2",
+      "en": "Perumahan Negara Lambak Kanan Kawasan 2",
+      "slug": "perumahan-negara-lambak-kanan-kawasan-2-17"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP017",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC2515"
+    ],
+    "geo": {
+      "lat": "4.985",
+      "lon": "114.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP024",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lambak Kanan Kawasan 3",
+      "en": "Perumahan Negara Lambak Kanan Kawasan 3",
+      "slug": "perumahan-negara-lambak-kanan-kawasan-3-24"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP024",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC2715"
+    ],
+    "geo": {
+      "lat": "4.963",
+      "lon": "114.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP026",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lambak Kanan Kawasan 4",
+      "en": "Perumahan Negara Lambak Kanan Kawasan 4",
+      "slug": "perumahan-negara-lambak-kanan-kawasan-4-26"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP026",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC2915"
+    ],
+    "geo": {
+      "lat": "4.969",
+      "lon": "114.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK07-KP027",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Lambak Kanan Kawasan 5",
+      "en": "Perumahan Negara Lambak Kanan Kawasan 5",
+      "slug": "perumahan-negara-lambak-kanan-kawasan-5-27"
+    },
+    "code": {
+      "id": "BN-BM-MK07-KP027",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK07",
+      "level": 2,
+      "name": {
+        "local": "Mukim Berakas B",
+        "en": "Berakas B",
+        "slug": "berakas-b-bn-bm-mk07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK07",
+        "level": 2,
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BC3115"
+    ],
+    "geo": {
+      "lat": "4.978",
+      "lon": "114.96"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,834 @@
+[
+  {
+    "id": "BN-TE-MK02-KP213",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batu Apoi",
+      "en": "Kg. Batu Apoi",
+      "slug": "kg-batu-apoi-213"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP213",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC1151"
+    ],
+    "geo": {
+      "lat": "4.715",
+      "lon": "115.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP219",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Gadong Baru",
+      "en": "Kg. Gadong Baru",
+      "slug": "kg-gadong-baru-219"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP219",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC1951"
+    ],
+    "geo": {
+      "lat": "4.706",
+      "lon": "115.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP210",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lakiun",
+      "en": "Kg. Lakiun",
+      "slug": "kg-lakiun-210"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP210",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC2751"
+    ],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP217",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lamaling",
+      "en": "Kg. Lamaling",
+      "slug": "kg-lamaling-217"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP217",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC3151"
+    ],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP208",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Luagan",
+      "en": "Kg. Luagan",
+      "slug": "kg-luagan-208"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP208",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC2151"
+    ],
+    "geo": {
+      "lat": "4.817",
+      "lon": "114.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP211",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Negalang Ering",
+      "en": "Kg. Negalang Ering",
+      "slug": "kg-negalang-ering-211"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP211",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC2351"
+    ],
+    "geo": {
+      "lat": "4.727",
+      "lon": "115.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP209",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Negalang Unat",
+      "en": "Kg. Negalang Unat",
+      "slug": "kg-negalang-unat-209"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP209",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC2551"
+    ],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP214",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Peliunan Batu Apoi",
+      "en": "Kg. Peliunan Batu Apoi",
+      "slug": "kg-peliunan-batu-apoi-214"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP214",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP216",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Rebada",
+      "en": "Kg. Rebada",
+      "slug": "kg-rebada-216"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP216",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP221",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sekurop",
+      "en": "Kg. Sekurop",
+      "slug": "kg-sekurop-221"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP221",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC3551"
+    ],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP008",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Selapon",
+      "en": "Kg. Selapon",
+      "slug": "kg-selapon-8"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP008",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC3351"
+    ],
+    "geo": {
+      "lat": "4.708",
+      "lon": "115.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP212",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Selilit",
+      "en": "Kg. Selilit",
+      "slug": "kg-selilit-212"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP212",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP220",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Simbatang Batu Apoi",
+      "en": "Kg. Simbatang Batu Apoi",
+      "slug": "kg-simbatang-batu-apoi-220"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP220",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP218",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Radang",
+      "en": "Kg. Sungai Radang",
+      "slug": "kg-sungai-radang-218"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP218",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC1351"
+    ],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK02-KP215",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanjong Bungar",
+      "en": "Kg. Tanjong Bungar",
+      "slug": "kg-tanjong-bungar-215"
+    },
+    "code": {
+      "id": "BN-TE-MK02-KP215",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK02",
+      "level": 2,
+      "name": {
+        "local": "Mukim Batu Apoi",
+        "en": "Batu Apoi",
+        "slug": "batu-apoi-bn-te-mk02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK02",
+        "level": 2,
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PC2951"
+    ],
+    "geo": {
+      "lat": "4.658",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

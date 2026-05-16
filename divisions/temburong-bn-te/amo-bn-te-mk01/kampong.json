@@ -1,0 +1,612 @@
+[
+  {
+    "id": "BN-TE-MK01-KP007",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan Batu Apoi",
+      "en": "Hutan Simpan Batu Apoi",
+      "slug": "hutan-simpan-batu-apoi-7"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP007",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP002",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Amo",
+      "en": "Kg. Amo",
+      "slug": "kg-amo-2"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP002",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD1151"
+    ],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP005",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batang Duri",
+      "en": "Kg. Batang Duri",
+      "slug": "kg-batang-duri-5"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP005",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD1951"
+    ],
+    "geo": {
+      "lat": "4.645",
+      "lon": "115.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP182",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Belaban",
+      "en": "Kg. Belaban",
+      "slug": "kg-belaban-182"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP182",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD2451"
+    ],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP001",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Biang",
+      "en": "Kg. Biang",
+      "slug": "kg-biang-1"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP001",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD2551"
+    ],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP185",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Parit Amo",
+      "en": "Kg. Parit Amo",
+      "slug": "kg-parit-amo-185"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP185",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP184",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Selangan",
+      "en": "Kg. Selangan",
+      "slug": "kg-selangan-184"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP184",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD2751"
+    ],
+    "geo": {
+      "lat": "4.645",
+      "lon": "115.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP183",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sibulu",
+      "en": "Kg. Sibulu",
+      "slug": "kg-sibulu-183"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP183",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD2951"
+    ],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP003",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sibut",
+      "en": "Kg. Sibut",
+      "slug": "kg-sibut-3"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP003",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD2151"
+    ],
+    "geo": {
+      "lat": "4.762",
+      "lon": "114.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP004",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sumbiling Baru",
+      "en": "Kg. Sumbiling Baru",
+      "slug": "kg-sumbiling-baru-4"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP004",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PD1851"
+    ],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK01-KP006",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sumbiling Lama Amo",
+      "en": "Kg. Sumbiling Lama Amo",
+      "slug": "kg-sumbiling-lama-amo-6"
+    },
+    "code": {
+      "id": "BN-TE-MK01-KP006",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK01",
+      "level": 2,
+      "name": {
+        "local": "Mukim Amo",
+        "en": "Amo",
+        "slug": "amo-bn-te-mk01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK01",
+        "level": 2,
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.542",
+      "lon": "115.196"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

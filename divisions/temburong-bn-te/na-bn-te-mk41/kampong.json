@@ -1,0 +1,272 @@
+[
+  {
+    "id": "BN-TE-MK41-KP910",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Berbunut",
+      "en": "Pulau Berbunut",
+      "slug": "pulau-berbunut-910"
+    },
+    "code": {
+      "id": "BN-TE-MK41-KP910",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK41",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-te-mk41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK41",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-te-mk41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.89",
+      "lon": "115.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK41-KP926",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Selanjak",
+      "en": "Pulau Selanjak",
+      "slug": "pulau-selanjak-926"
+    },
+    "code": {
+      "id": "BN-TE-MK41-KP926",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK41",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-te-mk41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK41",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-te-mk41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.821",
+      "lon": "115.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK41-KP911",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Selirong",
+      "en": "Pulau Selirong",
+      "slug": "pulau-selirong-911"
+    },
+    "code": {
+      "id": "BN-TE-MK41-KP911",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK41",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-te-mk41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK41",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-te-mk41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.885",
+      "lon": "115.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK41-KP915",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Siarau",
+      "en": "Pulau Siarau",
+      "slug": "pulau-siarau-915"
+    },
+    "code": {
+      "id": "BN-TE-MK41-KP915",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK41",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-te-mk41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK41",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-te-mk41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.808",
+      "lon": "115.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK41-KP925",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Tarap",
+      "en": "Pulau Tarap",
+      "slug": "pulau-tarap-925"
+    },
+    "code": {
+      "id": "BN-TE-MK41-KP925",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK41",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-te-mk41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK41",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-te-mk41"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.832",
+      "lon": "115.073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

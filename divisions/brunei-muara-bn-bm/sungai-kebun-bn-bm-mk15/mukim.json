@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK15",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Sungai Kebun",
+    "en": "Sungai Kebun",
+    "slug": "sungai-kebun-bn-bm-mk15"
+  },
+  "code": {
+    "id": "BN-BM-MK15",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.87",
+    "lon": "114.944"
+  },
+  "metadata": {},
+  "source": {}
+}

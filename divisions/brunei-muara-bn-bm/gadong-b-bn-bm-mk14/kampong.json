@@ -1,0 +1,560 @@
+[
+  {
+    "id": "BN-BM-MK14-KP045",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Beribi",
+      "en": "Kg. Beribi",
+      "slug": "kg-beribi-45"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP045",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE1118"
+    ],
+    "geo": {
+      "lat": "4.884",
+      "lon": "114.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP066",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kiarong",
+      "en": "Kg. Kiarong",
+      "slug": "kg-kiarong-66"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP066",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE1318"
+    ],
+    "geo": {
+      "lat": "4.895",
+      "lon": "114.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP068",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kiulap",
+      "en": "Kg. Kiulap",
+      "slug": "kg-kiulap-68"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP068",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE1518"
+    ],
+    "geo": {
+      "lat": "4.897",
+      "lon": "114.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP087",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Mata-Mata",
+      "en": "Kg. Mata-Mata",
+      "slug": "kg-mata-mata-87"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP087",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE1718"
+    ],
+    "geo": {
+      "lat": "4.9",
+      "lon": "114.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP089",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Menglait",
+      "en": "Kg. Menglait",
+      "slug": "kg-menglait-89"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP089",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE3919"
+    ],
+    "geo": {
+      "lat": "4.91",
+      "lon": "114.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP099",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pangkalan Gadong",
+      "en": "Kg. Pangkalan Gadong",
+      "slug": "kg-pangkalan-gadong-99"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP099",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.908",
+      "lon": "114.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP246",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Perpindahan Mata-Mata",
+      "en": "Kg. Perpindahan Mata-Mata",
+      "slug": "kg-perpindahan-mata-mata-246"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP246",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE1918"
+    ],
+    "geo": {
+      "lat": "4.9",
+      "lon": "114.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP248",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Mata-Mata Kawasan 1",
+      "en": "STKRJ Mata-Mata Kawasan 1",
+      "slug": "stkrj-mata-mata-kawasan-1-248"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP248",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE4119"
+    ],
+    "geo": {
+      "lat": "4.895",
+      "lon": "114.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP245",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Mata-Mata Kawasan 2",
+      "en": "STKRJ Mata-Mata Kawasan 2",
+      "slug": "stkrj-mata-mata-kawasan-2-245"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP245",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE4319"
+    ],
+    "geo": {
+      "lat": "4.904",
+      "lon": "114.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK14-KP247",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Mata-Mata Kawasan 3",
+      "en": "STKRJ Mata-Mata Kawasan 3",
+      "slug": "stkrj-mata-mata-kawasan-3-247"
+    },
+    "code": {
+      "id": "BN-BM-MK14-KP247",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK14",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong B",
+        "en": "Gadong B",
+        "slug": "gadong-b-bn-bm-mk14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK14",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE4519"
+    ],
+    "geo": {
+      "lat": "4.896",
+      "lon": "114.874"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

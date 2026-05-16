@@ -1,0 +1,782 @@
+[
+  {
+    "id": "BN-BM-MK10-KP036",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batang Perhentian",
+      "en": "Kg. Batang Perhentian",
+      "slug": "kg-batang-perhentian-36"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP036",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH1523"
+    ],
+    "geo": {
+      "lat": "4.763",
+      "lon": "114.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP037",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batong",
+      "en": "Kg. Batong",
+      "slug": "kg-batong-37"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP037",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH2923"
+    ],
+    "geo": {
+      "lat": "4.82",
+      "lon": "114.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP038",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batu Ampar",
+      "en": "Kg. Batu Ampar",
+      "slug": "kg-batu-ampar-38"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP038",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH1323"
+    ],
+    "geo": {
+      "lat": "4.781",
+      "lon": "114.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP040",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bebatik",
+      "en": "Kg. Bebatik",
+      "slug": "kg-bebatik-40"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP040",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH3223"
+    ],
+    "geo": {
+      "lat": "4.852",
+      "lon": "114.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP041",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bebuloh",
+      "en": "Kg. Bebuloh",
+      "slug": "kg-bebuloh-41"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP041",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH3323"
+    ],
+    "geo": {
+      "lat": "4.742",
+      "lon": "114.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP058",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Imang",
+      "en": "Kg. Imang",
+      "slug": "kg-imang-58"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP058",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH3423"
+    ],
+    "geo": {
+      "lat": "4.79",
+      "lon": "114.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP062",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Junjongan",
+      "en": "Kg. Junjongan",
+      "slug": "kg-junjongan-62"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP062",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH2123"
+    ],
+    "geo": {
+      "lat": "4.81",
+      "lon": "114.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP238",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kuala Lurah",
+      "en": "Kg. Kuala Lurah",
+      "slug": "kg-kuala-lurah-238"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP238",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH1923"
+    ],
+    "geo": {
+      "lat": "4.751",
+      "lon": "114.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP076",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Limau Manis",
+      "en": "Kg. Limau Manis",
+      "slug": "kg-limau-manis-76"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP076",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH2323"
+    ],
+    "geo": {
+      "lat": "4.768",
+      "lon": "114.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP086",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Masin",
+      "en": "Kg. Masin",
+      "slug": "kg-masin-86"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP086",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH2723"
+    ],
+    "geo": {
+      "lat": "4.83",
+      "lon": "114.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP095",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Panchor Murai",
+      "en": "Kg. Panchor Murai",
+      "slug": "kg-panchor-murai-95"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP095",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH3123"
+    ],
+    "geo": {
+      "lat": "4.804",
+      "lon": "114.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP098",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pangkalan Batu",
+      "en": "Kg. Pangkalan Batu",
+      "slug": "kg-pangkalan-batu-98"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP098",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.864",
+      "lon": "114.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP178",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Parit Pangkalan Batu",
+      "en": "Kg. Parit Pangkalan Batu",
+      "slug": "kg-parit-pangkalan-batu-178"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP178",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.864",
+      "lon": "114.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK10-KP172",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Wasan",
+      "en": "Kg. Wasan",
+      "slug": "kg-wasan-172"
+    },
+    "code": {
+      "id": "BN-BM-MK10-KP172",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK10",
+      "level": 2,
+      "name": {
+        "local": "Mukim Pangkalan Batu",
+        "en": "Pangkalan Batu",
+        "slug": "pangkalan-batu-bn-bm-mk10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK10",
+        "level": 2,
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BH2523"
+    ],
+    "geo": {
+      "lat": "4.774",
+      "lon": "114.802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK06",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Berakas A",
+    "en": "Berakas A",
+    "slug": "berakas-a-bn-bm-mk06"
+  },
+  "code": {
+    "id": "BN-BM-MK06",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.951",
+    "lon": "114.938"
+  },
+  "metadata": {},
+  "source": {}
+}

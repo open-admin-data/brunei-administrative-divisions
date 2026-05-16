@@ -1,0 +1,500 @@
+[
+  {
+    "id": "BN-BM-MK08-KP039",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batu Marang",
+      "en": "Kg. Batu Marang",
+      "slug": "kg-batu-marang-39"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP039",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BU1529"
+    ],
+    "geo": {
+      "lat": "4.987",
+      "lon": "115.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP090",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Mentiri",
+      "en": "Kg. Mentiri",
+      "slug": "kg-mentiri-90"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP090",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BU1929"
+    ],
+    "geo": {
+      "lat": "4.971",
+      "lon": "115.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP180",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Panchor Mentiri",
+      "en": "Kg. Panchor Mentiri",
+      "slug": "kg-panchor-mentiri-180"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP180",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.98",
+      "lon": "115.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP100",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pangkalan Sibabau",
+      "en": "Kg. Pangkalan Sibabau",
+      "slug": "kg-pangkalan-sibabau-100"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP100",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.956",
+      "lon": "115.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP127",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Salar",
+      "en": "Kg. Salar",
+      "slug": "kg-salar-127"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP127",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BU1429"
+    ],
+    "geo": {
+      "lat": "5.003",
+      "lon": "115.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP264",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Buloh",
+      "en": "Kg. Sungai Buloh",
+      "slug": "kg-sungai-buloh-264"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP264",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BU1229"
+    ],
+    "geo": {
+      "lat": "4.989",
+      "lon": "115.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP959",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanah Jambu",
+      "en": "Kg. Tanah Jambu",
+      "slug": "kg-tanah-jambu-959"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP959",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BU1129"
+    ],
+    "geo": {
+      "lat": "4.996",
+      "lon": "115.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP029",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Mentiri Kawasan A",
+      "en": "Perumahan Negara Mentiri Kawasan A",
+      "slug": "perumahan-negara-mentiri-kawasan-a-29"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP029",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.973",
+      "lon": "115.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK08-KP030",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Mentiri Kawasan B",
+      "en": "Perumahan Negara Mentiri Kawasan B",
+      "slug": "perumahan-negara-mentiri-kawasan-b-30"
+    },
+    "code": {
+      "id": "BN-BM-MK08-KP030",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK08",
+      "level": 2,
+      "name": {
+        "local": "Mukim Mentiri",
+        "en": "Mentiri",
+        "slug": "mentiri-bn-bm-mk08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK08",
+        "level": 2,
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BU2229"
+    ],
+    "geo": {
+      "lat": "4.969",
+      "lon": "115.026"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

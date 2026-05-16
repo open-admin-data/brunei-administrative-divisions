@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK17",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Burong Pingai Ayer",
+    "en": "Burong Pingai Ayer",
+    "slug": "burong-pingai-ayer-bn-bm-mk17"
+  },
+  "code": {
+    "id": "BN-BM-MK17",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.872",
+    "lon": "114.929"
+  },
+  "metadata": {},
+  "source": {}
+}

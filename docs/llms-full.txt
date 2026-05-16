@@ -1,0 +1,19 @@
+# Brunei Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Per-District Data Files
+
+- [Belait](https://github.com/open-admin-data/brunei-administrative-divisions/blob/main/docs/llms-full/belait-bn-be.txt) — 8 subdistricts, 83 villages
+- [Tutong](https://github.com/open-admin-data/brunei-administrative-divisions/blob/main/docs/llms-full/tutong-bn-tu.txt) — 9 subdistricts, 84 villages
+- [Brunei-Muara](https://github.com/open-admin-data/brunei-administrative-divisions/blob/main/docs/llms-full/brunei-muara-bn-bm.txt) — 19 subdistricts, 197 villages
+- [Temburong](https://github.com/open-admin-data/brunei-administrative-divisions/blob/main/docs/llms-full/temburong-bn-te.txt) — 6 subdistricts, 74 villages
+
+## Summary
+
+| District | Subdistricts | Villages | 
+|---|---|---|
+| Belait | 8 | 83 | 
+| Tutong | 9 | 84 | 
+| Brunei-Muara | 19 | 197 | 
+| Temburong | 6 | 74 | 

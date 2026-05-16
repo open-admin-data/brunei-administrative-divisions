@@ -1,0 +1,278 @@
+[
+  {
+    "id": "BN-BM-MK22-KP120",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Saba Darat A",
+      "en": "Kg. Saba Darat A",
+      "slug": "kg-saba-darat-a-120"
+    },
+    "code": {
+      "id": "BN-BM-MK22-KP120",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK22",
+      "level": 2,
+      "name": {
+        "local": "Mukim Saba",
+        "en": "Saba",
+        "slug": "saba-bn-bm-mk22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK22",
+        "level": 2,
+        "name": {
+          "local": "Mukim Saba",
+          "en": "Saba",
+          "slug": "saba-bn-bm-mk22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK22-KP121",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Saba Darat B",
+      "en": "Kg. Saba Darat B",
+      "slug": "kg-saba-darat-b-121"
+    },
+    "code": {
+      "id": "BN-BM-MK22-KP121",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK22",
+      "level": 2,
+      "name": {
+        "local": "Mukim Saba",
+        "en": "Saba",
+        "slug": "saba-bn-bm-mk22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK22",
+        "level": 2,
+        "name": {
+          "local": "Mukim Saba",
+          "en": "Saba",
+          "slug": "saba-bn-bm-mk22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.88",
+      "lon": "114.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK22-KP122",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Saba Laut",
+      "en": "Kg. Saba Laut",
+      "slug": "kg-saba-laut-122"
+    },
+    "code": {
+      "id": "BN-BM-MK22-KP122",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK22",
+      "level": 2,
+      "name": {
+        "local": "Mukim Saba",
+        "en": "Saba",
+        "slug": "saba-bn-bm-mk22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK22",
+        "level": 2,
+        "name": {
+          "local": "Mukim Saba",
+          "en": "Saba",
+          "slug": "saba-bn-bm-mk22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BR1126"
+    ],
+    "geo": {
+      "lat": "4.885",
+      "lon": "114.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK22-KP123",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Saba Tengah",
+      "en": "Kg. Saba Tengah",
+      "slug": "kg-saba-tengah-123"
+    },
+    "code": {
+      "id": "BN-BM-MK22-KP123",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK22",
+      "level": 2,
+      "name": {
+        "local": "Mukim Saba",
+        "en": "Saba",
+        "slug": "saba-bn-bm-mk22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK22",
+        "level": 2,
+        "name": {
+          "local": "Mukim Saba",
+          "en": "Saba",
+          "slug": "saba-bn-bm-mk22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BR1926"
+    ],
+    "geo": {
+      "lat": "4.884",
+      "lon": "114.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK22-KP124",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Saba Ujong",
+      "en": "Kg. Saba Ujong",
+      "slug": "kg-saba-ujong-124"
+    },
+    "code": {
+      "id": "BN-BM-MK22-KP124",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK22",
+      "level": 2,
+      "name": {
+        "local": "Mukim Saba",
+        "en": "Saba",
+        "slug": "saba-bn-bm-mk22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK22",
+        "level": 2,
+        "name": {
+          "local": "Mukim Saba",
+          "en": "Saba",
+          "slug": "saba-bn-bm-mk22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BR1726"
+    ],
+    "geo": {
+      "lat": "4.884",
+      "lon": "114.948"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

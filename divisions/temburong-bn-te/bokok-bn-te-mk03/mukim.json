@@ -1,0 +1,47 @@
+{
+  "id": "BN-TE-MK03",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Bokok",
+    "en": "Bokok",
+    "slug": "bokok-bn-te-mk03"
+  },
+  "code": {
+    "id": "BN-TE-MK03",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-TE",
+    "level": 1,
+    "name": {
+      "local": "Temburong",
+      "en": "Temburong",
+      "slug": "temburong-bn-te"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.624",
+    "lon": "115.129"
+  },
+  "metadata": {},
+  "source": {}
+}

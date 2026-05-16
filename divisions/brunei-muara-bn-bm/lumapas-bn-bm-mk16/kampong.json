@@ -1,0 +1,666 @@
+[
+  {
+    "id": "BN-BM-MK16-KP262",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Baong",
+      "en": "Kg. Baong",
+      "slug": "kg-baong-262"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP262",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ1424"
+    ],
+    "geo": {
+      "lat": "4.83",
+      "lon": "114.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP048",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Buang Sakar",
+      "en": "Kg. Buang Sakar",
+      "slug": "kg-buang-sakar-48"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP048",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ1924"
+    ],
+    "geo": {
+      "lat": "4.858",
+      "lon": "114.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP050",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Buang Tekurok",
+      "en": "Kg. Buang Tekurok",
+      "slug": "kg-buang-tekurok-50"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP050",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ2924"
+    ],
+    "geo": {
+      "lat": "4.867",
+      "lon": "114.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP261",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kasat",
+      "en": "Kg. Kasat",
+      "slug": "kg-kasat-261"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP261",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ1724"
+    ],
+    "geo": {
+      "lat": "4.823",
+      "lon": "114.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP259",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kilugus",
+      "en": "Kg. Kilugus",
+      "slug": "kg-kilugus-259"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP259",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.836",
+      "lon": "114.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP079",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lumapas",
+      "en": "Kg. Lumapas",
+      "slug": "kg-lumapas-79"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP079",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.827",
+      "lon": "114.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP080",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lupak Luas",
+      "en": "Kg. Lupak Luas",
+      "slug": "kg-lupak-luas-80"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP080",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ2524"
+    ],
+    "geo": {
+      "lat": "4.87",
+      "lon": "114.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP257",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Panchor Lumapas",
+      "en": "Kg. Panchor Lumapas",
+      "slug": "kg-panchor-lumapas-257"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP257",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.864",
+      "lon": "114.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP117",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Putat",
+      "en": "Kg. Putat",
+      "slug": "kg-putat-117"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP117",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ1324"
+    ],
+    "geo": {
+      "lat": "4.834",
+      "lon": "114.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP141",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Asam",
+      "en": "Kg. Sungai Asam",
+      "slug": "kg-sungai-asam-141"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP141",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ2724"
+    ],
+    "geo": {
+      "lat": "4.841",
+      "lon": "114.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP161",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tarap Bau",
+      "en": "Kg. Tarap Bau",
+      "slug": "kg-tarap-bau-161"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP161",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BJ2124"
+    ],
+    "geo": {
+      "lat": "4.869",
+      "lon": "114.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK16-KP258",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Lumapas Kawasan 1",
+      "en": "STKRJ Lumapas Kawasan 1",
+      "slug": "stkrj-lumapas-kawasan-1-258"
+    },
+    "code": {
+      "id": "BN-BM-MK16-KP258",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK16",
+      "level": 2,
+      "name": {
+        "local": "Mukim Lumapas",
+        "en": "Lumapas",
+        "slug": "lumapas-bn-bm-mk16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK16",
+        "level": 2,
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.843",
+      "lon": "114.916"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

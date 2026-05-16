@@ -1,0 +1,390 @@
+# Tutong — Brunei Administrative Divisions
+
+> 9 subdistricts, 84 villages
+> Code: BN-TU
+> Coordinates: 4.585, 114.682
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Subdistricts
+
+### Mukim Keriam (Keriam)
+
+Code: BN-TU-MK04, Coordinates: 4.849, 114.767
+Villages: 9
+
+#### Kawasan Padang Tembak Binturan
+
+Code: BN-TU-MK04-KP962, Coordinates: 4.849, 114.767
+
+#### Kg. Bukit Panggal
+
+Code: BN-TU-MK04-KP325, Postal: TB1341, Coordinates: 4.828, 114.726
+
+#### Kg. Ikas
+
+Code: BN-TU-MK04-KP014, Postal: TB3341, Coordinates: 4.865, 114.795
+
+#### Kg. Keriam
+
+Code: BN-TU-MK04-KP327, Postal: TB1141, Coordinates: 4.816, 114.694
+
+#### Kg. Kupang
+
+Code: BN-TU-MK04-KP241, Postal: TB2941, Coordinates: 4.843, 114.795
+
+#### Kg. Luagan Dudok
+
+Code: BN-TU-MK04-KP324, Coordinates: 4.817, 114.73
+
+#### Kg. Maraburong
+
+Code: BN-TU-MK04-KP240, Postal: TB3141, Coordinates: 4.823, 114.78
+
+#### Kg. Sinaut
+
+Code: BN-TU-MK04-KP326, Postal: TB1741, Coordinates: 4.816, 114.746
+
+#### Kg. Sungai Kelugos
+
+Code: BN-TU-MK04-KP242, Postal: TB2741, Coordinates: 4.805, 114.765
+
+### Mukim Kiudang (Kiudang)
+
+Code: BN-TU-MK25, Coordinates: 4.753, 114.763
+Villages: 9
+
+#### Kg. Bakiau
+
+Code: BN-TU-MK25-KP341, Postal: TE1143, Coordinates: 4.768, 114.732
+
+#### Kg. Batang Mitus
+
+Code: BN-TU-MK25-KP244, Postal: TE2543, Coordinates: 4.754, 114.76
+
+#### Kg. Birau
+
+Code: BN-TU-MK25-KP243, Postal: TE2143, Coordinates: 4.784, 114.757
+
+#### Kg. Kebia
+
+Code: BN-TU-MK25-KP352, Postal: TE2743, Coordinates: 4.771, 114.745
+
+#### Kg. Kiudang
+
+Code: BN-TU-MK25-KP342, Postal: TE1543, Coordinates: 4.743, 114.737
+
+#### Kg. Luagan Timbaran
+
+Code: BN-TU-MK25-KP265, Coordinates: 4.8, 114.768
+
+#### Kg. Mungkom
+
+Code: BN-TU-MK25-KP344, Postal: TE1743, Coordinates: 4.725, 114.751
+
+#### Kg. Pad Nunok
+
+Code: BN-TU-MK25-KP343, Postal: TE1943, Coordinates: 4.717, 114.729
+
+#### Kg. Pangkalan Mau
+
+Code: BN-TU-MK25-KP351, Coordinates: 4.758, 114.74
+
+### Mukim Lamunin (Lamunin)
+
+Code: BN-TU-MK28, Coordinates: 4.677, 114.698
+Villages: 11
+
+#### Hutan Simpan Bukit Ladan
+
+Code: BN-TU-MK28-KP415, Coordinates: 4.677, 114.698
+
+#### Kg. Bintudoh
+
+Code: BN-TU-MK28-KP274, Postal: TG2943, Coordinates: 4.669, 114.72
+
+#### Kg. Biong
+
+Code: BN-TU-MK28-KP273, Postal: TG3343, Coordinates: 4.669, 114.692
+
+#### Kg. Bukit Bang Dalam
+
+Code: BN-TU-MK28-KP275, Postal: TG3543, Coordinates: 4.657, 114.727
+
+#### Kg. Bukit Barun
+
+Code: BN-TU-MK28-KP355, Postal: TG3743, Coordinates: 4.696, 114.699
+
+#### Kg. Bukit Sulang
+
+Code: BN-TU-MK28-KP279, Postal: TG2743, Coordinates: 4.658, 114.737
+
+#### Kg. Kuala Abang
+
+Code: BN-TU-MK28-KP353, Postal: TG1343, Coordinates: 4.697, 114.678
+
+#### Kg. Lamunin
+
+Code: BN-TU-MK28-KP354, Postal: TG2343, Coordinates: 4.682, 114.715
+
+#### Kg. Layong
+
+Code: BN-TU-MK28-KP272, Postal: TG1143, Coordinates: 4.689, 114.677
+
+#### Kg. Menengah Lamunin
+
+Code: BN-TU-MK28-KP280, Coordinates: 4.657, 114.727
+
+#### Kg. Panchung
+
+Code: BN-TU-MK28-KP414, Postal: TG3143, Coordinates: 4.677, 114.698
+
+### NA
+
+Code: BN-TU-MK42, Coordinates: 4.856, 114.872
+Villages: 2
+
+#### Pulau Bakuku
+
+Code: BN-TU-MK42-KP921, Coordinates: 4.787, 114.627
+
+#### Pulau Setawat
+
+Code: BN-TU-MK42-KP933, Coordinates: 4.774, 114.606
+
+### Mukim Pekan Tutong (Pekan Tutong)
+
+Code: BN-TU-MK34, Coordinates: 4.805, 114.684
+Villages: 13
+
+#### Bukit Bendera
+
+Code: BN-TU-MK34-KP335, Postal: TA1341, Coordinates: 4.814, 114.662
+
+#### Kg. Kandang
+
+Code: BN-TU-MK34-KP330, Postal: TA3741, Coordinates: 4.796, 114.643
+
+#### Kg. Kuala Tutong
+
+Code: BN-TU-MK34-KP967, Postal: TA3341, Coordinates: 4.782, 114.609
+
+#### Kg. Panchor Dulit
+
+Code: BN-TU-MK34-KP333, Postal: TA2141, Coordinates: 4.805, 114.666
+
+#### Kg. Panchor Papan
+
+Code: BN-TU-MK34-KP336, Postal: TA1941, Coordinates: 4.813, 114.674
+
+#### Kg. Penabai
+
+Code: BN-TU-MK34-KP966, Postal: TA3541, Coordinates: 4.796, 114.626
+
+#### Kg. Penanjong
+
+Code: BN-TU-MK34-KP963, Postal: TA2741, Coordinates: 4.839, 114.681
+
+#### Kg. Petani
+
+Code: BN-TU-MK34-KP332, Postal: TA1741, Coordinates: 4.806, 114.654
+
+#### Kg. Sengkarai
+
+Code: BN-TU-MK34-KP334, Postal: TA2341, Coordinates: 4.805, 114.646
+
+#### Kg. Serambangun
+
+Code: BN-TU-MK34-KP331, Postal: TA2541, Coordinates: 4.791, 114.648
+
+#### Kg. Tanah Burok
+
+Code: BN-TU-MK34-KP338, Postal: TA2941, Coordinates: 4.827, 114.677
+
+#### Paya Pekan Tutong
+
+Code: BN-TU-MK34-KP340, Postal: TA3941, Coordinates: 4.787, 114.689
+
+#### Tutong Kem
+
+Code: BN-TU-MK34-KP964, Postal: TA3141, Coordinates: 4.83, 114.669
+
+### Mukim Rambai (Rambai)
+
+Code: BN-TU-MK27, Coordinates: 4.481, 114.754
+Villages: 10
+
+#### Hutan Simpan Bukit Ladan
+
+Code: BN-TU-MK27-KP267, Coordinates: 4.481, 114.754
+
+#### Kg. Bedawan
+
+Code: BN-TU-MK27-KP270, Postal: TH3949, Coordinates: 4.481, 114.754
+
+#### Kg. Belabau
+
+Code: BN-TU-MK27-KP271, Postal: TH4149, Coordinates: 4.481, 114.754
+
+#### Kg. Benutan
+
+Code: BN-TU-MK27-KP413, Postal: TH1749, Coordinates: 4.601, 114.719
+
+#### Kg. Kuala Ungar
+
+Code: BN-TU-MK27-KP408, Postal: TH1549, Coordinates: 4.657, 114.727
+
+#### Kg. Lalipo
+
+Code: BN-TU-MK27-KP268, Postal: TH3749, Coordinates: 4.481, 114.754
+
+#### Kg. Merimbun
+
+Code: BN-TU-MK27-KP406, Postal: TH1349, Coordinates: 4.763, 114.653
+
+#### Kg. Rambai
+
+Code: BN-TU-MK27-KP407, Postal: TH1149, Coordinates: 4.761, 114.656
+
+#### Kg. Supon Besar
+
+Code: BN-TU-MK27-KP403, Postal: TH3149, Coordinates: 4.481, 114.754
+
+#### Kg. Supon Kechil
+
+Code: BN-TU-MK27-KP269, Coordinates: 4.481, 114.754
+
+### Mukim Tanjong Maya (Tanjong Maya)
+
+Code: BN-TU-MK35, Coordinates: 4.732, 114.648
+Villages: 11
+
+#### Kg. Bangunggos
+
+Code: BN-TU-MK35-KP360, Coordinates: 4.735, 114.658
+
+#### Kg. Bukit Sibut
+
+Code: BN-TU-MK35-KP367, Postal: TD2741, Coordinates: 4.762, 114.662
+
+#### Kg. Bukit Udal
+
+Code: BN-TU-MK35-KP402, Postal: TD2341, Coordinates: 4.731, 114.651
+
+#### Kg. Liulon
+
+Code: BN-TU-MK35-KP359, Postal: TD2941, Coordinates: 4.758, 114.653
+
+#### Kg. Lubok Pulau
+
+Code: BN-TU-MK35-KP364, Postal: TD2541, Coordinates: 4.764, 114.664
+
+#### Kg. Padang
+
+Code: BN-TU-MK35-KP366, Postal: TD3141, Coordinates: 4.757, 114.625
+
+#### Kg. Pemadang
+
+Code: BN-TU-MK35-KP363, Postal: TD1941, Coordinates: 4.705, 114.67
+
+#### Kg. Penapar
+
+Code: BN-TU-MK35-KP362, Postal: TD1741, Coordinates: 4.719, 114.669
+
+#### Kg. Sebakit
+
+Code: BN-TU-MK35-KP361, Postal: TD1341, Coordinates: 4.739, 114.667
+
+#### Kg. Tanjong Maya
+
+Code: BN-TU-MK35-KP365, Postal: TD1141, Coordinates: 4.749, 114.665
+
+#### Kg. Tanjong Panjang
+
+Code: BN-TU-MK35-KP358, Postal: TD3341, Coordinates: 4.782, 114.657
+
+### Mukim Telisai (Telisai)
+
+Code: BN-TU-MK33, Coordinates: 4.719, 114.573
+Villages: 12
+
+#### Kg. Binchaya
+
+Code: BN-TU-MK33-KP347, Postal: TC3545, Coordinates: 4.706, 114.58
+
+#### Kg. Bukit Beruang
+
+Code: BN-TU-MK33-KP348, Postal: TC3145, Coordinates: 4.735, 114.607
+
+#### Kg. Bukit Pasir
+
+Code: BN-TU-MK33-KP349, Coordinates: 4.733, 114.59
+
+#### Kg. Danau
+
+Code: BN-TU-MK33-KP968, Postal: TC2345, Coordinates: 4.764, 114.589
+
+#### Kg. Keramut
+
+Code: BN-TU-MK33-KP369, Postal: TC2745, Coordinates: 4.749, 114.581
+
+#### Kg. Panapar-Danau
+
+Code: BN-TU-MK33-KP345, Coordinates: 4.749, 114.574
+
+#### Kg. Pangkalan Dalai
+
+Code: BN-TU-MK33-KP322, Postal: TC3745, Coordinates: 4.689, 114.545
+
+#### Kg. Penyatang
+
+Code: BN-TU-MK33-KP346, Coordinates: 4.763, 114.606
+
+#### Kg. Sungai Paku
+
+Code: BN-TU-MK33-KP368, Postal: TC2145, Coordinates: 4.71, 114.532
+
+#### Kg. Telamba
+
+Code: BN-TU-MK33-KP350, Postal: TC1545, Coordinates: 4.73, 114.567
+
+#### Kg. Telisai
+
+Code: BN-TU-MK33-KP323, Postal: TC1145, Coordinates: 4.736, 114.563
+
+#### Kg. Tumpuan Ugas
+
+Code: BN-TU-MK33-KP969, Postal: TC2945, Coordinates: 4.755, 114.581
+
+### Mukim Ukong (Ukong)
+
+Code: BN-TU-MK38, Coordinates: 4.621, 114.633
+Villages: 7
+
+#### Hutan Simpan Andulau
+
+Code: BN-TU-MK38-KP401, Coordinates: 4.621, 114.633
+
+#### Kg. Bukit
+
+Code: BN-TU-MK38-KP409, Postal: TF3147, Coordinates: 4.816, 114.655
+
+#### Kg. Long Mayan
+
+Code: BN-TU-MK38-KP404, Postal: TF4747, Coordinates: 4.621, 114.633
+
+#### Kg. Pak Bidang
+
+Code: BN-TU-MK38-KP405, Postal: TF2947, Coordinates: 4.698, 114.649
+
+#### Kg. Pangkalan Ra&#39;an
+
+Code: BN-TU-MK38-KP412, Coordinates: 4.621, 114.633
+
+#### Kg. Sungai Damit Pemadang
+
+Code: BN-TU-MK38-KP411, Postal: TF2147, Coordinates: 4.621, 114.633
+
+#### Kg. Ukong
+
+Code: BN-TU-MK38-KP410, Postal: TF1147, Coordinates: 4.708, 114.672
+

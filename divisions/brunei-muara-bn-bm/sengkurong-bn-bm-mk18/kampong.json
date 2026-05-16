@@ -1,0 +1,670 @@
+[
+  {
+    "id": "BN-BM-MK18-KP061",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Jerudong",
+      "en": "Kg. Jerudong",
+      "slug": "kg-jerudong-61"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP061",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG3122"
+    ],
+    "geo": {
+      "lat": "4.938",
+      "lon": "114.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP064",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Katimahar",
+      "en": "Kg. Katimahar",
+      "slug": "kg-katimahar-64"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP064",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG2721"
+    ],
+    "geo": {
+      "lat": "4.868",
+      "lon": "114.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP071",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kulapis",
+      "en": "Kg. Kulapis",
+      "slug": "kg-kulapis-71"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP071",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG2521"
+    ],
+    "geo": {
+      "lat": "4.858",
+      "lon": "114.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP078",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lugu",
+      "en": "Kg. Lugu",
+      "slug": "kg-lugu-78"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP078",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG2921"
+    ],
+    "geo": {
+      "lat": "4.881",
+      "lon": "114.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP092",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Mulaut",
+      "en": "Kg. Mulaut",
+      "slug": "kg-mulaut-92"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP092",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG2121"
+    ],
+    "geo": {
+      "lat": "4.869",
+      "lon": "114.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP101",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pasai",
+      "en": "Kg. Pasai",
+      "slug": "kg-pasai-101"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP101",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG1221"
+    ],
+    "geo": {
+      "lat": "4.884",
+      "lon": "114.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP111",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Peninjau",
+      "en": "Kg. Peninjau",
+      "slug": "kg-peninjau-111"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP111",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG3522"
+    ],
+    "geo": {
+      "lat": "4.939",
+      "lon": "114.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP128",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Selayun",
+      "en": "Kg. Selayun",
+      "slug": "kg-selayun-128"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP128",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG1721"
+    ],
+    "geo": {
+      "lat": "4.899",
+      "lon": "114.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP129",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sengkurong A",
+      "en": "Kg. Sengkurong A",
+      "slug": "kg-sengkurong-a-129"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP129",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.904",
+      "lon": "114.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP130",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sengkurong B",
+      "en": "Kg. Sengkurong B",
+      "slug": "kg-sengkurong-b-130"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP130",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.904",
+      "lon": "114.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP154",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tagap",
+      "en": "Kg. Tagap",
+      "slug": "kg-tagap-154"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP154",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG1521"
+    ],
+    "geo": {
+      "lat": "4.917",
+      "lon": "114.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK18-KP160",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanjong Nangka",
+      "en": "Kg. Tanjong Nangka",
+      "slug": "kg-tanjong-nangka-160"
+    },
+    "code": {
+      "id": "BN-BM-MK18-KP160",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK18",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sengkurong",
+        "en": "Sengkurong",
+        "slug": "sengkurong-bn-bm-mk18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK18",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BG2321"
+    ],
+    "geo": {
+      "lat": "4.88",
+      "lon": "114.832"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

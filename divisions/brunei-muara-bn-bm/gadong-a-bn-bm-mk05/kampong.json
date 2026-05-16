@@ -1,0 +1,724 @@
+[
+  {
+    "id": "BN-BM-MK05-KP020",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan",
+      "en": "Hutan Simpan",
+      "slug": "hutan-simpan-20"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP020",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.917",
+      "lon": "114.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP015",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Katok",
+      "en": "Kg. Katok",
+      "slug": "kg-katok-15"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP015",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE2319"
+    ],
+    "geo": {
+      "lat": "4.918",
+      "lon": "114.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP118",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Rimba",
+      "en": "Kg. Rimba",
+      "slug": "kg-rimba-118"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP118",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.929",
+      "lon": "114.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP954",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tungku",
+      "en": "Kg. Tungku",
+      "slug": "kg-tungku-954"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP954",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE2119"
+    ],
+    "geo": {
+      "lat": "4.924",
+      "lon": "114.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP022",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Rimba Kawasan 1",
+      "en": "Perumahan Negara Rimba Kawasan 1",
+      "slug": "perumahan-negara-rimba-kawasan-1-22"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP022",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE3319"
+    ],
+    "geo": {
+      "lat": "4.961",
+      "lon": "114.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP023",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Rimba Kawasan 2",
+      "en": "Perumahan Negara Rimba Kawasan 2",
+      "slug": "perumahan-negara-rimba-kawasan-2-23"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP023",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE3419"
+    ],
+    "geo": {
+      "lat": "4.959",
+      "lon": "114.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP025",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Rimba Kawasan 3",
+      "en": "Perumahan Negara Rimba Kawasan 3",
+      "slug": "perumahan-negara-rimba-kawasan-3-25"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP025",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE3519"
+    ],
+    "geo": {
+      "lat": "4.963",
+      "lon": "114.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP018",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Rimba Kawasan 4",
+      "en": "Perumahan Negara Rimba Kawasan 4",
+      "slug": "perumahan-negara-rimba-kawasan-4-18"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP018",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE3619"
+    ],
+    "geo": {
+      "lat": "4.949",
+      "lon": "114.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP028",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perumahan Negara Rimba Kawasan 5",
+      "en": "Perumahan Negara Rimba Kawasan 5",
+      "slug": "perumahan-negara-rimba-kawasan-5-28"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP028",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE3819"
+    ],
+    "geo": {
+      "lat": "4.969",
+      "lon": "114.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP253",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Rimba",
+      "en": "STKRJ Rimba",
+      "slug": "stkrj-rimba-253"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP253",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.935",
+      "lon": "114.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP250",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Tungku Kawasan 1",
+      "en": "STKRJ Tungku Kawasan 1",
+      "slug": "stkrj-tungku-kawasan-1-250"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP250",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE2519"
+    ],
+    "geo": {
+      "lat": "4.919",
+      "lon": "114.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP252",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Tungku Kawasan 2",
+      "en": "STKRJ Tungku Kawasan 2",
+      "slug": "stkrj-tungku-kawasan-2-252"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP252",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE2719"
+    ],
+    "geo": {
+      "lat": "4.928",
+      "lon": "114.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK05-KP251",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "STKRJ Tungku Kawasan 3",
+      "en": "STKRJ Tungku Kawasan 3",
+      "slug": "stkrj-tungku-kawasan-3-251"
+    },
+    "code": {
+      "id": "BN-BM-MK05-KP251",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK05",
+      "level": 2,
+      "name": {
+        "local": "Mukim Gadong A",
+        "en": "Gadong A",
+        "slug": "gadong-a-bn-bm-mk05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK05",
+        "level": 2,
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BE2919"
+    ],
+    "geo": {
+      "lat": "4.925",
+      "lon": "114.88"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

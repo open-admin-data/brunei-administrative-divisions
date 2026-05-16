@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK12",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Kilanas",
+    "en": "Kilanas",
+    "slug": "kilanas-bn-bm-mk12"
+  },
+  "code": {
+    "id": "BN-BM-MK12",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.856",
+    "lon": "114.872"
+  },
+  "metadata": {},
+  "source": {}
+}

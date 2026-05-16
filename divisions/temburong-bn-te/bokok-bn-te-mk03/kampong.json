@@ -1,0 +1,832 @@
+[
+  {
+    "id": "BN-TE-MK03-KP013",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan Batu Apoi",
+      "en": "Hutan Simpan Batu Apoi",
+      "slug": "hutan-simpan-batu-apoi-13"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP013",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP011",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kawasan Bahaya Mukim Bokok",
+      "en": "Kawasan Bahaya Mukim Bokok",
+      "slug": "kawasan-bahaya-mukim-bokok-11"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP011",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP229",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bakarut",
+      "en": "Kg. Bakarut",
+      "slug": "kg-bakarut-229"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP229",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP224",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Belais Besar",
+      "en": "Kg. Belais Besar",
+      "slug": "kg-belais-besar-224"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP224",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE1351"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP223",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Belais Kecil",
+      "en": "Kg. Belais Kecil",
+      "slug": "kg-belais-kecil-223"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP223",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE1551"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP227",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bokok",
+      "en": "Kg. Bokok",
+      "slug": "kg-bokok-227"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP227",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE1951"
+    ],
+    "geo": {
+      "lat": "4.69",
+      "lon": "115.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP222",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Buda-Buda",
+      "en": "Kg. Buda-Buda",
+      "slug": "kg-buda-buda-222"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP222",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE1151"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP231",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kenua",
+      "en": "Kg. Kenua",
+      "slug": "kg-kenua-231"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP231",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE3351"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP009",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lepong",
+      "en": "Kg. Lepong",
+      "slug": "kg-lepong-9"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP009",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP228",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Maniup",
+      "en": "Kg. Maniup",
+      "slug": "kg-maniup-228"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP228",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE2151"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP226",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Paya Bagangan",
+      "en": "Kg. Paya Bagangan",
+      "slug": "kg-paya-bagangan-226"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP226",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE1751"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP225",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Rataie",
+      "en": "Kg. Rataie",
+      "slug": "kg-rataie-225"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP225",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE2751"
+    ],
+    "geo": {
+      "lat": "4.649",
+      "lon": "115.065"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP010",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Semabat",
+      "en": "Kg. Semabat",
+      "slug": "kg-semabat-10"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP010",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE4151"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP230",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Simbatang Bokok",
+      "en": "Kg. Simbatang Bokok",
+      "slug": "kg-simbatang-bokok-230"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP230",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK03-KP012",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Temada",
+      "en": "Kg. Temada",
+      "slug": "kg-temada-12"
+    },
+    "code": {
+      "id": "BN-TE-MK03-KP012",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK03",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bokok",
+        "en": "Bokok",
+        "slug": "bokok-bn-te-mk03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK03",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PE4351"
+    ],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

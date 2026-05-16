@@ -1,0 +1,892 @@
+# Brunei-Muara — Brunei Administrative Divisions
+
+> 19 subdistricts, 197 villages
+> Code: BN-BM
+> Coordinates: 4.94, 115.014
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Subdistricts
+
+### Mukim Berakas A (Berakas A)
+
+Code: BN-BM-MK06, Coordinates: 4.951, 114.938
+Villages: 17
+
+#### Kawasan Jabatan-Jabatan Dan Perumahan Kerajaan
+
+Code: BN-BM-MK06-KP031, Coordinates: 4.951, 114.938
+
+#### Kg. Anggerek Desa
+
+Code: BN-BM-MK06-KP032, Postal: BB3713, Coordinates: 4.933, 114.952
+
+#### Kg. Burong Pingai Berakas
+
+Code: BN-BM-MK06-KP055, Coordinates: 4.93, 114.928
+
+#### Kg. Jaya Bakti
+
+Code: BN-BM-MK06-KP016, Postal: BB3113, Coordinates: 4.929, 114.932
+
+#### Kg. Jaya Setia
+
+Code: BN-BM-MK06-KP060, Postal: BB2713, Coordinates: 4.933, 114.933
+
+#### Kg. Lambak A
+
+Code: BN-BM-MK06-KP073, Coordinates: 4.984, 114.937
+
+#### Kg. Lambak B
+
+Code: BN-BM-MK06-KP074, Coordinates: 4.984, 114.937
+
+#### Kg. Lambak Kiri
+
+Code: BN-BM-MK06-KP075, Postal: BB1214, Coordinates: 4.989, 114.95
+
+#### Kg. Orang Kaya Besar Imas
+
+Code: BN-BM-MK06-KP093, Postal: BB4113, Coordinates: 4.933, 114.952
+
+#### Kg. Pancha Delima
+
+Code: BN-BM-MK06-KP094, Postal: BB4513, Coordinates: 4.941, 114.948
+
+#### Kg. Pengiran Siraja Muda Delima Satu
+
+Code: BN-BM-MK06-KP109, Postal: BB5113, Coordinates: 4.944, 114.955
+
+#### Kg. Pulaie
+
+Code: BN-BM-MK06-KP115, Postal: BB4313, Coordinates: 4.933, 114.952
+
+#### Kg. Serusop
+
+Code: BN-BM-MK06-KP133, Postal: BB2313, Coordinates: 4.946, 114.944
+
+#### Kg. Terunjing
+
+Code: BN-BM-MK06-KP165, Postal: BB1514, Coordinates: 4.966, 114.932
+
+#### Lapangan Terbang Antarabangsa Brunei
+
+Code: BN-BM-MK06-KP019, Coordinates: 4.942, 114.929
+
+#### Perkhemahan Berakas
+
+Code: BN-BM-MK06-KP958, Coordinates: 5.004, 114.962
+
+#### STKRJ Lambak Kiri
+
+Code: BN-BM-MK06-KP176, Postal: BB1114, Coordinates: 4.984, 114.937
+
+### Mukim Berakas B (Berakas B)
+
+Code: BN-BM-MK07, Coordinates: 4.962, 114.967
+Villages: 12
+
+#### Kg. Madang
+
+Code: BN-BM-MK07-KP083, Postal: BC3715, Coordinates: 4.954, 114.952
+
+#### Kg. Manggis
+
+Code: BN-BM-MK07-KP085, Coordinates: 4.955, 114.963
+
+#### Kg. Salambigar
+
+Code: BN-BM-MK07-KP126, Postal: BC1515, Coordinates: 4.982, 114.99
+
+#### Kg. Sungai Akar
+
+Code: BN-BM-MK07-KP140, Postal: BC4115, Coordinates: 4.938, 114.965
+
+#### Kg. Sungai Hanching
+
+Code: BN-BM-MK07-KP144, Postal: BC2115, Coordinates: 4.965, 114.976
+
+#### Kg. Sungai Orok
+
+Code: BN-BM-MK07-KP149, Postal: BC1715, Coordinates: 4.975, 114.984
+
+#### Kg. Sungai Tilong
+
+Code: BN-BM-MK07-KP153, Coordinates: 4.957, 114.973
+
+#### Perumahan Negara Lambak Kanan Kawasan 1
+
+Code: BN-BM-MK07-KP021, Postal: BC2315, Coordinates: 4.977, 114.972
+
+#### Perumahan Negara Lambak Kanan Kawasan 2
+
+Code: BN-BM-MK07-KP017, Postal: BC2515, Coordinates: 4.985, 114.967
+
+#### Perumahan Negara Lambak Kanan Kawasan 3
+
+Code: BN-BM-MK07-KP024, Postal: BC2715, Coordinates: 4.963, 114.963
+
+#### Perumahan Negara Lambak Kanan Kawasan 4
+
+Code: BN-BM-MK07-KP026, Postal: BC2915, Coordinates: 4.969, 114.959
+
+#### Perumahan Negara Lambak Kanan Kawasan 5
+
+Code: BN-BM-MK07-KP027, Postal: BC3115, Coordinates: 4.978, 114.96
+
+### Mukim Burong Pingai Ayer (Burong Pingai Ayer)
+
+Code: BN-BM-MK17, Coordinates: 4.872, 114.929
+Villages: 8
+
+#### Kg. Burong Pingai Ayer
+
+Code: BN-BM-MK17-KP054, Coordinates: 4.876, 114.934
+
+#### Kg. Lurong Dalam
+
+Code: BN-BM-MK17-KP081, Postal: BM1326, Coordinates: 4.88, 114.937
+
+#### Kg. Pandai Besi A
+
+Code: BN-BM-MK17-KP096, Coordinates: 4.882, 114.938
+
+#### Kg. Pandai Besi B
+
+Code: BN-BM-MK17-KP097, Coordinates: 4.883, 114.939
+
+#### Kg. Pekan Lama
+
+Code: BN-BM-MK17-KP102, Postal: BM2526, Coordinates: 4.882, 114.941
+
+#### Kg. Pengiran Setia Negara
+
+Code: BN-BM-MK17-KP108, Postal: BM2326, Coordinates: 4.883, 114.939
+
+#### Kg. Sungai Pandan A
+
+Code: BN-BM-MK17-KP150, Coordinates: 4.881, 114.939
+
+#### Kg. Sungai Pandan B
+
+Code: BN-BM-MK17-KP151, Coordinates: 4.881, 114.94
+
+### Mukim Gadong A (Gadong A)
+
+Code: BN-BM-MK05, Coordinates: 4.917, 114.896
+Villages: 13
+
+#### Hutan Simpan
+
+Code: BN-BM-MK05-KP020, Coordinates: 4.917, 114.896
+
+#### Kg. Katok
+
+Code: BN-BM-MK05-KP015, Postal: BE2319, Coordinates: 4.918, 114.894
+
+#### Kg. Rimba
+
+Code: BN-BM-MK05-KP118, Coordinates: 4.929, 114.906
+
+#### Kg. Tungku
+
+Code: BN-BM-MK05-KP954, Postal: BE2119, Coordinates: 4.924, 114.888
+
+#### Perumahan Negara Rimba Kawasan 1
+
+Code: BN-BM-MK05-KP022, Postal: BE3319, Coordinates: 4.961, 114.899
+
+#### Perumahan Negara Rimba Kawasan 2
+
+Code: BN-BM-MK05-KP023, Postal: BE3419, Coordinates: 4.959, 114.911
+
+#### Perumahan Negara Rimba Kawasan 3
+
+Code: BN-BM-MK05-KP025, Postal: BE3519, Coordinates: 4.963, 114.92
+
+#### Perumahan Negara Rimba Kawasan 4
+
+Code: BN-BM-MK05-KP018, Postal: BE3619, Coordinates: 4.949, 114.911
+
+#### Perumahan Negara Rimba Kawasan 5
+
+Code: BN-BM-MK05-KP028, Postal: BE3819, Coordinates: 4.969, 114.906
+
+#### STKRJ Rimba
+
+Code: BN-BM-MK05-KP253, Coordinates: 4.935, 114.898
+
+#### STKRJ Tungku Kawasan 1
+
+Code: BN-BM-MK05-KP250, Postal: BE2519, Coordinates: 4.919, 114.9
+
+#### STKRJ Tungku Kawasan 2
+
+Code: BN-BM-MK05-KP252, Postal: BE2719, Coordinates: 4.928, 114.89
+
+#### STKRJ Tungku Kawasan 3
+
+Code: BN-BM-MK05-KP251, Postal: BE2919, Coordinates: 4.925, 114.88
+
+### Mukim Gadong B (Gadong B)
+
+Code: BN-BM-MK14, Coordinates: 4.917, 114.896
+Villages: 10
+
+#### Kg. Beribi
+
+Code: BN-BM-MK14-KP045, Postal: BE1118, Coordinates: 4.884, 114.901
+
+#### Kg. Kiarong
+
+Code: BN-BM-MK14-KP066, Postal: BE1318, Coordinates: 4.895, 114.916
+
+#### Kg. Kiulap
+
+Code: BN-BM-MK14-KP068, Postal: BE1518, Coordinates: 4.897, 114.928
+
+#### Kg. Mata-Mata
+
+Code: BN-BM-MK14-KP087, Postal: BE1718, Coordinates: 4.9, 114.896
+
+#### Kg. Menglait
+
+Code: BN-BM-MK14-KP089, Postal: BE3919, Coordinates: 4.91, 114.923
+
+#### Kg. Pangkalan Gadong
+
+Code: BN-BM-MK14-KP099, Coordinates: 4.908, 114.917
+
+#### Kg. Perpindahan Mata-Mata
+
+Code: BN-BM-MK14-KP246, Postal: BE1918, Coordinates: 4.9, 114.888
+
+#### STKRJ Mata-Mata Kawasan 1
+
+Code: BN-BM-MK14-KP248, Postal: BE4119, Coordinates: 4.895, 114.879
+
+#### STKRJ Mata-Mata Kawasan 2
+
+Code: BN-BM-MK14-KP245, Postal: BE4319, Coordinates: 4.904, 114.878
+
+#### STKRJ Mata-Mata Kawasan 3
+
+Code: BN-BM-MK14-KP247, Postal: BE4519, Coordinates: 4.896, 114.874
+
+### Mukim Kianggeh (Kianggeh)
+
+Code: BN-BM-MK13, Coordinates: 4.897, 114.938
+Villages: 11
+
+#### Kg. Berangan
+
+Code: BN-BM-MK13-KP044, Postal: BA1111, Coordinates: 4.905, 114.957
+
+#### Kg. Kianggeh
+
+Code: BN-BM-MK13-KP065, Postal: BA1211, Coordinates: 4.864, 114.923
+
+#### Kg. Kumbang Pasang
+
+Code: BN-BM-MK13-KP072, Postal: BA1511, Coordinates: 4.907, 114.929
+
+#### Kg. Melabau
+
+Code: BN-BM-MK13-KP088, Coordinates: 4.897, 114.938
+
+#### Kg. Parit Kianggeh
+
+Code: BN-BM-MK13-KP179, Coordinates: 4.886, 114.934
+
+#### Kg. Pusar Ulak
+
+Code: BN-BM-MK13-KP116, Postal: BA1411, Coordinates: 4.897, 114.937
+
+#### Kg. Tasek Lama
+
+Code: BN-BM-MK13-KP162, Postal: BA1611, Coordinates: 4.905, 114.949
+
+#### Kg. Tumasek
+
+Code: BN-BM-MK13-KP166, Postal: BA2112, Coordinates: 4.881, 114.922
+
+#### Kg. Tungkadeh
+
+Code: BN-BM-MK13-KP167, Postal: BA1311, Coordinates: 4.905, 114.94
+
+#### Lingkungan Diplomatik
+
+Code: BN-BM-MK13-KP181, Coordinates: 4.922, 114.965
+
+#### Pusat Bandar
+
+Code: BN-BM-MK13-KP256, Coordinates: 4.89, 114.941
+
+### Mukim Kilanas (Kilanas)
+
+Code: BN-BM-MK12, Coordinates: 4.856, 114.872
+Villages: 11
+
+#### Kg. Bengkurong
+
+Code: BN-BM-MK12-KP043, Postal: BF1920, Coordinates: 4.847, 114.871
+
+#### Kg. Bunut
+
+Code: BN-BM-MK12-KP051, Postal: BF1320, Coordinates: 4.856, 114.889
+
+#### Kg. Bunut Perpindahan
+
+Code: BN-BM-MK12-KP052, Coordinates: 4.851, 114.888
+
+#### Kg. Burong Lepas
+
+Code: BN-BM-MK12-KP053, Postal: BF1720, Coordinates: 4.827, 114.864
+
+#### Kg. Jangsak
+
+Code: BN-BM-MK12-KP059, Postal: BF2720, Coordinates: 4.88, 114.876
+
+#### Kg. Kilanas
+
+Code: BN-BM-MK12-KP067, Postal: BF2520, Coordinates: 4.869, 114.863
+
+#### Kg. Madewa
+
+Code: BN-BM-MK12-KP084, Coordinates: 4.858, 114.897
+
+#### Kg. Sinarubai
+
+Code: BN-BM-MK12-KP138, Postal: BF2120, Coordinates: 4.838, 114.871
+
+#### Kg. Tanjong Bunut
+
+Code: BN-BM-MK12-KP158, Postal: BF2920, Coordinates: 4.892, 114.855
+
+#### Kg. Tasek Meradun
+
+Code: BN-BM-MK12-KP163, Postal: BF1520, Coordinates: 4.854, 114.874
+
+#### Kg. Telanai
+
+Code: BN-BM-MK12-KP164, Coordinates: 4.871, 114.901
+
+### Mukim Kota Batu (Kota Batu)
+
+Code: BN-BM-MK11, Coordinates: 4.883, 114.974
+Villages: 18
+
+#### Kg. Belimbing
+
+Code: BN-BM-MK11-KP042, Postal: BD2917, Coordinates: 4.938, 114.982
+
+#### Kg. Buang Tawar
+
+Code: BN-BM-MK11-KP049, Coordinates: 4.878, 114.979
+
+#### Kg. Dato Gandi
+
+Code: BN-BM-MK11-KP056, Postal: BD1717, Coordinates: 4.942, 115.019
+
+#### Kg. Gadong Batu
+
+Code: BN-BM-MK11-KP057, Coordinates: 4.87, 114.97
+
+#### Kg. Kota Batu
+
+Code: BN-BM-MK11-KP069, Postal: BD1517, Coordinates: 4.938, 114.982
+
+#### Kg. Menunggul
+
+Code: BN-BM-MK11-KP091, Coordinates: 4.864, 114.978
+
+#### Kg. Pelambaian
+
+Code: BN-BM-MK11-KP104, Coordinates: 4.886, 114.973
+
+#### Kg. Pintu Malim
+
+Code: BN-BM-MK11-KP113, Postal: BD1317, Coordinates: 4.874, 114.956
+
+#### Kg. Pudak
+
+Code: BN-BM-MK11-KP114, Postal: BD3517, Coordinates: 4.898, 115.002
+
+#### Kg. Riong
+
+Code: BN-BM-MK11-KP119, Postal: BD4117, Coordinates: 4.85, 114.979
+
+#### Kg. Serdang
+
+Code: BN-BM-MK11-KP132, Postal: BD2117, Coordinates: 4.942, 115.019
+
+#### Kg. Subok Kota Batu
+
+Code: BN-BM-MK11-KP139, Coordinates: 4.905, 114.98
+
+#### Kg. Sungai Belukut
+
+Code: BN-BM-MK11-KP142, Postal: BD2217, Coordinates: 4.942, 115.019
+
+#### Kg. Sungai Besar
+
+Code: BN-BM-MK11-KP143, Postal: BD2517, Coordinates: 4.942, 115.019
+
+#### Kg. Sungai Lampai
+
+Code: BN-BM-MK11-KP137, Postal: BD1117, Coordinates: 4.875, 114.954
+
+#### Kg. Sungai Matan
+
+Code: BN-BM-MK11-KP148, Postal: BD1917, Coordinates: 4.942, 115.019
+
+#### Kg. Tanjong Kindana
+
+Code: BN-BM-MK11-KP159, Coordinates: 4.907, 115.019
+
+#### Mengkubau
+
+Code: BN-BM-MK11-KP173, Postal: BD4717, Coordinates: 4.945, 115.001
+
+### Mukim Lumapas (Lumapas)
+
+Code: BN-BM-MK16, Coordinates: 4.843, 114.916
+Villages: 12
+
+#### Kg. Baong
+
+Code: BN-BM-MK16-KP262, Postal: BJ1424, Coordinates: 4.83, 114.964
+
+#### Kg. Buang Sakar
+
+Code: BN-BM-MK16-KP048, Postal: BJ1924, Coordinates: 4.858, 114.946
+
+#### Kg. Buang Tekurok
+
+Code: BN-BM-MK16-KP050, Postal: BJ2924, Coordinates: 4.867, 114.932
+
+#### Kg. Kasat
+
+Code: BN-BM-MK16-KP261, Postal: BJ1724, Coordinates: 4.823, 114.947
+
+#### Kg. Kilugus
+
+Code: BN-BM-MK16-KP259, Coordinates: 4.836, 114.917
+
+#### Kg. Lumapas
+
+Code: BN-BM-MK16-KP079, Coordinates: 4.827, 114.916
+
+#### Kg. Lupak Luas
+
+Code: BN-BM-MK16-KP080, Postal: BJ2524, Coordinates: 4.87, 114.941
+
+#### Kg. Panchor Lumapas
+
+Code: BN-BM-MK16-KP257, Coordinates: 4.864, 114.923
+
+#### Kg. Putat
+
+Code: BN-BM-MK16-KP117, Postal: BJ1324, Coordinates: 4.834, 114.976
+
+#### Kg. Sungai Asam
+
+Code: BN-BM-MK16-KP141, Postal: BJ2724, Coordinates: 4.841, 114.918
+
+#### Kg. Tarap Bau
+
+Code: BN-BM-MK16-KP161, Postal: BJ2124, Coordinates: 4.869, 114.945
+
+#### STKRJ Lumapas Kawasan 1
+
+Code: BN-BM-MK16-KP258, Coordinates: 4.843, 114.916
+
+### Mukim Mentiri (Mentiri)
+
+Code: BN-BM-MK08, Coordinates: 4.982, 114.999
+Villages: 9
+
+#### Kg. Batu Marang
+
+Code: BN-BM-MK08-KP039, Postal: BU1529, Coordinates: 4.987, 115.033
+
+#### Kg. Mentiri
+
+Code: BN-BM-MK08-KP090, Postal: BU1929, Coordinates: 4.971, 115.021
+
+#### Kg. Panchor Mentiri
+
+Code: BN-BM-MK08-KP180, Coordinates: 4.98, 115.007
+
+#### Kg. Pangkalan Sibabau
+
+Code: BN-BM-MK08-KP100, Coordinates: 4.956, 115.024
+
+#### Kg. Salar
+
+Code: BN-BM-MK08-KP127, Postal: BU1429, Coordinates: 5.003, 115.027
+
+#### Kg. Sungai Buloh
+
+Code: BN-BM-MK08-KP264, Postal: BU1229, Coordinates: 4.989, 115.023
+
+#### Kg. Tanah Jambu
+
+Code: BN-BM-MK08-KP959, Postal: BU1129, Coordinates: 4.996, 115.002
+
+#### Perumahan Negara Mentiri Kawasan A
+
+Code: BN-BM-MK08-KP029, Coordinates: 4.973, 115.045
+
+#### Perumahan Negara Mentiri Kawasan B
+
+Code: BN-BM-MK08-KP030, Postal: BU2229, Coordinates: 4.969, 115.026
+
+### NA
+
+Code: BN-BM-MK40, Coordinates: 4.856, 114.872
+Villages: 12
+
+#### Pulau ...
+
+Code: BN-BM-MK40-KP895, Coordinates: 4.764, 114.664
+
+#### Pulau ...
+
+Code: BN-BM-MK40-KP896, Coordinates: 4.764, 114.664
+
+#### Pulau Baru-Baru
+
+Code: BN-BM-MK40-KP908, Coordinates: 4.904, 115.041
+
+#### Pulau Bedukang
+
+Code: BN-BM-MK40-KP882, Coordinates: 4.856, 114.872
+
+#### Pulau Chermin
+
+Code: BN-BM-MK40-KP901, Coordinates: 4.93, 115.025
+
+#### Pulau Kaingaran
+
+Code: BN-BM-MK40-KP902, Coordinates: 4.946, 115.027
+
+#### Pulau Muara Besar
+
+Code: BN-BM-MK40-KP883, Coordinates: 5.001, 115.123
+
+#### Pulau Pepatan
+
+Code: BN-BM-MK40-KP983, Coordinates: 4.917, 115.046
+
+#### Pulau Si Mangga Besar
+
+Code: BN-BM-MK40-KP893, Coordinates: 4.856, 114.872
+
+#### Pulau Sibungor
+
+Code: BN-BM-MK40-KP917, Coordinates: 4.866, 114.954
+
+#### Pulau Suhung Damit
+
+Code: BN-BM-MK40-KP894, Coordinates: 4.856, 114.872
+
+#### Tanjong Pelumpong
+
+Code: BN-BM-MK40-KP884, Coordinates: 5.041, 115.114
+
+### Mukim Pangkalan Batu (Pangkalan Batu)
+
+Code: BN-BM-MK10, Coordinates: 4.814, 114.819
+Villages: 14
+
+#### Kg. Batang Perhentian
+
+Code: BN-BM-MK10-KP036, Postal: BH1523, Coordinates: 4.763, 114.813
+
+#### Kg. Batong
+
+Code: BN-BM-MK10-KP037, Postal: BH2923, Coordinates: 4.82, 114.817
+
+#### Kg. Batu Ampar
+
+Code: BN-BM-MK10-KP038, Postal: BH1323, Coordinates: 4.781, 114.821
+
+#### Kg. Bebatik
+
+Code: BN-BM-MK10-KP040, Postal: BH3223, Coordinates: 4.852, 114.844
+
+#### Kg. Bebuloh
+
+Code: BN-BM-MK10-KP041, Postal: BH3323, Coordinates: 4.742, 114.789
+
+#### Kg. Imang
+
+Code: BN-BM-MK10-KP058, Postal: BH3423, Coordinates: 4.79, 114.792
+
+#### Kg. Junjongan
+
+Code: BN-BM-MK10-KP062, Postal: BH2123, Coordinates: 4.81, 114.853
+
+#### Kg. Kuala Lurah
+
+Code: BN-BM-MK10-KP238, Postal: BH1923, Coordinates: 4.751, 114.817
+
+#### Kg. Limau Manis
+
+Code: BN-BM-MK10-KP076, Postal: BH2323, Coordinates: 4.768, 114.824
+
+#### Kg. Masin
+
+Code: BN-BM-MK10-KP086, Postal: BH2723, Coordinates: 4.83, 114.845
+
+#### Kg. Panchor Murai
+
+Code: BN-BM-MK10-KP095, Postal: BH3123, Coordinates: 4.804, 114.811
+
+#### Kg. Pangkalan Batu
+
+Code: BN-BM-MK10-KP098, Coordinates: 4.864, 114.923
+
+#### Kg. Parit Pangkalan Batu
+
+Code: BN-BM-MK10-KP178, Coordinates: 4.864, 114.923
+
+#### Kg. Wasan
+
+Code: BN-BM-MK10-KP172, Postal: BH2523, Coordinates: 4.774, 114.802
+
+### Mukim Peramu (Peramu)
+
+Code: BN-BM-MK09, Coordinates: 4.884, 114.941
+Villages: 7
+
+#### Kg. Bakut Berumput
+
+Code: BN-BM-MK09-KP033, Postal: BP2326, Coordinates: 4.885, 114.943
+
+#### Kg. Bakut Pengiran Siraja Muda A
+
+Code: BN-BM-MK09-KP034, Coordinates: 4.884, 114.941
+
+#### Kg. Bakut Pengiran Siraja Muda B
+
+Code: BN-BM-MK09-KP035, Coordinates: 4.883, 114.942
+
+#### Kg. Lurong Sikuna
+
+Code: BN-BM-MK09-KP082, Coordinates: 4.884, 114.944
+
+#### Kg. Pekilong Muara
+
+Code: BN-BM-MK09-KP103, Postal: BP1326, Coordinates: 4.881, 114.946
+
+#### Kg. Peramu
+
+Code: BN-BM-MK09-KP112, Postal: BP1126, Coordinates: 4.882, 114.943
+
+#### Kg. Setia Pahlawan
+
+Code: BN-BM-MK09-KP136, Coordinates: 4.883, 114.945
+
+### Mukim Saba (Saba)
+
+Code: BN-BM-MK22, Coordinates: 4.883, 114.948
+Villages: 5
+
+#### Kg. Saba Darat A
+
+Code: BN-BM-MK22-KP120, Coordinates: 4.883, 114.946
+
+#### Kg. Saba Darat B
+
+Code: BN-BM-MK22-KP121, Coordinates: 4.88, 114.948
+
+#### Kg. Saba Laut
+
+Code: BN-BM-MK22-KP122, Postal: BR1126, Coordinates: 4.885, 114.946
+
+#### Kg. Saba Tengah
+
+Code: BN-BM-MK22-KP123, Postal: BR1926, Coordinates: 4.884, 114.947
+
+#### Kg. Saba Ujong
+
+Code: BN-BM-MK22-KP124, Postal: BR1726, Coordinates: 4.884, 114.948
+
+### Mukim Sengkurong (Sengkurong)
+
+Code: BN-BM-MK18, Coordinates: 4.902, 114.832
+Villages: 12
+
+#### Kg. Jerudong
+
+Code: BN-BM-MK18-KP061, Postal: BG3122, Coordinates: 4.938, 114.842
+
+#### Kg. Katimahar
+
+Code: BN-BM-MK18-KP064, Postal: BG2721, Coordinates: 4.868, 114.814
+
+#### Kg. Kulapis
+
+Code: BN-BM-MK18-KP071, Postal: BG2521, Coordinates: 4.858, 114.822
+
+#### Kg. Lugu
+
+Code: BN-BM-MK18-KP078, Postal: BG2921, Coordinates: 4.881, 114.802
+
+#### Kg. Mulaut
+
+Code: BN-BM-MK18-KP092, Postal: BG2121, Coordinates: 4.869, 114.848
+
+#### Kg. Pasai
+
+Code: BN-BM-MK18-KP101, Postal: BG1221, Coordinates: 4.884, 114.845
+
+#### Kg. Peninjau
+
+Code: BN-BM-MK18-KP111, Postal: BG3522, Coordinates: 4.939, 114.852
+
+#### Kg. Selayun
+
+Code: BN-BM-MK18-KP128, Postal: BG1721, Coordinates: 4.899, 114.85
+
+#### Kg. Sengkurong A
+
+Code: BN-BM-MK18-KP129, Coordinates: 4.904, 114.839
+
+#### Kg. Sengkurong B
+
+Code: BN-BM-MK18-KP130, Coordinates: 4.904, 114.839
+
+#### Kg. Tagap
+
+Code: BN-BM-MK18-KP154, Postal: BG1521, Coordinates: 4.917, 114.845
+
+#### Kg. Tanjong Nangka
+
+Code: BN-BM-MK18-KP160, Postal: BG2321, Coordinates: 4.88, 114.832
+
+### Mukim Serasa (Serasa)
+
+Code: BN-BM-MK19, Coordinates: 5.019, 115.059
+Villages: 5
+
+#### Kg. Kapok
+
+Code: BN-BM-MK19-KP063, Postal: BT2328, Coordinates: 5.023, 115.046
+
+#### Kg. Meragang
+
+Code: BN-BM-MK19-KP177, Postal: BT2728, Coordinates: 5.025, 115.033
+
+#### Kg. Sabun
+
+Code: BN-BM-MK19-KP125, Postal: BT2128, Coordinates: 5.03, 115.059
+
+#### Kg. Serasa
+
+Code: BN-BM-MK19-KP131, Postal: BT1728, Coordinates: 5.014, 115.059
+
+#### Pekan Muara
+
+Code: BN-BM-MK19-KP174, Postal: BT1128, Coordinates: 5.026, 115.07
+
+### Mukim Sungai Kebun (Sungai Kebun)
+
+Code: BN-BM-MK15, Coordinates: 4.87, 114.944
+Villages: 7
+
+#### Kg. Bolkiah A
+
+Code: BN-BM-MK15-KP046, Coordinates: 4.855, 114.956
+
+#### Kg. Bolkiah B
+
+Code: BN-BM-MK15-KP047, Coordinates: 4.856, 114.958
+
+#### Kg. Setia A
+
+Code: BN-BM-MK15-KP134, Postal: BK1525, Coordinates: 4.883, 114.939
+
+#### Kg. Setia B
+
+Code: BN-BM-MK15-KP135, Postal: BK1725, Coordinates: 4.9, 114.888
+
+#### Kg. Sungai Kebun
+
+Code: BN-BM-MK15-KP145, Postal: BK2325, Coordinates: 4.88, 114.943
+
+#### Kg. Sungai Siamas
+
+Code: BN-BM-MK15-KP152, Postal: BK1925, Coordinates: 4.877, 114.947
+
+#### Kg. Ujong Kelinik
+
+Code: BN-BM-MK15-KP170, Postal: BK2125, Coordinates: 4.877, 114.948
+
+### Mukim Sungai Kedayan (Sungai Kedayan)
+
+Code: BN-BM-MK20, Coordinates: 4.887, 114.934
+Villages: 7
+
+#### Kg. Bukit Salat
+
+Code: BN-BM-MK20-KP255, Postal: BN1311, Coordinates: 4.89, 114.937
+
+#### Kg. Kuala Peminyak
+
+Code: BN-BM-MK20-KP070, Postal: BN2111, Coordinates: 4.885, 114.939
+
+#### Kg. Pengiran Pemancha Lama
+
+Code: BN-BM-MK20-KP107, Coordinates: 4.885, 114.94
+
+#### Kg. Sumbiling Lama Sungai Kedayan
+
+Code: BN-BM-MK20-KP254, Coordinates: 4.892, 114.937
+
+#### Kg. Sungai Kedayan A
+
+Code: BN-BM-MK20-KP146, Coordinates: 4.887, 114.937
+
+#### Kg. Sungai Kedayan B
+
+Code: BN-BM-MK20-KP147, Coordinates: 4.887, 114.939
+
+#### Kg. Ujong Tanjong
+
+Code: BN-BM-MK20-KP171, Postal: BN1911, Coordinates: 4.885, 114.938
+
+### Mukim Tamoi (Tamoi)
+
+Code: BN-BM-MK21, Coordinates: 4.878, 114.928
+Villages: 7
+
+#### Kg. Limbongan
+
+Code: BN-BM-MK21-KP077, Postal: BL1312, Coordinates: 4.888, 114.936
+
+#### Kg. Pengiran Bendahara Lama
+
+Code: BN-BM-MK21-KP105, Postal: BL1512, Coordinates: 4.885, 114.936
+
+#### Kg. Pengiran Kerma Indera Lama
+
+Code: BN-BM-MK21-KP106, Postal: BL1712, Coordinates: 4.883, 114.935
+
+#### Kg. Pengiran Tajuddin Hitam
+
+Code: BN-BM-MK21-KP110, Coordinates: 4.882, 114.935
+
+#### Kg. Tamoi Tengah
+
+Code: BN-BM-MK21-KP155, Postal: BL2112, Coordinates: 4.881, 114.933
+
+#### Kg. Tamoi Ujong
+
+Code: BN-BM-MK21-KP156, Postal: BL2312, Coordinates: 4.878, 114.931
+
+#### Kg. Ujong Bukit
+
+Code: BN-BM-MK21-KP169, Postal: BL1112, Coordinates: 4.889, 114.935
+

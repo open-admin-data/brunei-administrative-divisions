@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BN-BM-MK19-KP063",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kapok",
+      "en": "Kg. Kapok",
+      "slug": "kg-kapok-63"
+    },
+    "code": {
+      "id": "BN-BM-MK19-KP063",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK19",
+      "level": 2,
+      "name": {
+        "local": "Mukim Serasa",
+        "en": "Serasa",
+        "slug": "serasa-bn-bm-mk19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK19",
+        "level": 2,
+        "name": {
+          "local": "Mukim Serasa",
+          "en": "Serasa",
+          "slug": "serasa-bn-bm-mk19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BT2328"
+    ],
+    "geo": {
+      "lat": "5.023",
+      "lon": "115.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK19-KP177",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Meragang",
+      "en": "Kg. Meragang",
+      "slug": "kg-meragang-177"
+    },
+    "code": {
+      "id": "BN-BM-MK19-KP177",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK19",
+      "level": 2,
+      "name": {
+        "local": "Mukim Serasa",
+        "en": "Serasa",
+        "slug": "serasa-bn-bm-mk19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK19",
+        "level": 2,
+        "name": {
+          "local": "Mukim Serasa",
+          "en": "Serasa",
+          "slug": "serasa-bn-bm-mk19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BT2728"
+    ],
+    "geo": {
+      "lat": "5.025",
+      "lon": "115.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK19-KP125",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sabun",
+      "en": "Kg. Sabun",
+      "slug": "kg-sabun-125"
+    },
+    "code": {
+      "id": "BN-BM-MK19-KP125",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK19",
+      "level": 2,
+      "name": {
+        "local": "Mukim Serasa",
+        "en": "Serasa",
+        "slug": "serasa-bn-bm-mk19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK19",
+        "level": 2,
+        "name": {
+          "local": "Mukim Serasa",
+          "en": "Serasa",
+          "slug": "serasa-bn-bm-mk19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BT2128"
+    ],
+    "geo": {
+      "lat": "5.03",
+      "lon": "115.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK19-KP131",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Serasa",
+      "en": "Kg. Serasa",
+      "slug": "kg-serasa-131"
+    },
+    "code": {
+      "id": "BN-BM-MK19-KP131",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK19",
+      "level": 2,
+      "name": {
+        "local": "Mukim Serasa",
+        "en": "Serasa",
+        "slug": "serasa-bn-bm-mk19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK19",
+        "level": 2,
+        "name": {
+          "local": "Mukim Serasa",
+          "en": "Serasa",
+          "slug": "serasa-bn-bm-mk19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BT1728"
+    ],
+    "geo": {
+      "lat": "5.014",
+      "lon": "115.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK19-KP174",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekan Muara",
+      "en": "Pekan Muara",
+      "slug": "pekan-muara-174"
+    },
+    "code": {
+      "id": "BN-BM-MK19-KP174",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK19",
+      "level": 2,
+      "name": {
+        "local": "Mukim Serasa",
+        "en": "Serasa",
+        "slug": "serasa-bn-bm-mk19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK19",
+        "level": 2,
+        "name": {
+          "local": "Mukim Serasa",
+          "en": "Serasa",
+          "slug": "serasa-bn-bm-mk19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BT1128"
+    ],
+    "geo": {
+      "lat": "5.026",
+      "lon": "115.07"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

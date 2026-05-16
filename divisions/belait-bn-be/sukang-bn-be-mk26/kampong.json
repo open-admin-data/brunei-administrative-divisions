@@ -1,0 +1,282 @@
+[
+  {
+    "id": "BN-BE-MK26-KP277",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Apak-Apak",
+      "en": "Kg. Apak-Apak",
+      "slug": "kg-apak-apak-277"
+    },
+    "code": {
+      "id": "BN-BE-MK26-KP277",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK26",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sukang",
+        "en": "Sukang",
+        "slug": "sukang-bn-be-mk26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK26",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sukang",
+          "en": "Sukang",
+          "slug": "sukang-bn-be-mk26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KG1139"
+    ],
+    "geo": {
+      "lat": "4.34",
+      "lon": "114.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK26-KP419",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Dungun",
+      "en": "Kg. Dungun",
+      "slug": "kg-dungun-419"
+    },
+    "code": {
+      "id": "BN-BE-MK26-KP419",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK26",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sukang",
+        "en": "Sukang",
+        "slug": "sukang-bn-be-mk26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK26",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sukang",
+          "en": "Sukang",
+          "slug": "sukang-bn-be-mk26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KG2139"
+    ],
+    "geo": {
+      "lat": "4.34",
+      "lon": "114.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK26-KP266",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kukub",
+      "en": "Kg. Kukub",
+      "slug": "kg-kukub-266"
+    },
+    "code": {
+      "id": "BN-BE-MK26-KP266",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK26",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sukang",
+        "en": "Sukang",
+        "slug": "sukang-bn-be-mk26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK26",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sukang",
+          "en": "Sukang",
+          "slug": "sukang-bn-be-mk26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KG1739"
+    ],
+    "geo": {
+      "lat": "4.34",
+      "lon": "114.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK26-KP416",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sukang",
+      "en": "Kg. Sukang",
+      "slug": "kg-sukang-416"
+    },
+    "code": {
+      "id": "BN-BE-MK26-KP416",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK26",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sukang",
+        "en": "Sukang",
+        "slug": "sukang-bn-be-mk26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK26",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sukang",
+          "en": "Sukang",
+          "slug": "sukang-bn-be-mk26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KG1939"
+    ],
+    "geo": {
+      "lat": "4.34",
+      "lon": "114.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK26-KP278",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Hilir",
+      "en": "Kg. Sungai Hilir",
+      "slug": "kg-sungai-hilir-278"
+    },
+    "code": {
+      "id": "BN-BE-MK26-KP278",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK26",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sukang",
+        "en": "Sukang",
+        "slug": "sukang-bn-be-mk26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK26",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sukang",
+          "en": "Sukang",
+          "slug": "sukang-bn-be-mk26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KG2339"
+    ],
+    "geo": {
+      "lat": "4.34",
+      "lon": "114.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

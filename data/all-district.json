@@ -1,0 +1,122 @@
+[
+  {
+    "id": "BN-BE",
+    "level": 1,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belait",
+      "en": "Belait",
+      "slug": "belait-bn-be"
+    },
+    "code": {
+      "id": "BN-BE",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "mukim": 8,
+      "kampong": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.392",
+      "lon": "114.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU",
+    "level": 1,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tutong",
+      "en": "Tutong",
+      "slug": "tutong-bn-tu"
+    },
+    "code": {
+      "id": "BN-TU",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "mukim": 9,
+      "kampong": 84
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.585",
+      "lon": "114.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM",
+    "level": 1,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    },
+    "code": {
+      "id": "BN-BM",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "mukim": 19,
+      "kampong": 197
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.94",
+      "lon": "115.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE",
+    "level": 1,
+    "level_name": {
+      "local": "Daerah",
+      "en": "District"
+    },
+    "name": {
+      "local": "Temburong",
+      "en": "Temburong",
+      "slug": "temburong-bn-te"
+    },
+    "code": {
+      "id": "BN-TE",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "mukim": 6,
+      "kampong": 74
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "115.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

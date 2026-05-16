@@ -1,0 +1,560 @@
+[
+  {
+    "id": "BN-BE-MK32-KP312",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bisut",
+      "en": "Kg. Bisut",
+      "slug": "kg-bisut-312"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP312",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF1338"
+    ],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP313",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Kandol",
+      "en": "Kg. Bukit Kandol",
+      "slug": "kg-bukit-kandol-313"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP313",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF2138"
+    ],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP314",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Sawat",
+      "en": "Kg. Bukit Sawat",
+      "slug": "kg-bukit-sawat-314"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP314",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF1938"
+    ],
+    "geo": {
+      "lat": "4.525",
+      "lon": "114.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP315",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Merangking",
+      "en": "Kg. Merangking",
+      "slug": "kg-merangking-315"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP315",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF4738"
+    ],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP316",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Merangking Hilir",
+      "en": "Kg. Merangking Hilir",
+      "slug": "kg-merangking-hilir-316"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP316",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF3338"
+    ],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP317",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Merangking Ulu",
+      "en": "Kg. Merangking Ulu",
+      "slug": "kg-merangking-ulu-317"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP317",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF3138"
+    ],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP318",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pangkalan Siong",
+      "en": "Kg. Pangkalan Siong",
+      "slug": "kg-pangkalan-siong-318"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP318",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP319",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pulau Apil",
+      "en": "Kg. Pulau Apil",
+      "slug": "kg-pulau-apil-319"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP319",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF4538"
+    ],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP320",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Mau",
+      "en": "Kg. Sungai Mau",
+      "slug": "kg-sungai-mau-320"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP320",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF1138"
+    ],
+    "geo": {
+      "lat": "4.55",
+      "lon": "114.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK32-KP321",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tarap",
+      "en": "Kg. Tarap",
+      "slug": "kg-tarap-321"
+    },
+    "code": {
+      "id": "BN-BE-MK32-KP321",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK32",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bukit Sawat",
+        "en": "Bukit Sawat",
+        "slug": "bukit-sawat-bn-be-mk32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK32",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KF3738"
+    ],
+    "geo": {
+      "lat": "4.869",
+      "lon": "114.945"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

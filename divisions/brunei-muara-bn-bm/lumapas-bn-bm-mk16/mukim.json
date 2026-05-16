@@ -1,0 +1,47 @@
+{
+  "id": "BN-BM-MK16",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Lumapas",
+    "en": "Lumapas",
+    "slug": "lumapas-bn-bm-mk16"
+  },
+  "code": {
+    "id": "BN-BM-MK16",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-BM",
+    "level": 1,
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-BM",
+      "level": 1,
+      "name": {
+        "local": "Brunei-Muara",
+        "en": "Brunei-Muara",
+        "slug": "brunei-muara-bn-bm"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.843",
+    "lon": "114.916"
+  },
+  "metadata": {},
+  "source": {}
+}

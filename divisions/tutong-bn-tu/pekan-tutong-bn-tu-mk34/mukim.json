@@ -1,0 +1,47 @@
+{
+  "id": "BN-TU-MK34",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Pekan Tutong",
+    "en": "Pekan Tutong",
+    "slug": "pekan-tutong-bn-tu-mk34"
+  },
+  "code": {
+    "id": "BN-TU-MK34",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-TU",
+    "level": 1,
+    "name": {
+      "local": "Tutong",
+      "en": "Tutong",
+      "slug": "tutong-bn-tu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.805",
+    "lon": "114.684"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,558 @@
+[
+  {
+    "id": "BN-TU-MK27-KP267",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutan Simpan Bukit Ladan",
+      "en": "Hutan Simpan Bukit Ladan",
+      "slug": "hutan-simpan-bukit-ladan-267"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP267",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.481",
+      "lon": "114.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP270",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bedawan",
+      "en": "Kg. Bedawan",
+      "slug": "kg-bedawan-270"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP270",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH3949"
+    ],
+    "geo": {
+      "lat": "4.481",
+      "lon": "114.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP271",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Belabau",
+      "en": "Kg. Belabau",
+      "slug": "kg-belabau-271"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP271",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH4149"
+    ],
+    "geo": {
+      "lat": "4.481",
+      "lon": "114.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP413",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Benutan",
+      "en": "Kg. Benutan",
+      "slug": "kg-benutan-413"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP413",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH1749"
+    ],
+    "geo": {
+      "lat": "4.601",
+      "lon": "114.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP408",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kuala Ungar",
+      "en": "Kg. Kuala Ungar",
+      "slug": "kg-kuala-ungar-408"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP408",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH1549"
+    ],
+    "geo": {
+      "lat": "4.657",
+      "lon": "114.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP268",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lalipo",
+      "en": "Kg. Lalipo",
+      "slug": "kg-lalipo-268"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP268",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH3749"
+    ],
+    "geo": {
+      "lat": "4.481",
+      "lon": "114.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP406",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Merimbun",
+      "en": "Kg. Merimbun",
+      "slug": "kg-merimbun-406"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP406",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH1349"
+    ],
+    "geo": {
+      "lat": "4.763",
+      "lon": "114.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP407",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Rambai",
+      "en": "Kg. Rambai",
+      "slug": "kg-rambai-407"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP407",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH1149"
+    ],
+    "geo": {
+      "lat": "4.761",
+      "lon": "114.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP403",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Supon Besar",
+      "en": "Kg. Supon Besar",
+      "slug": "kg-supon-besar-403"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP403",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TH3149"
+    ],
+    "geo": {
+      "lat": "4.481",
+      "lon": "114.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27-KP269",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Supon Kechil",
+      "en": "Kg. Supon Kechil",
+      "slug": "kg-supon-kechil-269"
+    },
+    "code": {
+      "id": "BN-TU-MK27-KP269",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK27",
+      "level": 2,
+      "name": {
+        "local": "Mukim Rambai",
+        "en": "Rambai",
+        "slug": "rambai-bn-tu-mk27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK27",
+        "level": 2,
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.481",
+      "lon": "114.754"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

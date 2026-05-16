@@ -1,0 +1,502 @@
+[
+  {
+    "id": "BN-TU-MK25-KP341",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bakiau",
+      "en": "Kg. Bakiau",
+      "slug": "kg-bakiau-341"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP341",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TE1143"
+    ],
+    "geo": {
+      "lat": "4.768",
+      "lon": "114.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP244",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batang Mitus",
+      "en": "Kg. Batang Mitus",
+      "slug": "kg-batang-mitus-244"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP244",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TE2543"
+    ],
+    "geo": {
+      "lat": "4.754",
+      "lon": "114.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP243",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Birau",
+      "en": "Kg. Birau",
+      "slug": "kg-birau-243"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP243",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TE2143"
+    ],
+    "geo": {
+      "lat": "4.784",
+      "lon": "114.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP352",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kebia",
+      "en": "Kg. Kebia",
+      "slug": "kg-kebia-352"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP352",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TE2743"
+    ],
+    "geo": {
+      "lat": "4.771",
+      "lon": "114.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP342",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kiudang",
+      "en": "Kg. Kiudang",
+      "slug": "kg-kiudang-342"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP342",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TE1543"
+    ],
+    "geo": {
+      "lat": "4.743",
+      "lon": "114.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP265",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Luagan Timbaran",
+      "en": "Kg. Luagan Timbaran",
+      "slug": "kg-luagan-timbaran-265"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP265",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.8",
+      "lon": "114.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP344",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Mungkom",
+      "en": "Kg. Mungkom",
+      "slug": "kg-mungkom-344"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP344",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TE1743"
+    ],
+    "geo": {
+      "lat": "4.725",
+      "lon": "114.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP343",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pad Nunok",
+      "en": "Kg. Pad Nunok",
+      "slug": "kg-pad-nunok-343"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP343",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "TE1943"
+    ],
+    "geo": {
+      "lat": "4.717",
+      "lon": "114.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25-KP351",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pangkalan Mau",
+      "en": "Kg. Pangkalan Mau",
+      "slug": "kg-pangkalan-mau-351"
+    },
+    "code": {
+      "id": "BN-TU-MK25-KP351",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU-MK25",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kiudang",
+        "en": "Kiudang",
+        "slug": "kiudang-bn-tu-mk25"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      },
+      {
+        "id": "BN-TU-MK25",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.758",
+      "lon": "114.74"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

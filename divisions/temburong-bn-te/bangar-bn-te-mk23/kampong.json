@@ -1,0 +1,1216 @@
+[
+  {
+    "id": "BN-TE-MK23-KP204",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bang Bulan",
+      "en": "Kg. Bang Bulan",
+      "slug": "kg-bang-bulan-204"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP204",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA2951"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP195",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batang Tuau",
+      "en": "Kg. Batang Tuau",
+      "slug": "kg-batang-tuau-195"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP195",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA3351"
+    ],
+    "geo": {
+      "lat": "4.702",
+      "lon": "115.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP198",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Batu Bejarah",
+      "en": "Kg. Batu Bejarah",
+      "slug": "kg-batu-bejarah-198"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP198",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA2451"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP206",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Belingos",
+      "en": "Kg. Belingos",
+      "slug": "kg-belingos-206"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP206",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA3151"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP197",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Gadong",
+      "en": "Kg. Gadong",
+      "slug": "kg-gadong-197"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP197",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.9",
+      "lon": "114.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP186",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kastam Lama",
+      "en": "Kg. Kastam Lama",
+      "slug": "kg-kastam-lama-186"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP186",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP202",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kinalong",
+      "en": "Kg. Kinalong",
+      "slug": "kg-kinalong-202"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP202",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP207",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Lagau",
+      "en": "Kg. Lagau",
+      "slug": "kg-lagau-207"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP207",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA3451"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP192",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Menengah Bangar",
+      "en": "Kg. Menengah Bangar",
+      "slug": "kg-menengah-bangar-192"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP192",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.723",
+      "lon": "115.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP187",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Parit Belayang",
+      "en": "Kg. Parit Belayang",
+      "slug": "kg-parit-belayang-187"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP187",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP188",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Peliunan Bangar",
+      "en": "Kg. Peliunan Bangar",
+      "slug": "kg-peliunan-bangar-188"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP188",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP205",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Piungan",
+      "en": "Kg. Piungan",
+      "slug": "kg-piungan-205"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP205",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP199",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Puni",
+      "en": "Kg. Puni",
+      "slug": "kg-puni-199"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP199",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA3751"
+    ],
+    "geo": {
+      "lat": "4.69",
+      "lon": "115.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP200",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Semamang",
+      "en": "Kg. Semamang",
+      "slug": "kg-semamang-200"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP200",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA2751"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP191",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Seri Tanjong Belayang",
+      "en": "Kg. Seri Tanjong Belayang",
+      "slug": "kg-seri-tanjong-belayang-191"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP191",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA3551"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP201",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Subok Bangar",
+      "en": "Kg. Subok Bangar",
+      "slug": "kg-subok-bangar-201"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP201",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP190",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Getahan",
+      "en": "Kg. Sungai Getahan",
+      "slug": "kg-sungai-getahan-190"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP190",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP189",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Sulok",
+      "en": "Kg. Sungai Sulok",
+      "slug": "kg-sungai-sulok-189"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP189",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA1951"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP196",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Tanam",
+      "en": "Kg. Sungai Tanam",
+      "slug": "kg-sungai-tanam-196"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP196",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA2351"
+    ],
+    "geo": {
+      "lat": "4.711",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP193",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Tanit",
+      "en": "Kg. Sungai Tanit",
+      "slug": "kg-sungai-tanit-193"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP193",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA2151"
+    ],
+    "geo": {
+      "lat": "4.718",
+      "lon": "115.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP203",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Ujong Jalan",
+      "en": "Kg. Ujong Jalan",
+      "slug": "kg-ujong-jalan-203"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP203",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA3951"
+    ],
+    "geo": {
+      "lat": "4.69",
+      "lon": "115.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TE-MK23-KP194",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekan Bangar",
+      "en": "Pekan Bangar",
+      "slug": "pekan-bangar-194"
+    },
+    "code": {
+      "id": "BN-TE-MK23-KP194",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TE-MK23",
+      "level": 2,
+      "name": {
+        "local": "Mukim Bangar",
+        "en": "Bangar",
+        "slug": "bangar-bn-te-mk23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TE",
+        "level": 1,
+        "name": {
+          "local": "Temburong",
+          "en": "Temburong",
+          "slug": "temburong-bn-te"
+        }
+      },
+      {
+        "id": "BN-TE-MK23",
+        "level": 2,
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "PA1351"
+    ],
+    "geo": {
+      "lat": "4.708",
+      "lon": "115.073"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

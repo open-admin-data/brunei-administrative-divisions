@@ -1,0 +1,448 @@
+[
+  {
+    "id": "BN-BE-MK30-KP281",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Mumong A",
+      "en": "Kg. Mumong A",
+      "slug": "kg-mumong-a-281"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP281",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KA1531"
+    ],
+    "geo": {
+      "lat": "4.568",
+      "lon": "114.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30-KP282",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Mumong B",
+      "en": "Kg. Mumong B",
+      "slug": "kg-mumong-b-282"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP282",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.566",
+      "lon": "114.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30-KP284",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pandan A",
+      "en": "Kg. Pandan A",
+      "slug": "kg-pandan-a-284"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP284",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KA1931"
+    ],
+    "geo": {
+      "lat": "4.587",
+      "lon": "114.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30-KP285",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pandan B",
+      "en": "Kg. Pandan B",
+      "slug": "kg-pandan-b-285"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP285",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KA2931"
+    ],
+    "geo": {
+      "lat": "4.589",
+      "lon": "114.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30-KP286",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pandan C",
+      "en": "Kg. Pandan C",
+      "slug": "kg-pandan-c-286"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP286",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KA2131"
+    ],
+    "geo": {
+      "lat": "4.59",
+      "lon": "114.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30-KP397",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Melilit",
+      "en": "Kg. Sungai Melilit",
+      "slug": "kg-sungai-melilit-397"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP397",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KA2731"
+    ],
+    "geo": {
+      "lat": "4.545",
+      "lon": "114.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30-KP398",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Teraban",
+      "en": "Kg. Sungai Teraban",
+      "slug": "kg-sungai-teraban-398"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP398",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KA3331"
+    ],
+    "geo": {
+      "lat": "4.586",
+      "lon": "114.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30-KP283",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekan Kuala Belait",
+      "en": "Pekan Kuala Belait",
+      "slug": "pekan-kuala-belait-283"
+    },
+    "code": {
+      "id": "BN-BE-MK30-KP283",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK30",
+      "level": 2,
+      "name": {
+        "local": "Mukim Kuala Belait",
+        "en": "Kuala Belait",
+        "slug": "kuala-belait-bn-be-mk30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK30",
+        "level": 2,
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KA1131"
+    ],
+    "geo": {
+      "lat": "4.585",
+      "lon": "114.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

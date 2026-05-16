@@ -1,0 +1,390 @@
+[
+  {
+    "id": "BN-BM-MK15-KP046",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bolkiah A",
+      "en": "Kg. Bolkiah A",
+      "slug": "kg-bolkiah-a-46"
+    },
+    "code": {
+      "id": "BN-BM-MK15-KP046",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK15",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kebun",
+        "en": "Sungai Kebun",
+        "slug": "sungai-kebun-bn-bm-mk15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK15",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.855",
+      "lon": "114.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK15-KP047",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bolkiah B",
+      "en": "Kg. Bolkiah B",
+      "slug": "kg-bolkiah-b-47"
+    },
+    "code": {
+      "id": "BN-BM-MK15-KP047",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK15",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kebun",
+        "en": "Sungai Kebun",
+        "slug": "sungai-kebun-bn-bm-mk15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK15",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK15-KP134",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Setia A",
+      "en": "Kg. Setia A",
+      "slug": "kg-setia-a-134"
+    },
+    "code": {
+      "id": "BN-BM-MK15-KP134",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK15",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kebun",
+        "en": "Sungai Kebun",
+        "slug": "sungai-kebun-bn-bm-mk15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK15",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BK1525"
+    ],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK15-KP135",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Setia B",
+      "en": "Kg. Setia B",
+      "slug": "kg-setia-b-135"
+    },
+    "code": {
+      "id": "BN-BM-MK15-KP135",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK15",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kebun",
+        "en": "Sungai Kebun",
+        "slug": "sungai-kebun-bn-bm-mk15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK15",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BK1725"
+    ],
+    "geo": {
+      "lat": "4.9",
+      "lon": "114.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK15-KP145",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Kebun",
+      "en": "Kg. Sungai Kebun",
+      "slug": "kg-sungai-kebun-145"
+    },
+    "code": {
+      "id": "BN-BM-MK15-KP145",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK15",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kebun",
+        "en": "Sungai Kebun",
+        "slug": "sungai-kebun-bn-bm-mk15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK15",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BK2325"
+    ],
+    "geo": {
+      "lat": "4.88",
+      "lon": "114.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK15-KP152",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Siamas",
+      "en": "Kg. Sungai Siamas",
+      "slug": "kg-sungai-siamas-152"
+    },
+    "code": {
+      "id": "BN-BM-MK15-KP152",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK15",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kebun",
+        "en": "Sungai Kebun",
+        "slug": "sungai-kebun-bn-bm-mk15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK15",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BK1925"
+    ],
+    "geo": {
+      "lat": "4.877",
+      "lon": "114.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK15-KP170",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Ujong Kelinik",
+      "en": "Kg. Ujong Kelinik",
+      "slug": "kg-ujong-kelinik-170"
+    },
+    "code": {
+      "id": "BN-BM-MK15-KP170",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK15",
+      "level": 2,
+      "name": {
+        "local": "Mukim Sungai Kebun",
+        "en": "Sungai Kebun",
+        "slug": "sungai-kebun-bn-bm-mk15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK15",
+        "level": 2,
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BK2125"
+    ],
+    "geo": {
+      "lat": "4.877",
+      "lon": "114.948"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

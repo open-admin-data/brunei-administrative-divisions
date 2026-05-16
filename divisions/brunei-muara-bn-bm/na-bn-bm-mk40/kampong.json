@@ -1,0 +1,650 @@
+[
+  {
+    "id": "BN-BM-MK40-KP895",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau ...",
+      "en": "Pulau ...",
+      "slug": "pulau-895"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP895",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.764",
+      "lon": "114.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP896",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau ...",
+      "en": "Pulau ...",
+      "slug": "pulau-896"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP896",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.764",
+      "lon": "114.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP908",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Baru-Baru",
+      "en": "Pulau Baru-Baru",
+      "slug": "pulau-baru-baru-908"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP908",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.904",
+      "lon": "115.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP882",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Bedukang",
+      "en": "Pulau Bedukang",
+      "slug": "pulau-bedukang-882"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP882",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP901",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Chermin",
+      "en": "Pulau Chermin",
+      "slug": "pulau-chermin-901"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP901",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.93",
+      "lon": "115.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP902",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Kaingaran",
+      "en": "Pulau Kaingaran",
+      "slug": "pulau-kaingaran-902"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP902",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.946",
+      "lon": "115.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP883",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Muara Besar",
+      "en": "Pulau Muara Besar",
+      "slug": "pulau-muara-besar-883"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP883",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.001",
+      "lon": "115.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP983",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Pepatan",
+      "en": "Pulau Pepatan",
+      "slug": "pulau-pepatan-983"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP983",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.917",
+      "lon": "115.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP893",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Si Mangga Besar",
+      "en": "Pulau Si Mangga Besar",
+      "slug": "pulau-si-mangga-besar-893"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP893",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP917",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Sibungor",
+      "en": "Pulau Sibungor",
+      "slug": "pulau-sibungor-917"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP917",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.866",
+      "lon": "114.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP894",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Suhung Damit",
+      "en": "Pulau Suhung Damit",
+      "slug": "pulau-suhung-damit-894"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP894",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK40-KP884",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjong Pelumpong",
+      "en": "Tanjong Pelumpong",
+      "slug": "tanjong-pelumpong-884"
+    },
+    "code": {
+      "id": "BN-BM-MK40-KP884",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK40",
+      "level": 2,
+      "name": {
+        "local": "NA",
+        "en": "NA",
+        "slug": "na-bn-bm-mk40"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK40",
+        "level": 2,
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.041",
+      "lon": "115.114"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.district,children_count.mukim,children_count.kampong,zip_codes,geo.lat,geo.lon
+BN-BE,1,Daerah,District,Belait,Belait,belait-bn-be,BN-BE,,,,,,8,83,,4.392,114.581
+BN-BE-MK26,2,Mukim,Subdistrict,Mukim Sukang,Sukang,sukang-bn-be-mk26,BN-BE-MK26,,BN-BE,Belait,Belait,,,5,,4.34,114.706
+BN-BE-MK29,2,Mukim,Subdistrict,Mukim Labi,Labi,labi-bn-be-mk29,BN-BE-MK29,,BN-BE,Belait,Belait,,,15,,4.444,114.432
+BN-BE-MK30,2,Mukim,Subdistrict,Mukim Kuala Belait,Kuala Belait,kuala-belait-bn-be-mk30,BN-BE-MK30,,BN-BE,Belait,Belait,,,8,,4.563,114.225
+BN-BE-MK31,2,Mukim,Subdistrict,Mukim Kuala Balai,Kuala Balai,kuala-balai-bn-be-mk31,BN-BE-MK31,,BN-BE,Belait,Belait,,,13,,4.493,114.312
+BN-BE-MK32,2,Mukim,Subdistrict,Mukim Bukit Sawat,Bukit Sawat,bukit-sawat-bn-be-mk32,BN-BE-MK32,,BN-BE,Belait,Belait,,,10,,4.553,114.584
+BN-BE-MK36,2,Mukim,Subdistrict,Mukim Liang,Liang,liang-bn-be-mk36,BN-BE-MK36,,BN-BE,Belait,Belait,,,21,,4.629,114.468
+BN-BE-MK37,2,Mukim,Subdistrict,Mukim Seria,Seria,seria-bn-be-mk37,BN-BE-MK37,,BN-BE,Belait,Belait,,,8,,4.582,114.353
+BN-BE-MK39,2,Mukim,Subdistrict,Mukim Melilas,Melilas,melilas-bn-be-mk39,BN-BE-MK39,,BN-BE,Belait,Belait,,,3,,4.108,114.679
+BN-BM,1,Daerah,District,Brunei-Muara,Brunei-Muara,brunei-muara-bn-bm,BN-BM,,,,,,19,197,,4.94,115.014
+BN-BM-MK05,2,Mukim,Subdistrict,Mukim Gadong A,Gadong A,gadong-a-bn-bm-mk05,BN-BM-MK05,,BN-BM,Brunei-Muara,Brunei-Muara,,,13,,4.917,114.896
+BN-BM-MK06,2,Mukim,Subdistrict,Mukim Berakas A,Berakas A,berakas-a-bn-bm-mk06,BN-BM-MK06,,BN-BM,Brunei-Muara,Brunei-Muara,,,17,,4.951,114.938
+BN-BM-MK07,2,Mukim,Subdistrict,Mukim Berakas B,Berakas B,berakas-b-bn-bm-mk07,BN-BM-MK07,,BN-BM,Brunei-Muara,Brunei-Muara,,,12,,4.962,114.967
+BN-BM-MK08,2,Mukim,Subdistrict,Mukim Mentiri,Mentiri,mentiri-bn-bm-mk08,BN-BM-MK08,,BN-BM,Brunei-Muara,Brunei-Muara,,,9,,4.982,114.999
+BN-BM-MK09,2,Mukim,Subdistrict,Mukim Peramu,Peramu,peramu-bn-bm-mk09,BN-BM-MK09,,BN-BM,Brunei-Muara,Brunei-Muara,,,7,,4.884,114.941
+BN-BM-MK10,2,Mukim,Subdistrict,Mukim Pangkalan Batu,Pangkalan Batu,pangkalan-batu-bn-bm-mk10,BN-BM-MK10,,BN-BM,Brunei-Muara,Brunei-Muara,,,14,,4.814,114.819
+BN-BM-MK11,2,Mukim,Subdistrict,Mukim Kota Batu,Kota Batu,kota-batu-bn-bm-mk11,BN-BM-MK11,,BN-BM,Brunei-Muara,Brunei-Muara,,,18,,4.883,114.974
+BN-BM-MK12,2,Mukim,Subdistrict,Mukim Kilanas,Kilanas,kilanas-bn-bm-mk12,BN-BM-MK12,,BN-BM,Brunei-Muara,Brunei-Muara,,,11,,4.856,114.872
+BN-BM-MK13,2,Mukim,Subdistrict,Mukim Kianggeh,Kianggeh,kianggeh-bn-bm-mk13,BN-BM-MK13,,BN-BM,Brunei-Muara,Brunei-Muara,,,11,,4.897,114.938
+BN-BM-MK14,2,Mukim,Subdistrict,Mukim Gadong B,Gadong B,gadong-b-bn-bm-mk14,BN-BM-MK14,,BN-BM,Brunei-Muara,Brunei-Muara,,,10,,4.917,114.896
+BN-BM-MK15,2,Mukim,Subdistrict,Mukim Sungai Kebun,Sungai Kebun,sungai-kebun-bn-bm-mk15,BN-BM-MK15,,BN-BM,Brunei-Muara,Brunei-Muara,,,7,,4.87,114.944
+BN-BM-MK16,2,Mukim,Subdistrict,Mukim Lumapas,Lumapas,lumapas-bn-bm-mk16,BN-BM-MK16,,BN-BM,Brunei-Muara,Brunei-Muara,,,12,,4.843,114.916
+BN-BM-MK17,2,Mukim,Subdistrict,Mukim Burong Pingai Ayer,Burong Pingai Ayer,burong-pingai-ayer-bn-bm-mk17,BN-BM-MK17,,BN-BM,Brunei-Muara,Brunei-Muara,,,8,,4.872,114.929
+BN-BM-MK18,2,Mukim,Subdistrict,Mukim Sengkurong,Sengkurong,sengkurong-bn-bm-mk18,BN-BM-MK18,,BN-BM,Brunei-Muara,Brunei-Muara,,,12,,4.902,114.832
+BN-BM-MK19,2,Mukim,Subdistrict,Mukim Serasa,Serasa,serasa-bn-bm-mk19,BN-BM-MK19,,BN-BM,Brunei-Muara,Brunei-Muara,,,5,,5.019,115.059
+BN-BM-MK20,2,Mukim,Subdistrict,Mukim Sungai Kedayan,Sungai Kedayan,sungai-kedayan-bn-bm-mk20,BN-BM-MK20,,BN-BM,Brunei-Muara,Brunei-Muara,,,7,,4.887,114.934
+BN-BM-MK21,2,Mukim,Subdistrict,Mukim Tamoi,Tamoi,tamoi-bn-bm-mk21,BN-BM-MK21,,BN-BM,Brunei-Muara,Brunei-Muara,,,7,,4.878,114.928
+BN-BM-MK22,2,Mukim,Subdistrict,Mukim Saba,Saba,saba-bn-bm-mk22,BN-BM-MK22,,BN-BM,Brunei-Muara,Brunei-Muara,,,5,,4.883,114.948
+BN-BM-MK40,2,Mukim,Subdistrict,NA,NA,na-bn-bm-mk40,BN-BM-MK40,,BN-BM,Brunei-Muara,Brunei-Muara,,,12,,4.856,114.872
+BN-TE,1,Daerah,District,Temburong,Temburong,temburong-bn-te,BN-TE,,,,,,6,74,,4.624,115.129
+BN-TE-MK01,2,Mukim,Subdistrict,Mukim Amo,Amo,amo-bn-te-mk01,BN-TE-MK01,,BN-TE,Temburong,Temburong,,,11,,4.542,115.196
+BN-TE-MK02,2,Mukim,Subdistrict,Mukim Batu Apoi,Batu Apoi,batu-apoi-bn-te-mk02,BN-TE-MK02,,BN-TE,Temburong,Temburong,,,15,,4.658,115.178
+BN-TE-MK03,2,Mukim,Subdistrict,Mukim Bokok,Bokok,bokok-bn-te-mk03,BN-TE-MK03,,BN-TE,Temburong,Temburong,,,15,,4.624,115.129
+BN-TE-MK23,2,Mukim,Subdistrict,Mukim Bangar,Bangar,bangar-bn-te-mk23,BN-TE-MK23,,BN-TE,Temburong,Temburong,,,22,,4.711,115.077
+BN-TE-MK24,2,Mukim,Subdistrict,Mukim Labu,Labu,labu-bn-te-mk24,BN-TE-MK24,,BN-TE,Temburong,Temburong,,,6,,4.766,115.123
+BN-TE-MK41,2,Mukim,Subdistrict,NA,NA,na-bn-te-mk41,BN-TE-MK41,,BN-TE,Temburong,Temburong,,,5,,4.856,114.872
+BN-TU,1,Daerah,District,Tutong,Tutong,tutong-bn-tu,BN-TU,,,,,,9,84,,4.585,114.682
+BN-TU-MK04,2,Mukim,Subdistrict,Mukim Keriam,Keriam,keriam-bn-tu-mk04,BN-TU-MK04,,BN-TU,Tutong,Tutong,,,9,,4.849,114.767
+BN-TU-MK25,2,Mukim,Subdistrict,Mukim Kiudang,Kiudang,kiudang-bn-tu-mk25,BN-TU-MK25,,BN-TU,Tutong,Tutong,,,9,,4.753,114.763
+BN-TU-MK27,2,Mukim,Subdistrict,Mukim Rambai,Rambai,rambai-bn-tu-mk27,BN-TU-MK27,,BN-TU,Tutong,Tutong,,,10,,4.481,114.754
+BN-TU-MK28,2,Mukim,Subdistrict,Mukim Lamunin,Lamunin,lamunin-bn-tu-mk28,BN-TU-MK28,,BN-TU,Tutong,Tutong,,,11,,4.677,114.698
+BN-TU-MK33,2,Mukim,Subdistrict,Mukim Telisai,Telisai,telisai-bn-tu-mk33,BN-TU-MK33,,BN-TU,Tutong,Tutong,,,12,,4.719,114.573
+BN-TU-MK34,2,Mukim,Subdistrict,Mukim Pekan Tutong,Pekan Tutong,pekan-tutong-bn-tu-mk34,BN-TU-MK34,,BN-TU,Tutong,Tutong,,,13,,4.805,114.684
+BN-TU-MK35,2,Mukim,Subdistrict,Mukim Tanjong Maya,Tanjong Maya,tanjong-maya-bn-tu-mk35,BN-TU-MK35,,BN-TU,Tutong,Tutong,,,11,,4.732,114.648
+BN-TU-MK38,2,Mukim,Subdistrict,Mukim Ukong,Ukong,ukong-bn-tu-mk38,BN-TU-MK38,,BN-TU,Tutong,Tutong,,,7,,4.621,114.633
+BN-TU-MK42,2,Mukim,Subdistrict,NA,NA,na-bn-tu-mk42,BN-TU-MK42,,BN-TU,Tutong,Tutong,,,2,,4.856,114.872

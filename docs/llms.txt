@@ -1,0 +1,60 @@
+# Brunei Administrative Divisions
+
+> Open dataset of Brunei's administrative hierarchy:
+> 4 districts, 42 subdistricts, 438 villages.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total districts: 4
+- Total subdistricts: 42
+- Total villages: 438
+- Coordinates: included (all levels)
+- Last updated: 2026-05-16
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/data/all-district.json)
+- [All subdistricts (JSON)](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/data/all-mukim.json)
+- [All villages (JSON)](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/data/all-kampong.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/data/schema.json)
+
+## Browse by District
+
+- [Belait](https://github.com/open-admin-data/brunei-administrative-divisions/tree/main/divisions/belait-bn-be/) — 8 subdistricts, 83 villages
+- [Tutong](https://github.com/open-admin-data/brunei-administrative-divisions/tree/main/divisions/tutong-bn-tu/) — 9 subdistricts, 84 villages
+- [Brunei-Muara](https://github.com/open-admin-data/brunei-administrative-divisions/tree/main/divisions/brunei-muara-bn-bm/) — 19 subdistricts, 197 villages
+- [Temburong](https://github.com/open-admin-data/brunei-administrative-divisions/tree/main/divisions/temburong-bn-te/) — 6 subdistricts, 74 villages
+
+## Per-District Full Data
+
+- [Belait](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/docs/llms-full/belait-bn-be.txt)
+- [Tutong](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/docs/llms-full/tutong-bn-tu.txt)
+- [Brunei-Muara](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/docs/llms-full/brunei-muara-bn-bm.txt)
+- [Temburong](https://raw.githubusercontent.com/open-admin-data/brunei-administrative-divisions/main/docs/llms-full/temburong-bn-te.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (district), 2 (subdistrict), 3 (village)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Brunei Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/brunei-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

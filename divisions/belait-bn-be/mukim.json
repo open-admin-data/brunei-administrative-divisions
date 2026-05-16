@@ -1,0 +1,378 @@
+[
+  {
+    "id": "BN-BE-MK32",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Bukit Sawat",
+      "en": "Bukit Sawat",
+      "slug": "bukit-sawat-bn-be-mk32"
+    },
+    "code": {
+      "id": "BN-BE-MK32",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.553",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK31",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Kuala Balai",
+      "en": "Kuala Balai",
+      "slug": "kuala-balai-bn-be-mk31"
+    },
+    "code": {
+      "id": "BN-BE-MK31",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.493",
+      "lon": "114.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK30",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Kuala Belait",
+      "en": "Kuala Belait",
+      "slug": "kuala-belait-bn-be-mk30"
+    },
+    "code": {
+      "id": "BN-BE-MK30",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.563",
+      "lon": "114.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Labi",
+      "en": "Labi",
+      "slug": "labi-bn-be-mk29"
+    },
+    "code": {
+      "id": "BN-BE-MK29",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK36",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Liang",
+      "en": "Liang",
+      "slug": "liang-bn-be-mk36"
+    },
+    "code": {
+      "id": "BN-BE-MK36",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.629",
+      "lon": "114.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK39",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Melilas",
+      "en": "Melilas",
+      "slug": "melilas-bn-be-mk39"
+    },
+    "code": {
+      "id": "BN-BE-MK39",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.108",
+      "lon": "114.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK37",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Seria",
+      "en": "Seria",
+      "slug": "seria-bn-be-mk37"
+    },
+    "code": {
+      "id": "BN-BE-MK37",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.582",
+      "lon": "114.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK26",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Sukang",
+      "en": "Sukang",
+      "slug": "sukang-bn-be-mk26"
+    },
+    "code": {
+      "id": "BN-BE-MK26",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE",
+      "level": 1,
+      "name": {
+        "local": "Belait",
+        "en": "Belait",
+        "slug": "belait-bn-be"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.34",
+      "lon": "114.706"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

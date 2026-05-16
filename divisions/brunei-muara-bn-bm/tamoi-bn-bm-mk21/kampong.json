@@ -1,0 +1,392 @@
+[
+  {
+    "id": "BN-BM-MK21-KP077",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Limbongan",
+      "en": "Kg. Limbongan",
+      "slug": "kg-limbongan-77"
+    },
+    "code": {
+      "id": "BN-BM-MK21-KP077",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK21",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tamoi",
+        "en": "Tamoi",
+        "slug": "tamoi-bn-bm-mk21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK21",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BL1312"
+    ],
+    "geo": {
+      "lat": "4.888",
+      "lon": "114.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK21-KP105",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pengiran Bendahara Lama",
+      "en": "Kg. Pengiran Bendahara Lama",
+      "slug": "kg-pengiran-bendahara-lama-105"
+    },
+    "code": {
+      "id": "BN-BM-MK21-KP105",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK21",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tamoi",
+        "en": "Tamoi",
+        "slug": "tamoi-bn-bm-mk21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK21",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BL1512"
+    ],
+    "geo": {
+      "lat": "4.885",
+      "lon": "114.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK21-KP106",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pengiran Kerma Indera Lama",
+      "en": "Kg. Pengiran Kerma Indera Lama",
+      "slug": "kg-pengiran-kerma-indera-lama-106"
+    },
+    "code": {
+      "id": "BN-BM-MK21-KP106",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK21",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tamoi",
+        "en": "Tamoi",
+        "slug": "tamoi-bn-bm-mk21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK21",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BL1712"
+    ],
+    "geo": {
+      "lat": "4.883",
+      "lon": "114.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK21-KP110",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Pengiran Tajuddin Hitam",
+      "en": "Kg. Pengiran Tajuddin Hitam",
+      "slug": "kg-pengiran-tajuddin-hitam-110"
+    },
+    "code": {
+      "id": "BN-BM-MK21-KP110",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK21",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tamoi",
+        "en": "Tamoi",
+        "slug": "tamoi-bn-bm-mk21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK21",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.882",
+      "lon": "114.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK21-KP155",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tamoi Tengah",
+      "en": "Kg. Tamoi Tengah",
+      "slug": "kg-tamoi-tengah-155"
+    },
+    "code": {
+      "id": "BN-BM-MK21-KP155",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK21",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tamoi",
+        "en": "Tamoi",
+        "slug": "tamoi-bn-bm-mk21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK21",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BL2112"
+    ],
+    "geo": {
+      "lat": "4.881",
+      "lon": "114.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK21-KP156",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tamoi Ujong",
+      "en": "Kg. Tamoi Ujong",
+      "slug": "kg-tamoi-ujong-156"
+    },
+    "code": {
+      "id": "BN-BM-MK21-KP156",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK21",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tamoi",
+        "en": "Tamoi",
+        "slug": "tamoi-bn-bm-mk21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK21",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BL2312"
+    ],
+    "geo": {
+      "lat": "4.878",
+      "lon": "114.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BM-MK21-KP169",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Ujong Bukit",
+      "en": "Kg. Ujong Bukit",
+      "slug": "kg-ujong-bukit-169"
+    },
+    "code": {
+      "id": "BN-BM-MK21-KP169",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BM-MK21",
+      "level": 2,
+      "name": {
+        "local": "Mukim Tamoi",
+        "en": "Tamoi",
+        "slug": "tamoi-bn-bm-mk21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BM",
+        "level": 1,
+        "name": {
+          "local": "Brunei-Muara",
+          "en": "Brunei-Muara",
+          "slug": "brunei-muara-bn-bm"
+        }
+      },
+      {
+        "id": "BN-BM-MK21",
+        "level": 2,
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "BL1112"
+    ],
+    "geo": {
+      "lat": "4.889",
+      "lon": "114.935"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

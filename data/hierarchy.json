@@ -1,0 +1,5902 @@
+[
+  {
+    "id": "BN-BE",
+    "name": {
+      "local": "Belait",
+      "en": "Belait",
+      "slug": "belait-bn-be"
+    },
+    "code": {
+      "id": "BN-BE",
+      "iso": null
+    },
+    "mukim": [
+      {
+        "id": "BN-BE-MK26",
+        "name": {
+          "local": "Mukim Sukang",
+          "en": "Sukang",
+          "slug": "sukang-bn-be-mk26"
+        },
+        "code": {
+          "id": "BN-BE-MK26",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK26-KP266",
+            "name": {
+              "local": "Kg. Kukub",
+              "en": "Kg. Kukub",
+              "slug": "kg-kukub-266"
+            },
+            "code": {
+              "id": "BN-BE-MK26-KP266",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK26-KP277",
+            "name": {
+              "local": "Kg. Apak-Apak",
+              "en": "Kg. Apak-Apak",
+              "slug": "kg-apak-apak-277"
+            },
+            "code": {
+              "id": "BN-BE-MK26-KP277",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK26-KP278",
+            "name": {
+              "local": "Kg. Sungai Hilir",
+              "en": "Kg. Sungai Hilir",
+              "slug": "kg-sungai-hilir-278"
+            },
+            "code": {
+              "id": "BN-BE-MK26-KP278",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK26-KP416",
+            "name": {
+              "local": "Kg. Sukang",
+              "en": "Kg. Sukang",
+              "slug": "kg-sukang-416"
+            },
+            "code": {
+              "id": "BN-BE-MK26-KP416",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK26-KP419",
+            "name": {
+              "local": "Kg. Dungun",
+              "en": "Kg. Dungun",
+              "slug": "kg-dungun-419"
+            },
+            "code": {
+              "id": "BN-BE-MK26-KP419",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BE-MK29",
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        },
+        "code": {
+          "id": "BN-BE-MK29",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK29-KP276",
+            "name": {
+              "local": "Kg. Bukit Puan",
+              "en": "Kg. Bukit Puan",
+              "slug": "kg-bukit-puan-276"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP276",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP300",
+            "name": {
+              "local": "Kg. Gatas",
+              "en": "Kg. Gatas",
+              "slug": "kg-gatas-300"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP300",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP301",
+            "name": {
+              "local": "Kg. Kenapol",
+              "en": "Kg. Kenapol",
+              "slug": "kg-kenapol-301"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP301",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP302",
+            "name": {
+              "local": "Kg. Labi",
+              "en": "Kg. Labi",
+              "slug": "kg-labi-302"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP302",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP303",
+            "name": {
+              "local": "Kg. Labi Lama",
+              "en": "Kg. Labi Lama",
+              "slug": "kg-labi-lama-303"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP303",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP304",
+            "name": {
+              "local": "Kg. Rampayoh",
+              "en": "Kg. Rampayoh",
+              "slug": "kg-rampayoh-304"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP304",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP305",
+            "name": {
+              "local": "Kg. Ratan",
+              "en": "Kg. Ratan",
+              "slug": "kg-ratan-305"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP305",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP306",
+            "name": {
+              "local": "Kg. Simpang Tiga",
+              "en": "Kg. Simpang Tiga",
+              "slug": "kg-simpang-tiga-306"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP306",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP307",
+            "name": {
+              "local": "Kg. Sungai Petai",
+              "en": "Kg. Sungai Petai",
+              "slug": "kg-sungai-petai-307"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP307",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP308",
+            "name": {
+              "local": "Kg. Tanajor",
+              "en": "Kg. Tanajor",
+              "slug": "kg-tanajor-308"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP308",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP309",
+            "name": {
+              "local": "Kg. Tapang Lupak",
+              "en": "Kg. Tapang Lupak",
+              "slug": "kg-tapang-lupak-309"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP309",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP310",
+            "name": {
+              "local": "Kg. Terawan",
+              "en": "Kg. Terawan",
+              "slug": "kg-terawan-310"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP310",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP311",
+            "name": {
+              "local": "Kg. Terunan",
+              "en": "Kg. Terunan",
+              "slug": "kg-terunan-311"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP311",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP421",
+            "name": {
+              "local": "Kg. Mendaram Kecil",
+              "en": "Kg. Mendaram Kecil",
+              "slug": "kg-mendaram-kecil-421"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP421",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK29-KP422",
+            "name": {
+              "local": "Kg. Teraja",
+              "en": "Kg. Teraja",
+              "slug": "kg-teraja-422"
+            },
+            "code": {
+              "id": "BN-BE-MK29-KP422",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BE-MK30",
+        "name": {
+          "local": "Mukim Kuala Belait",
+          "en": "Kuala Belait",
+          "slug": "kuala-belait-bn-be-mk30"
+        },
+        "code": {
+          "id": "BN-BE-MK30",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK30-KP281",
+            "name": {
+              "local": "Kg. Mumong A",
+              "en": "Kg. Mumong A",
+              "slug": "kg-mumong-a-281"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP281",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK30-KP282",
+            "name": {
+              "local": "Kg. Mumong B",
+              "en": "Kg. Mumong B",
+              "slug": "kg-mumong-b-282"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP282",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK30-KP283",
+            "name": {
+              "local": "Pekan Kuala Belait",
+              "en": "Pekan Kuala Belait",
+              "slug": "pekan-kuala-belait-283"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP283",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK30-KP284",
+            "name": {
+              "local": "Kg. Pandan A",
+              "en": "Kg. Pandan A",
+              "slug": "kg-pandan-a-284"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP284",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK30-KP285",
+            "name": {
+              "local": "Kg. Pandan B",
+              "en": "Kg. Pandan B",
+              "slug": "kg-pandan-b-285"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP285",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK30-KP286",
+            "name": {
+              "local": "Kg. Pandan C",
+              "en": "Kg. Pandan C",
+              "slug": "kg-pandan-c-286"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP286",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK30-KP397",
+            "name": {
+              "local": "Kg. Sungai Melilit",
+              "en": "Kg. Sungai Melilit",
+              "slug": "kg-sungai-melilit-397"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP397",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK30-KP398",
+            "name": {
+              "local": "Kg. Sungai Teraban",
+              "en": "Kg. Sungai Teraban",
+              "slug": "kg-sungai-teraban-398"
+            },
+            "code": {
+              "id": "BN-BE-MK30-KP398",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BE-MK31",
+        "name": {
+          "local": "Mukim Kuala Balai",
+          "en": "Kuala Balai",
+          "slug": "kuala-balai-bn-be-mk31"
+        },
+        "code": {
+          "id": "BN-BE-MK31",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK31-KP287",
+            "name": {
+              "local": "Kg. Kajitan",
+              "en": "Kg. Kajitan",
+              "slug": "kg-kajitan-287"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP287",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP288",
+            "name": {
+              "local": "Kg. Kuala Balai",
+              "en": "Kg. Kuala Balai",
+              "slug": "kg-kuala-balai-288"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP288",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP289",
+            "name": {
+              "local": "Kg. Lubok Tapang",
+              "en": "Kg. Lubok Tapang",
+              "slug": "kg-lubok-tapang-289"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP289",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP290",
+            "name": {
+              "local": "Kg. Lubok Lanyap",
+              "en": "Kg. Lubok Lanyap",
+              "slug": "kg-lubok-lanyap-290"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP290",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP291",
+            "name": {
+              "local": "Kg. Pangalayan",
+              "en": "Kg. Pangalayan",
+              "slug": "kg-pangalayan-291"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP291",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP292",
+            "name": {
+              "local": "Kg. Penyarap",
+              "en": "Kg. Penyarap",
+              "slug": "kg-penyarap-292"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP292",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP293",
+            "name": {
+              "local": "Kg. Sungai Damit",
+              "en": "Kg. Sungai Damit",
+              "slug": "kg-sungai-damit-293"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP293",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP294",
+            "name": {
+              "local": "Kg. Sungai Lutong",
+              "en": "Kg. Sungai Lutong",
+              "slug": "kg-sungai-lutong-294"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP294",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP295",
+            "name": {
+              "local": "Kg. Sungai Mendaram",
+              "en": "Kg. Sungai Mendaram",
+              "slug": "kg-sungai-mendaram-295"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP295",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP296",
+            "name": {
+              "local": "Kg. Tanjong Rangas",
+              "en": "Kg. Tanjong Rangas",
+              "slug": "kg-tanjong-rangas-296"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP296",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP297",
+            "name": {
+              "local": "Kg. Tanjong Sudai",
+              "en": "Kg. Tanjong Sudai",
+              "slug": "kg-tanjong-sudai-297"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP297",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP298",
+            "name": {
+              "local": "Kg. Tugong",
+              "en": "Kg. Tugong",
+              "slug": "kg-tugong-298"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP298",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK31-KP299",
+            "name": {
+              "local": "Hutan Simpan Kuala Balai",
+              "en": "Hutan Simpan Kuala Balai",
+              "slug": "hutan-simpan-kuala-balai-299"
+            },
+            "code": {
+              "id": "BN-BE-MK31-KP299",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BE-MK32",
+        "name": {
+          "local": "Mukim Bukit Sawat",
+          "en": "Bukit Sawat",
+          "slug": "bukit-sawat-bn-be-mk32"
+        },
+        "code": {
+          "id": "BN-BE-MK32",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK32-KP312",
+            "name": {
+              "local": "Kg. Bisut",
+              "en": "Kg. Bisut",
+              "slug": "kg-bisut-312"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP312",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP313",
+            "name": {
+              "local": "Kg. Bukit Kandol",
+              "en": "Kg. Bukit Kandol",
+              "slug": "kg-bukit-kandol-313"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP313",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP314",
+            "name": {
+              "local": "Kg. Bukit Sawat",
+              "en": "Kg. Bukit Sawat",
+              "slug": "kg-bukit-sawat-314"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP314",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP315",
+            "name": {
+              "local": "Kg. Merangking",
+              "en": "Kg. Merangking",
+              "slug": "kg-merangking-315"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP315",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP316",
+            "name": {
+              "local": "Kg. Merangking Hilir",
+              "en": "Kg. Merangking Hilir",
+              "slug": "kg-merangking-hilir-316"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP316",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP317",
+            "name": {
+              "local": "Kg. Merangking Ulu",
+              "en": "Kg. Merangking Ulu",
+              "slug": "kg-merangking-ulu-317"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP317",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP318",
+            "name": {
+              "local": "Kg. Pangkalan Siong",
+              "en": "Kg. Pangkalan Siong",
+              "slug": "kg-pangkalan-siong-318"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP318",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP319",
+            "name": {
+              "local": "Kg. Pulau Apil",
+              "en": "Kg. Pulau Apil",
+              "slug": "kg-pulau-apil-319"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP319",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP320",
+            "name": {
+              "local": "Kg. Sungai Mau",
+              "en": "Kg. Sungai Mau",
+              "slug": "kg-sungai-mau-320"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP320",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK32-KP321",
+            "name": {
+              "local": "Kg. Tarap",
+              "en": "Kg. Tarap",
+              "slug": "kg-tarap-321"
+            },
+            "code": {
+              "id": "BN-BE-MK32-KP321",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BE-MK36",
+        "name": {
+          "local": "Mukim Liang",
+          "en": "Liang",
+          "slug": "liang-bn-be-mk36"
+        },
+        "code": {
+          "id": "BN-BE-MK36",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK36-KP370",
+            "name": {
+              "local": "Badas Liang",
+              "en": "Badas Liang",
+              "slug": "badas-liang-370"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP370",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP371",
+            "name": {
+              "local": "Perkhemahan Lumut",
+              "en": "Perkhemahan Lumut",
+              "slug": "perkhemahan-lumut-371"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP371",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP372",
+            "name": {
+              "local": "Kg. Sungai Tali",
+              "en": "Kg. Sungai Tali",
+              "slug": "kg-sungai-tali-372"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP372",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP373",
+            "name": {
+              "local": "Perumahan Negara Lumut Kawasan 2",
+              "en": "Perumahan Negara Lumut Kawasan 2",
+              "slug": "perumahan-negara-lumut-kawasan-2-373"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP373",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP374",
+            "name": {
+              "local": "Kg. Lumut",
+              "en": "Kg. Lumut",
+              "slug": "kg-lumut-374"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP374",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP375",
+            "name": {
+              "local": "Hutan Simpan Andulau",
+              "en": "Hutan Simpan Andulau",
+              "slug": "hutan-simpan-andulau-375"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP375",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP376",
+            "name": {
+              "local": "Kg. Sungai Kang",
+              "en": "Kg. Sungai Kang",
+              "slug": "kg-sungai-kang-376"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP376",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP377",
+            "name": {
+              "local": "Kg. Sungai Liang",
+              "en": "Kg. Sungai Liang",
+              "slug": "kg-sungai-liang-377"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP377",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP378",
+            "name": {
+              "local": "Kg. Perumpong",
+              "en": "Kg. Perumpong",
+              "slug": "kg-perumpong-378"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP378",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP379",
+            "name": {
+              "local": "Kg. Sungai Gana",
+              "en": "Kg. Sungai Gana",
+              "slug": "kg-sungai-gana-379"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP379",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP380",
+            "name": {
+              "local": "Kg. Lilas",
+              "en": "Kg. Lilas",
+              "slug": "kg-lilas-380"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP380",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP381",
+            "name": {
+              "local": "Kg. Tunggulian",
+              "en": "Kg. Tunggulian",
+              "slug": "kg-tunggulian-381"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP381",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP382",
+            "name": {
+              "local": "Kg. Keluyoh",
+              "en": "Kg. Keluyoh",
+              "slug": "kg-keluyoh-382"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP382",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP383",
+            "name": {
+              "local": "Kg. Agis-Agis",
+              "en": "Kg. Agis-Agis",
+              "slug": "kg-agis-agis-383"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP383",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP384",
+            "name": {
+              "local": "Kg. Sungai Lalit",
+              "en": "Kg. Sungai Lalit",
+              "slug": "kg-sungai-lalit-384"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP384",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP385",
+            "name": {
+              "local": "Kg. Sungai Taring",
+              "en": "Kg. Sungai Taring",
+              "slug": "kg-sungai-taring-385"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP385",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP393",
+            "name": {
+              "local": "STKRJ Lumut",
+              "en": "STKRJ Lumut",
+              "slug": "stkrj-lumut-393"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP393",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP394",
+            "name": {
+              "local": "Kg. Lumut Tersusun",
+              "en": "Kg. Lumut Tersusun",
+              "slug": "kg-lumut-tersusun-394"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP394",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP395",
+            "name": {
+              "local": "Kg. Sungai Kuru",
+              "en": "Kg. Sungai Kuru",
+              "slug": "kg-sungai-kuru-395"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP395",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP399",
+            "name": {
+              "local": "Kg. Sungai Bakong",
+              "en": "Kg. Sungai Bakong",
+              "slug": "kg-sungai-bakong-399"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP399",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK36-KP400",
+            "name": {
+              "local": "Perumahan Negara Lumut Kawasan 1",
+              "en": "Perumahan Negara Lumut Kawasan 1",
+              "slug": "perumahan-negara-lumut-kawasan-1-400"
+            },
+            "code": {
+              "id": "BN-BE-MK36-KP400",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BE-MK37",
+        "name": {
+          "local": "Mukim Seria",
+          "en": "Seria",
+          "slug": "seria-bn-be-mk37"
+        },
+        "code": {
+          "id": "BN-BE-MK37",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK37-KP386",
+            "name": {
+              "local": "Pekan Seria Kawasan 1",
+              "en": "Pekan Seria Kawasan 1",
+              "slug": "pekan-seria-kawasan-1-386"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP386",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK37-KP387",
+            "name": {
+              "local": "Kg. Panaga",
+              "en": "Kg. Panaga",
+              "slug": "kg-panaga-387"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP387",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK37-KP388",
+            "name": {
+              "local": "Kg. Lorong Tiga Selatan",
+              "en": "Kg. Lorong Tiga Selatan",
+              "slug": "kg-lorong-tiga-selatan-388"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP388",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK37-KP389",
+            "name": {
+              "local": "Perumahan Negara Lorong Tengah Seria",
+              "en": "Perumahan Negara Lorong Tengah Seria",
+              "slug": "perumahan-negara-lorong-tengah-seria-389"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP389",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK37-KP390",
+            "name": {
+              "local": "Kg. Sungai Bera",
+              "en": "Kg. Sungai Bera",
+              "slug": "kg-sungai-bera-390"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP390",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK37-KP391",
+            "name": {
+              "local": "Kg. Anduki",
+              "en": "Kg. Anduki",
+              "slug": "kg-anduki-391"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP391",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK37-KP392",
+            "name": {
+              "local": "Badas",
+              "en": "Badas",
+              "slug": "badas-392"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP392",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK37-KP396",
+            "name": {
+              "local": "Pekan Seria Kawasan 2",
+              "en": "Pekan Seria Kawasan 2",
+              "slug": "pekan-seria-kawasan-2-396"
+            },
+            "code": {
+              "id": "BN-BE-MK37-KP396",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BE-MK39",
+        "name": {
+          "local": "Mukim Melilas",
+          "en": "Melilas",
+          "slug": "melilas-bn-be-mk39"
+        },
+        "code": {
+          "id": "BN-BE-MK39",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BE-MK39-KP417",
+            "name": {
+              "local": "Kg. Melilas",
+              "en": "Kg. Melilas",
+              "slug": "kg-melilas-417"
+            },
+            "code": {
+              "id": "BN-BE-MK39-KP417",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK39-KP418",
+            "name": {
+              "local": "Kg. Bang Garang",
+              "en": "Kg. Bang Garang",
+              "slug": "kg-bang-garang-418"
+            },
+            "code": {
+              "id": "BN-BE-MK39-KP418",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BE-MK39-KP420",
+            "name": {
+              "local": "Kg. Bukit Tuding",
+              "en": "Kg. Bukit Tuding",
+              "slug": "kg-bukit-tuding-420"
+            },
+            "code": {
+              "id": "BN-BE-MK39-KP420",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BN-TU",
+    "name": {
+      "local": "Tutong",
+      "en": "Tutong",
+      "slug": "tutong-bn-tu"
+    },
+    "code": {
+      "id": "BN-TU",
+      "iso": null
+    },
+    "mukim": [
+      {
+        "id": "BN-TU-MK04",
+        "name": {
+          "local": "Mukim Keriam",
+          "en": "Keriam",
+          "slug": "keriam-bn-tu-mk04"
+        },
+        "code": {
+          "id": "BN-TU-MK04",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK04-KP014",
+            "name": {
+              "local": "Kg. Ikas",
+              "en": "Kg. Ikas",
+              "slug": "kg-ikas-14"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP014",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP240",
+            "name": {
+              "local": "Kg. Maraburong",
+              "en": "Kg. Maraburong",
+              "slug": "kg-maraburong-240"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP240",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP241",
+            "name": {
+              "local": "Kg. Kupang",
+              "en": "Kg. Kupang",
+              "slug": "kg-kupang-241"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP241",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP242",
+            "name": {
+              "local": "Kg. Sungai Kelugos",
+              "en": "Kg. Sungai Kelugos",
+              "slug": "kg-sungai-kelugos-242"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP242",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP324",
+            "name": {
+              "local": "Kg. Luagan Dudok",
+              "en": "Kg. Luagan Dudok",
+              "slug": "kg-luagan-dudok-324"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP324",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP325",
+            "name": {
+              "local": "Kg. Bukit Panggal",
+              "en": "Kg. Bukit Panggal",
+              "slug": "kg-bukit-panggal-325"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP325",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP326",
+            "name": {
+              "local": "Kg. Sinaut",
+              "en": "Kg. Sinaut",
+              "slug": "kg-sinaut-326"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP326",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP327",
+            "name": {
+              "local": "Kg. Keriam",
+              "en": "Kg. Keriam",
+              "slug": "kg-keriam-327"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP327",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK04-KP962",
+            "name": {
+              "local": "Kawasan Padang Tembak Binturan",
+              "en": "Kawasan Padang Tembak Binturan",
+              "slug": "kawasan-padang-tembak-binturan-962"
+            },
+            "code": {
+              "id": "BN-TU-MK04-KP962",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK25",
+        "name": {
+          "local": "Mukim Kiudang",
+          "en": "Kiudang",
+          "slug": "kiudang-bn-tu-mk25"
+        },
+        "code": {
+          "id": "BN-TU-MK25",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK25-KP243",
+            "name": {
+              "local": "Kg. Birau",
+              "en": "Kg. Birau",
+              "slug": "kg-birau-243"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP243",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP244",
+            "name": {
+              "local": "Kg. Batang Mitus",
+              "en": "Kg. Batang Mitus",
+              "slug": "kg-batang-mitus-244"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP244",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP265",
+            "name": {
+              "local": "Kg. Luagan Timbaran",
+              "en": "Kg. Luagan Timbaran",
+              "slug": "kg-luagan-timbaran-265"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP265",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP341",
+            "name": {
+              "local": "Kg. Bakiau",
+              "en": "Kg. Bakiau",
+              "slug": "kg-bakiau-341"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP341",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP342",
+            "name": {
+              "local": "Kg. Kiudang",
+              "en": "Kg. Kiudang",
+              "slug": "kg-kiudang-342"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP342",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP343",
+            "name": {
+              "local": "Kg. Pad Nunok",
+              "en": "Kg. Pad Nunok",
+              "slug": "kg-pad-nunok-343"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP343",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP344",
+            "name": {
+              "local": "Kg. Mungkom",
+              "en": "Kg. Mungkom",
+              "slug": "kg-mungkom-344"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP344",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP351",
+            "name": {
+              "local": "Kg. Pangkalan Mau",
+              "en": "Kg. Pangkalan Mau",
+              "slug": "kg-pangkalan-mau-351"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP351",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK25-KP352",
+            "name": {
+              "local": "Kg. Kebia",
+              "en": "Kg. Kebia",
+              "slug": "kg-kebia-352"
+            },
+            "code": {
+              "id": "BN-TU-MK25-KP352",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK27",
+        "name": {
+          "local": "Mukim Rambai",
+          "en": "Rambai",
+          "slug": "rambai-bn-tu-mk27"
+        },
+        "code": {
+          "id": "BN-TU-MK27",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK27-KP267",
+            "name": {
+              "local": "Hutan Simpan Bukit Ladan",
+              "en": "Hutan Simpan Bukit Ladan",
+              "slug": "hutan-simpan-bukit-ladan-267"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP267",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP268",
+            "name": {
+              "local": "Kg. Lalipo",
+              "en": "Kg. Lalipo",
+              "slug": "kg-lalipo-268"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP268",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP269",
+            "name": {
+              "local": "Kg. Supon Kechil",
+              "en": "Kg. Supon Kechil",
+              "slug": "kg-supon-kechil-269"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP269",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP270",
+            "name": {
+              "local": "Kg. Bedawan",
+              "en": "Kg. Bedawan",
+              "slug": "kg-bedawan-270"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP270",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP271",
+            "name": {
+              "local": "Kg. Belabau",
+              "en": "Kg. Belabau",
+              "slug": "kg-belabau-271"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP271",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP403",
+            "name": {
+              "local": "Kg. Supon Besar",
+              "en": "Kg. Supon Besar",
+              "slug": "kg-supon-besar-403"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP403",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP406",
+            "name": {
+              "local": "Kg. Merimbun",
+              "en": "Kg. Merimbun",
+              "slug": "kg-merimbun-406"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP406",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP407",
+            "name": {
+              "local": "Kg. Rambai",
+              "en": "Kg. Rambai",
+              "slug": "kg-rambai-407"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP407",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP408",
+            "name": {
+              "local": "Kg. Kuala Ungar",
+              "en": "Kg. Kuala Ungar",
+              "slug": "kg-kuala-ungar-408"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP408",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK27-KP413",
+            "name": {
+              "local": "Kg. Benutan",
+              "en": "Kg. Benutan",
+              "slug": "kg-benutan-413"
+            },
+            "code": {
+              "id": "BN-TU-MK27-KP413",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK28",
+        "name": {
+          "local": "Mukim Lamunin",
+          "en": "Lamunin",
+          "slug": "lamunin-bn-tu-mk28"
+        },
+        "code": {
+          "id": "BN-TU-MK28",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK28-KP272",
+            "name": {
+              "local": "Kg. Layong",
+              "en": "Kg. Layong",
+              "slug": "kg-layong-272"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP272",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP273",
+            "name": {
+              "local": "Kg. Biong",
+              "en": "Kg. Biong",
+              "slug": "kg-biong-273"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP273",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP274",
+            "name": {
+              "local": "Kg. Bintudoh",
+              "en": "Kg. Bintudoh",
+              "slug": "kg-bintudoh-274"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP274",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP275",
+            "name": {
+              "local": "Kg. Bukit Bang Dalam",
+              "en": "Kg. Bukit Bang Dalam",
+              "slug": "kg-bukit-bang-dalam-275"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP275",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP279",
+            "name": {
+              "local": "Kg. Bukit Sulang",
+              "en": "Kg. Bukit Sulang",
+              "slug": "kg-bukit-sulang-279"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP279",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP280",
+            "name": {
+              "local": "Kg. Menengah Lamunin",
+              "en": "Kg. Menengah Lamunin",
+              "slug": "kg-menengah-lamunin-280"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP280",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP353",
+            "name": {
+              "local": "Kg. Kuala Abang",
+              "en": "Kg. Kuala Abang",
+              "slug": "kg-kuala-abang-353"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP353",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP354",
+            "name": {
+              "local": "Kg. Lamunin",
+              "en": "Kg. Lamunin",
+              "slug": "kg-lamunin-354"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP354",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP355",
+            "name": {
+              "local": "Kg. Bukit Barun",
+              "en": "Kg. Bukit Barun",
+              "slug": "kg-bukit-barun-355"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP355",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP414",
+            "name": {
+              "local": "Kg. Panchung",
+              "en": "Kg. Panchung",
+              "slug": "kg-panchung-414"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP414",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK28-KP415",
+            "name": {
+              "local": "Hutan Simpan Bukit Ladan",
+              "en": "Hutan Simpan Bukit Ladan",
+              "slug": "hutan-simpan-bukit-ladan-415"
+            },
+            "code": {
+              "id": "BN-TU-MK28-KP415",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK33",
+        "name": {
+          "local": "Mukim Telisai",
+          "en": "Telisai",
+          "slug": "telisai-bn-tu-mk33"
+        },
+        "code": {
+          "id": "BN-TU-MK33",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK33-KP322",
+            "name": {
+              "local": "Kg. Pangkalan Dalai",
+              "en": "Kg. Pangkalan Dalai",
+              "slug": "kg-pangkalan-dalai-322"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP322",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP323",
+            "name": {
+              "local": "Kg. Telisai",
+              "en": "Kg. Telisai",
+              "slug": "kg-telisai-323"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP323",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP345",
+            "name": {
+              "local": "Kg. Panapar-Danau",
+              "en": "Kg. Panapar-Danau",
+              "slug": "kg-panapar-danau-345"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP345",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP346",
+            "name": {
+              "local": "Kg. Penyatang",
+              "en": "Kg. Penyatang",
+              "slug": "kg-penyatang-346"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP346",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP347",
+            "name": {
+              "local": "Kg. Binchaya",
+              "en": "Kg. Binchaya",
+              "slug": "kg-binchaya-347"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP347",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP348",
+            "name": {
+              "local": "Kg. Bukit Beruang",
+              "en": "Kg. Bukit Beruang",
+              "slug": "kg-bukit-beruang-348"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP348",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP349",
+            "name": {
+              "local": "Kg. Bukit Pasir",
+              "en": "Kg. Bukit Pasir",
+              "slug": "kg-bukit-pasir-349"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP349",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP350",
+            "name": {
+              "local": "Kg. Telamba",
+              "en": "Kg. Telamba",
+              "slug": "kg-telamba-350"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP350",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP368",
+            "name": {
+              "local": "Kg. Sungai Paku",
+              "en": "Kg. Sungai Paku",
+              "slug": "kg-sungai-paku-368"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP368",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP369",
+            "name": {
+              "local": "Kg. Keramut",
+              "en": "Kg. Keramut",
+              "slug": "kg-keramut-369"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP369",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP968",
+            "name": {
+              "local": "Kg. Danau",
+              "en": "Kg. Danau",
+              "slug": "kg-danau-968"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP968",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK33-KP969",
+            "name": {
+              "local": "Kg. Tumpuan Ugas",
+              "en": "Kg. Tumpuan Ugas",
+              "slug": "kg-tumpuan-ugas-969"
+            },
+            "code": {
+              "id": "BN-TU-MK33-KP969",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK34",
+        "name": {
+          "local": "Mukim Pekan Tutong",
+          "en": "Pekan Tutong",
+          "slug": "pekan-tutong-bn-tu-mk34"
+        },
+        "code": {
+          "id": "BN-TU-MK34",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK34-KP330",
+            "name": {
+              "local": "Kg. Kandang",
+              "en": "Kg. Kandang",
+              "slug": "kg-kandang-330"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP330",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP331",
+            "name": {
+              "local": "Kg. Serambangun",
+              "en": "Kg. Serambangun",
+              "slug": "kg-serambangun-331"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP331",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP332",
+            "name": {
+              "local": "Kg. Petani",
+              "en": "Kg. Petani",
+              "slug": "kg-petani-332"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP332",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP333",
+            "name": {
+              "local": "Kg. Panchor Dulit",
+              "en": "Kg. Panchor Dulit",
+              "slug": "kg-panchor-dulit-333"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP333",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP334",
+            "name": {
+              "local": "Kg. Sengkarai",
+              "en": "Kg. Sengkarai",
+              "slug": "kg-sengkarai-334"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP334",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP335",
+            "name": {
+              "local": "Bukit Bendera",
+              "en": "Bukit Bendera",
+              "slug": "bukit-bendera-335"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP335",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP336",
+            "name": {
+              "local": "Kg. Panchor Papan",
+              "en": "Kg. Panchor Papan",
+              "slug": "kg-panchor-papan-336"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP336",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP338",
+            "name": {
+              "local": "Kg. Tanah Burok",
+              "en": "Kg. Tanah Burok",
+              "slug": "kg-tanah-burok-338"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP338",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP340",
+            "name": {
+              "local": "Paya Pekan Tutong",
+              "en": "Paya Pekan Tutong",
+              "slug": "paya-pekan-tutong-340"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP340",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP963",
+            "name": {
+              "local": "Kg. Penanjong",
+              "en": "Kg. Penanjong",
+              "slug": "kg-penanjong-963"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP963",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP964",
+            "name": {
+              "local": "Tutong Kem",
+              "en": "Tutong Kem",
+              "slug": "tutong-kem-964"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP964",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP966",
+            "name": {
+              "local": "Kg. Penabai",
+              "en": "Kg. Penabai",
+              "slug": "kg-penabai-966"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP966",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK34-KP967",
+            "name": {
+              "local": "Kg. Kuala Tutong",
+              "en": "Kg. Kuala Tutong",
+              "slug": "kg-kuala-tutong-967"
+            },
+            "code": {
+              "id": "BN-TU-MK34-KP967",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK35",
+        "name": {
+          "local": "Mukim Tanjong Maya",
+          "en": "Tanjong Maya",
+          "slug": "tanjong-maya-bn-tu-mk35"
+        },
+        "code": {
+          "id": "BN-TU-MK35",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK35-KP358",
+            "name": {
+              "local": "Kg. Tanjong Panjang",
+              "en": "Kg. Tanjong Panjang",
+              "slug": "kg-tanjong-panjang-358"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP358",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP359",
+            "name": {
+              "local": "Kg. Liulon",
+              "en": "Kg. Liulon",
+              "slug": "kg-liulon-359"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP359",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP360",
+            "name": {
+              "local": "Kg. Bangunggos",
+              "en": "Kg. Bangunggos",
+              "slug": "kg-bangunggos-360"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP360",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP361",
+            "name": {
+              "local": "Kg. Sebakit",
+              "en": "Kg. Sebakit",
+              "slug": "kg-sebakit-361"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP361",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP362",
+            "name": {
+              "local": "Kg. Penapar",
+              "en": "Kg. Penapar",
+              "slug": "kg-penapar-362"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP362",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP363",
+            "name": {
+              "local": "Kg. Pemadang",
+              "en": "Kg. Pemadang",
+              "slug": "kg-pemadang-363"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP363",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP364",
+            "name": {
+              "local": "Kg. Lubok Pulau",
+              "en": "Kg. Lubok Pulau",
+              "slug": "kg-lubok-pulau-364"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP364",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP365",
+            "name": {
+              "local": "Kg. Tanjong Maya",
+              "en": "Kg. Tanjong Maya",
+              "slug": "kg-tanjong-maya-365"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP365",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP366",
+            "name": {
+              "local": "Kg. Padang",
+              "en": "Kg. Padang",
+              "slug": "kg-padang-366"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP366",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP367",
+            "name": {
+              "local": "Kg. Bukit Sibut",
+              "en": "Kg. Bukit Sibut",
+              "slug": "kg-bukit-sibut-367"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP367",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK35-KP402",
+            "name": {
+              "local": "Kg. Bukit Udal",
+              "en": "Kg. Bukit Udal",
+              "slug": "kg-bukit-udal-402"
+            },
+            "code": {
+              "id": "BN-TU-MK35-KP402",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK38",
+        "name": {
+          "local": "Mukim Ukong",
+          "en": "Ukong",
+          "slug": "ukong-bn-tu-mk38"
+        },
+        "code": {
+          "id": "BN-TU-MK38",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK38-KP401",
+            "name": {
+              "local": "Hutan Simpan Andulau",
+              "en": "Hutan Simpan Andulau",
+              "slug": "hutan-simpan-andulau-401"
+            },
+            "code": {
+              "id": "BN-TU-MK38-KP401",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK38-KP404",
+            "name": {
+              "local": "Kg. Long Mayan",
+              "en": "Kg. Long Mayan",
+              "slug": "kg-long-mayan-404"
+            },
+            "code": {
+              "id": "BN-TU-MK38-KP404",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK38-KP405",
+            "name": {
+              "local": "Kg. Pak Bidang",
+              "en": "Kg. Pak Bidang",
+              "slug": "kg-pak-bidang-405"
+            },
+            "code": {
+              "id": "BN-TU-MK38-KP405",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK38-KP409",
+            "name": {
+              "local": "Kg. Bukit",
+              "en": "Kg. Bukit",
+              "slug": "kg-bukit-409"
+            },
+            "code": {
+              "id": "BN-TU-MK38-KP409",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK38-KP410",
+            "name": {
+              "local": "Kg. Ukong",
+              "en": "Kg. Ukong",
+              "slug": "kg-ukong-410"
+            },
+            "code": {
+              "id": "BN-TU-MK38-KP410",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK38-KP411",
+            "name": {
+              "local": "Kg. Sungai Damit Pemadang",
+              "en": "Kg. Sungai Damit Pemadang",
+              "slug": "kg-sungai-damit-pemadang-411"
+            },
+            "code": {
+              "id": "BN-TU-MK38-KP411",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK38-KP412",
+            "name": {
+              "local": "Kg. Pangkalan Ra'an",
+              "en": "Kg. Pangkalan Ra'an",
+              "slug": "kg-pangkalan-raan-412"
+            },
+            "code": {
+              "id": "BN-TU-MK38-KP412",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TU-MK42",
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-tu-mk42"
+        },
+        "code": {
+          "id": "BN-TU-MK42",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TU-MK42-KP921",
+            "name": {
+              "local": "Pulau Bakuku",
+              "en": "Pulau Bakuku",
+              "slug": "pulau-bakuku-921"
+            },
+            "code": {
+              "id": "BN-TU-MK42-KP921",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TU-MK42-KP933",
+            "name": {
+              "local": "Pulau Setawat",
+              "en": "Pulau Setawat",
+              "slug": "pulau-setawat-933"
+            },
+            "code": {
+              "id": "BN-TU-MK42-KP933",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BN-BM",
+    "name": {
+      "local": "Brunei-Muara",
+      "en": "Brunei-Muara",
+      "slug": "brunei-muara-bn-bm"
+    },
+    "code": {
+      "id": "BN-BM",
+      "iso": null
+    },
+    "mukim": [
+      {
+        "id": "BN-BM-MK05",
+        "name": {
+          "local": "Mukim Gadong A",
+          "en": "Gadong A",
+          "slug": "gadong-a-bn-bm-mk05"
+        },
+        "code": {
+          "id": "BN-BM-MK05",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK05-KP015",
+            "name": {
+              "local": "Kg. Katok",
+              "en": "Kg. Katok",
+              "slug": "kg-katok-15"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP015",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP018",
+            "name": {
+              "local": "Perumahan Negara Rimba Kawasan 4",
+              "en": "Perumahan Negara Rimba Kawasan 4",
+              "slug": "perumahan-negara-rimba-kawasan-4-18"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP018",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP020",
+            "name": {
+              "local": "Hutan Simpan",
+              "en": "Hutan Simpan",
+              "slug": "hutan-simpan-20"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP020",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP022",
+            "name": {
+              "local": "Perumahan Negara Rimba Kawasan 1",
+              "en": "Perumahan Negara Rimba Kawasan 1",
+              "slug": "perumahan-negara-rimba-kawasan-1-22"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP022",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP023",
+            "name": {
+              "local": "Perumahan Negara Rimba Kawasan 2",
+              "en": "Perumahan Negara Rimba Kawasan 2",
+              "slug": "perumahan-negara-rimba-kawasan-2-23"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP023",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP025",
+            "name": {
+              "local": "Perumahan Negara Rimba Kawasan 3",
+              "en": "Perumahan Negara Rimba Kawasan 3",
+              "slug": "perumahan-negara-rimba-kawasan-3-25"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP025",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP028",
+            "name": {
+              "local": "Perumahan Negara Rimba Kawasan 5",
+              "en": "Perumahan Negara Rimba Kawasan 5",
+              "slug": "perumahan-negara-rimba-kawasan-5-28"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP028",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP118",
+            "name": {
+              "local": "Kg. Rimba",
+              "en": "Kg. Rimba",
+              "slug": "kg-rimba-118"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP118",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP250",
+            "name": {
+              "local": "STKRJ Tungku Kawasan 1",
+              "en": "STKRJ Tungku Kawasan 1",
+              "slug": "stkrj-tungku-kawasan-1-250"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP250",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP251",
+            "name": {
+              "local": "STKRJ Tungku Kawasan 3",
+              "en": "STKRJ Tungku Kawasan 3",
+              "slug": "stkrj-tungku-kawasan-3-251"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP251",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP252",
+            "name": {
+              "local": "STKRJ Tungku Kawasan 2",
+              "en": "STKRJ Tungku Kawasan 2",
+              "slug": "stkrj-tungku-kawasan-2-252"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP252",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP253",
+            "name": {
+              "local": "STKRJ Rimba",
+              "en": "STKRJ Rimba",
+              "slug": "stkrj-rimba-253"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP253",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK05-KP954",
+            "name": {
+              "local": "Kg. Tungku",
+              "en": "Kg. Tungku",
+              "slug": "kg-tungku-954"
+            },
+            "code": {
+              "id": "BN-BM-MK05-KP954",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK06",
+        "name": {
+          "local": "Mukim Berakas A",
+          "en": "Berakas A",
+          "slug": "berakas-a-bn-bm-mk06"
+        },
+        "code": {
+          "id": "BN-BM-MK06",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK06-KP016",
+            "name": {
+              "local": "Kg. Jaya Bakti",
+              "en": "Kg. Jaya Bakti",
+              "slug": "kg-jaya-bakti-16"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP016",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP019",
+            "name": {
+              "local": "Lapangan Terbang Antarabangsa Brunei",
+              "en": "Lapangan Terbang Antarabangsa Brunei",
+              "slug": "lapangan-terbang-antarabangsa-brunei-19"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP019",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP031",
+            "name": {
+              "local": "Kawasan Jabatan-Jabatan Dan Perumahan Kerajaan",
+              "en": "Kawasan Jabatan-Jabatan Dan Perumahan Kerajaan",
+              "slug": "kawasan-jabatan-jabatan-dan-perumahan-kerajaan-31"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP031",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP032",
+            "name": {
+              "local": "Kg. Anggerek Desa",
+              "en": "Kg. Anggerek Desa",
+              "slug": "kg-anggerek-desa-32"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP032",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP055",
+            "name": {
+              "local": "Kg. Burong Pingai Berakas",
+              "en": "Kg. Burong Pingai Berakas",
+              "slug": "kg-burong-pingai-berakas-55"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP055",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP060",
+            "name": {
+              "local": "Kg. Jaya Setia",
+              "en": "Kg. Jaya Setia",
+              "slug": "kg-jaya-setia-60"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP060",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP073",
+            "name": {
+              "local": "Kg. Lambak A",
+              "en": "Kg. Lambak A",
+              "slug": "kg-lambak-a-73"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP073",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP074",
+            "name": {
+              "local": "Kg. Lambak B",
+              "en": "Kg. Lambak B",
+              "slug": "kg-lambak-b-74"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP074",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP075",
+            "name": {
+              "local": "Kg. Lambak Kiri",
+              "en": "Kg. Lambak Kiri",
+              "slug": "kg-lambak-kiri-75"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP075",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP093",
+            "name": {
+              "local": "Kg. Orang Kaya Besar Imas",
+              "en": "Kg. Orang Kaya Besar Imas",
+              "slug": "kg-orang-kaya-besar-imas-93"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP093",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP094",
+            "name": {
+              "local": "Kg. Pancha Delima",
+              "en": "Kg. Pancha Delima",
+              "slug": "kg-pancha-delima-94"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP094",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP109",
+            "name": {
+              "local": "Kg. Pengiran Siraja Muda Delima Satu",
+              "en": "Kg. Pengiran Siraja Muda Delima Satu",
+              "slug": "kg-pengiran-siraja-muda-delima-satu-109"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP109",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP115",
+            "name": {
+              "local": "Kg. Pulaie",
+              "en": "Kg. Pulaie",
+              "slug": "kg-pulaie-115"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP115",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP133",
+            "name": {
+              "local": "Kg. Serusop",
+              "en": "Kg. Serusop",
+              "slug": "kg-serusop-133"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP133",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP165",
+            "name": {
+              "local": "Kg. Terunjing",
+              "en": "Kg. Terunjing",
+              "slug": "kg-terunjing-165"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP165",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP176",
+            "name": {
+              "local": "STKRJ Lambak Kiri",
+              "en": "STKRJ Lambak Kiri",
+              "slug": "stkrj-lambak-kiri-176"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP176",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK06-KP958",
+            "name": {
+              "local": "Perkhemahan Berakas",
+              "en": "Perkhemahan Berakas",
+              "slug": "perkhemahan-berakas-958"
+            },
+            "code": {
+              "id": "BN-BM-MK06-KP958",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK07",
+        "name": {
+          "local": "Mukim Berakas B",
+          "en": "Berakas B",
+          "slug": "berakas-b-bn-bm-mk07"
+        },
+        "code": {
+          "id": "BN-BM-MK07",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK07-KP017",
+            "name": {
+              "local": "Perumahan Negara Lambak Kanan Kawasan 2",
+              "en": "Perumahan Negara Lambak Kanan Kawasan 2",
+              "slug": "perumahan-negara-lambak-kanan-kawasan-2-17"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP017",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP021",
+            "name": {
+              "local": "Perumahan Negara Lambak Kanan Kawasan 1",
+              "en": "Perumahan Negara Lambak Kanan Kawasan 1",
+              "slug": "perumahan-negara-lambak-kanan-kawasan-1-21"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP021",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP024",
+            "name": {
+              "local": "Perumahan Negara Lambak Kanan Kawasan 3",
+              "en": "Perumahan Negara Lambak Kanan Kawasan 3",
+              "slug": "perumahan-negara-lambak-kanan-kawasan-3-24"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP024",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP026",
+            "name": {
+              "local": "Perumahan Negara Lambak Kanan Kawasan 4",
+              "en": "Perumahan Negara Lambak Kanan Kawasan 4",
+              "slug": "perumahan-negara-lambak-kanan-kawasan-4-26"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP026",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP027",
+            "name": {
+              "local": "Perumahan Negara Lambak Kanan Kawasan 5",
+              "en": "Perumahan Negara Lambak Kanan Kawasan 5",
+              "slug": "perumahan-negara-lambak-kanan-kawasan-5-27"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP027",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP083",
+            "name": {
+              "local": "Kg. Madang",
+              "en": "Kg. Madang",
+              "slug": "kg-madang-83"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP083",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP085",
+            "name": {
+              "local": "Kg. Manggis",
+              "en": "Kg. Manggis",
+              "slug": "kg-manggis-85"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP085",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP126",
+            "name": {
+              "local": "Kg. Salambigar",
+              "en": "Kg. Salambigar",
+              "slug": "kg-salambigar-126"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP126",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP140",
+            "name": {
+              "local": "Kg. Sungai Akar",
+              "en": "Kg. Sungai Akar",
+              "slug": "kg-sungai-akar-140"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP140",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP144",
+            "name": {
+              "local": "Kg. Sungai Hanching",
+              "en": "Kg. Sungai Hanching",
+              "slug": "kg-sungai-hanching-144"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP144",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP149",
+            "name": {
+              "local": "Kg. Sungai Orok",
+              "en": "Kg. Sungai Orok",
+              "slug": "kg-sungai-orok-149"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP149",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK07-KP153",
+            "name": {
+              "local": "Kg. Sungai Tilong",
+              "en": "Kg. Sungai Tilong",
+              "slug": "kg-sungai-tilong-153"
+            },
+            "code": {
+              "id": "BN-BM-MK07-KP153",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK08",
+        "name": {
+          "local": "Mukim Mentiri",
+          "en": "Mentiri",
+          "slug": "mentiri-bn-bm-mk08"
+        },
+        "code": {
+          "id": "BN-BM-MK08",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK08-KP029",
+            "name": {
+              "local": "Perumahan Negara Mentiri Kawasan A",
+              "en": "Perumahan Negara Mentiri Kawasan A",
+              "slug": "perumahan-negara-mentiri-kawasan-a-29"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP029",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP030",
+            "name": {
+              "local": "Perumahan Negara Mentiri Kawasan B",
+              "en": "Perumahan Negara Mentiri Kawasan B",
+              "slug": "perumahan-negara-mentiri-kawasan-b-30"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP030",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP039",
+            "name": {
+              "local": "Kg. Batu Marang",
+              "en": "Kg. Batu Marang",
+              "slug": "kg-batu-marang-39"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP039",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP090",
+            "name": {
+              "local": "Kg. Mentiri",
+              "en": "Kg. Mentiri",
+              "slug": "kg-mentiri-90"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP090",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP100",
+            "name": {
+              "local": "Kg. Pangkalan Sibabau",
+              "en": "Kg. Pangkalan Sibabau",
+              "slug": "kg-pangkalan-sibabau-100"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP100",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP127",
+            "name": {
+              "local": "Kg. Salar",
+              "en": "Kg. Salar",
+              "slug": "kg-salar-127"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP127",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP180",
+            "name": {
+              "local": "Kg. Panchor Mentiri",
+              "en": "Kg. Panchor Mentiri",
+              "slug": "kg-panchor-mentiri-180"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP180",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP264",
+            "name": {
+              "local": "Kg. Sungai Buloh",
+              "en": "Kg. Sungai Buloh",
+              "slug": "kg-sungai-buloh-264"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP264",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK08-KP959",
+            "name": {
+              "local": "Kg. Tanah Jambu",
+              "en": "Kg. Tanah Jambu",
+              "slug": "kg-tanah-jambu-959"
+            },
+            "code": {
+              "id": "BN-BM-MK08-KP959",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK09",
+        "name": {
+          "local": "Mukim Peramu",
+          "en": "Peramu",
+          "slug": "peramu-bn-bm-mk09"
+        },
+        "code": {
+          "id": "BN-BM-MK09",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK09-KP033",
+            "name": {
+              "local": "Kg. Bakut Berumput",
+              "en": "Kg. Bakut Berumput",
+              "slug": "kg-bakut-berumput-33"
+            },
+            "code": {
+              "id": "BN-BM-MK09-KP033",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK09-KP034",
+            "name": {
+              "local": "Kg. Bakut Pengiran Siraja Muda A",
+              "en": "Kg. Bakut Pengiran Siraja Muda A",
+              "slug": "kg-bakut-pengiran-siraja-muda-a-34"
+            },
+            "code": {
+              "id": "BN-BM-MK09-KP034",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK09-KP035",
+            "name": {
+              "local": "Kg. Bakut Pengiran Siraja Muda B",
+              "en": "Kg. Bakut Pengiran Siraja Muda B",
+              "slug": "kg-bakut-pengiran-siraja-muda-b-35"
+            },
+            "code": {
+              "id": "BN-BM-MK09-KP035",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK09-KP082",
+            "name": {
+              "local": "Kg. Lurong Sikuna",
+              "en": "Kg. Lurong Sikuna",
+              "slug": "kg-lurong-sikuna-82"
+            },
+            "code": {
+              "id": "BN-BM-MK09-KP082",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK09-KP103",
+            "name": {
+              "local": "Kg. Pekilong Muara",
+              "en": "Kg. Pekilong Muara",
+              "slug": "kg-pekilong-muara-103"
+            },
+            "code": {
+              "id": "BN-BM-MK09-KP103",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK09-KP112",
+            "name": {
+              "local": "Kg. Peramu",
+              "en": "Kg. Peramu",
+              "slug": "kg-peramu-112"
+            },
+            "code": {
+              "id": "BN-BM-MK09-KP112",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK09-KP136",
+            "name": {
+              "local": "Kg. Setia Pahlawan",
+              "en": "Kg. Setia Pahlawan",
+              "slug": "kg-setia-pahlawan-136"
+            },
+            "code": {
+              "id": "BN-BM-MK09-KP136",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK10",
+        "name": {
+          "local": "Mukim Pangkalan Batu",
+          "en": "Pangkalan Batu",
+          "slug": "pangkalan-batu-bn-bm-mk10"
+        },
+        "code": {
+          "id": "BN-BM-MK10",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK10-KP036",
+            "name": {
+              "local": "Kg. Batang Perhentian",
+              "en": "Kg. Batang Perhentian",
+              "slug": "kg-batang-perhentian-36"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP036",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP037",
+            "name": {
+              "local": "Kg. Batong",
+              "en": "Kg. Batong",
+              "slug": "kg-batong-37"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP037",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP038",
+            "name": {
+              "local": "Kg. Batu Ampar",
+              "en": "Kg. Batu Ampar",
+              "slug": "kg-batu-ampar-38"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP038",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP040",
+            "name": {
+              "local": "Kg. Bebatik",
+              "en": "Kg. Bebatik",
+              "slug": "kg-bebatik-40"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP040",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP041",
+            "name": {
+              "local": "Kg. Bebuloh",
+              "en": "Kg. Bebuloh",
+              "slug": "kg-bebuloh-41"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP041",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP058",
+            "name": {
+              "local": "Kg. Imang",
+              "en": "Kg. Imang",
+              "slug": "kg-imang-58"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP058",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP062",
+            "name": {
+              "local": "Kg. Junjongan",
+              "en": "Kg. Junjongan",
+              "slug": "kg-junjongan-62"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP062",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP076",
+            "name": {
+              "local": "Kg. Limau Manis",
+              "en": "Kg. Limau Manis",
+              "slug": "kg-limau-manis-76"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP076",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP086",
+            "name": {
+              "local": "Kg. Masin",
+              "en": "Kg. Masin",
+              "slug": "kg-masin-86"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP086",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP095",
+            "name": {
+              "local": "Kg. Panchor Murai",
+              "en": "Kg. Panchor Murai",
+              "slug": "kg-panchor-murai-95"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP095",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP098",
+            "name": {
+              "local": "Kg. Pangkalan Batu",
+              "en": "Kg. Pangkalan Batu",
+              "slug": "kg-pangkalan-batu-98"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP098",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP172",
+            "name": {
+              "local": "Kg. Wasan",
+              "en": "Kg. Wasan",
+              "slug": "kg-wasan-172"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP172",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP178",
+            "name": {
+              "local": "Kg. Parit Pangkalan Batu",
+              "en": "Kg. Parit Pangkalan Batu",
+              "slug": "kg-parit-pangkalan-batu-178"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP178",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK10-KP238",
+            "name": {
+              "local": "Kg. Kuala Lurah",
+              "en": "Kg. Kuala Lurah",
+              "slug": "kg-kuala-lurah-238"
+            },
+            "code": {
+              "id": "BN-BM-MK10-KP238",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK11",
+        "name": {
+          "local": "Mukim Kota Batu",
+          "en": "Kota Batu",
+          "slug": "kota-batu-bn-bm-mk11"
+        },
+        "code": {
+          "id": "BN-BM-MK11",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK11-KP042",
+            "name": {
+              "local": "Kg. Belimbing",
+              "en": "Kg. Belimbing",
+              "slug": "kg-belimbing-42"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP042",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP049",
+            "name": {
+              "local": "Kg. Buang Tawar",
+              "en": "Kg. Buang Tawar",
+              "slug": "kg-buang-tawar-49"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP049",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP056",
+            "name": {
+              "local": "Kg. Dato Gandi",
+              "en": "Kg. Dato Gandi",
+              "slug": "kg-dato-gandi-56"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP056",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP057",
+            "name": {
+              "local": "Kg. Gadong Batu",
+              "en": "Kg. Gadong Batu",
+              "slug": "kg-gadong-batu-57"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP057",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP069",
+            "name": {
+              "local": "Kg. Kota Batu",
+              "en": "Kg. Kota Batu",
+              "slug": "kg-kota-batu-69"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP069",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP091",
+            "name": {
+              "local": "Kg. Menunggul",
+              "en": "Kg. Menunggul",
+              "slug": "kg-menunggul-91"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP091",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP104",
+            "name": {
+              "local": "Kg. Pelambaian",
+              "en": "Kg. Pelambaian",
+              "slug": "kg-pelambaian-104"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP104",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP113",
+            "name": {
+              "local": "Kg. Pintu Malim",
+              "en": "Kg. Pintu Malim",
+              "slug": "kg-pintu-malim-113"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP113",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP114",
+            "name": {
+              "local": "Kg. Pudak",
+              "en": "Kg. Pudak",
+              "slug": "kg-pudak-114"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP114",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP119",
+            "name": {
+              "local": "Kg. Riong",
+              "en": "Kg. Riong",
+              "slug": "kg-riong-119"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP119",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP132",
+            "name": {
+              "local": "Kg. Serdang",
+              "en": "Kg. Serdang",
+              "slug": "kg-serdang-132"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP132",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP137",
+            "name": {
+              "local": "Kg. Sungai Lampai",
+              "en": "Kg. Sungai Lampai",
+              "slug": "kg-sungai-lampai-137"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP137",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP139",
+            "name": {
+              "local": "Kg. Subok Kota Batu",
+              "en": "Kg. Subok Kota Batu",
+              "slug": "kg-subok-kota-batu-139"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP139",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP142",
+            "name": {
+              "local": "Kg. Sungai Belukut",
+              "en": "Kg. Sungai Belukut",
+              "slug": "kg-sungai-belukut-142"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP142",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP143",
+            "name": {
+              "local": "Kg. Sungai Besar",
+              "en": "Kg. Sungai Besar",
+              "slug": "kg-sungai-besar-143"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP143",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP148",
+            "name": {
+              "local": "Kg. Sungai Matan",
+              "en": "Kg. Sungai Matan",
+              "slug": "kg-sungai-matan-148"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP148",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP159",
+            "name": {
+              "local": "Kg. Tanjong Kindana",
+              "en": "Kg. Tanjong Kindana",
+              "slug": "kg-tanjong-kindana-159"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP159",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK11-KP173",
+            "name": {
+              "local": "Mengkubau",
+              "en": "Mengkubau",
+              "slug": "mengkubau-173"
+            },
+            "code": {
+              "id": "BN-BM-MK11-KP173",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK12",
+        "name": {
+          "local": "Mukim Kilanas",
+          "en": "Kilanas",
+          "slug": "kilanas-bn-bm-mk12"
+        },
+        "code": {
+          "id": "BN-BM-MK12",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK12-KP043",
+            "name": {
+              "local": "Kg. Bengkurong",
+              "en": "Kg. Bengkurong",
+              "slug": "kg-bengkurong-43"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP043",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP051",
+            "name": {
+              "local": "Kg. Bunut",
+              "en": "Kg. Bunut",
+              "slug": "kg-bunut-51"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP051",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP052",
+            "name": {
+              "local": "Kg. Bunut Perpindahan",
+              "en": "Kg. Bunut Perpindahan",
+              "slug": "kg-bunut-perpindahan-52"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP052",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP053",
+            "name": {
+              "local": "Kg. Burong Lepas",
+              "en": "Kg. Burong Lepas",
+              "slug": "kg-burong-lepas-53"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP053",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP059",
+            "name": {
+              "local": "Kg. Jangsak",
+              "en": "Kg. Jangsak",
+              "slug": "kg-jangsak-59"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP059",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP067",
+            "name": {
+              "local": "Kg. Kilanas",
+              "en": "Kg. Kilanas",
+              "slug": "kg-kilanas-67"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP067",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP084",
+            "name": {
+              "local": "Kg. Madewa",
+              "en": "Kg. Madewa",
+              "slug": "kg-madewa-84"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP084",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP138",
+            "name": {
+              "local": "Kg. Sinarubai",
+              "en": "Kg. Sinarubai",
+              "slug": "kg-sinarubai-138"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP138",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP158",
+            "name": {
+              "local": "Kg. Tanjong Bunut",
+              "en": "Kg. Tanjong Bunut",
+              "slug": "kg-tanjong-bunut-158"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP158",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP163",
+            "name": {
+              "local": "Kg. Tasek Meradun",
+              "en": "Kg. Tasek Meradun",
+              "slug": "kg-tasek-meradun-163"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP163",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK12-KP164",
+            "name": {
+              "local": "Kg. Telanai",
+              "en": "Kg. Telanai",
+              "slug": "kg-telanai-164"
+            },
+            "code": {
+              "id": "BN-BM-MK12-KP164",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK13",
+        "name": {
+          "local": "Mukim Kianggeh",
+          "en": "Kianggeh",
+          "slug": "kianggeh-bn-bm-mk13"
+        },
+        "code": {
+          "id": "BN-BM-MK13",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK13-KP044",
+            "name": {
+              "local": "Kg. Berangan",
+              "en": "Kg. Berangan",
+              "slug": "kg-berangan-44"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP044",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP065",
+            "name": {
+              "local": "Kg. Kianggeh",
+              "en": "Kg. Kianggeh",
+              "slug": "kg-kianggeh-65"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP065",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP072",
+            "name": {
+              "local": "Kg. Kumbang Pasang",
+              "en": "Kg. Kumbang Pasang",
+              "slug": "kg-kumbang-pasang-72"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP072",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP088",
+            "name": {
+              "local": "Kg. Melabau",
+              "en": "Kg. Melabau",
+              "slug": "kg-melabau-88"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP088",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP116",
+            "name": {
+              "local": "Kg. Pusar Ulak",
+              "en": "Kg. Pusar Ulak",
+              "slug": "kg-pusar-ulak-116"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP116",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP162",
+            "name": {
+              "local": "Kg. Tasek Lama",
+              "en": "Kg. Tasek Lama",
+              "slug": "kg-tasek-lama-162"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP162",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP166",
+            "name": {
+              "local": "Kg. Tumasek",
+              "en": "Kg. Tumasek",
+              "slug": "kg-tumasek-166"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP166",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP167",
+            "name": {
+              "local": "Kg. Tungkadeh",
+              "en": "Kg. Tungkadeh",
+              "slug": "kg-tungkadeh-167"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP167",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP179",
+            "name": {
+              "local": "Kg. Parit Kianggeh",
+              "en": "Kg. Parit Kianggeh",
+              "slug": "kg-parit-kianggeh-179"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP179",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP181",
+            "name": {
+              "local": "Lingkungan Diplomatik",
+              "en": "Lingkungan Diplomatik",
+              "slug": "lingkungan-diplomatik-181"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP181",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK13-KP256",
+            "name": {
+              "local": "Pusat Bandar",
+              "en": "Pusat Bandar",
+              "slug": "pusat-bandar-256"
+            },
+            "code": {
+              "id": "BN-BM-MK13-KP256",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK14",
+        "name": {
+          "local": "Mukim Gadong B",
+          "en": "Gadong B",
+          "slug": "gadong-b-bn-bm-mk14"
+        },
+        "code": {
+          "id": "BN-BM-MK14",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK14-KP045",
+            "name": {
+              "local": "Kg. Beribi",
+              "en": "Kg. Beribi",
+              "slug": "kg-beribi-45"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP045",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP066",
+            "name": {
+              "local": "Kg. Kiarong",
+              "en": "Kg. Kiarong",
+              "slug": "kg-kiarong-66"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP066",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP068",
+            "name": {
+              "local": "Kg. Kiulap",
+              "en": "Kg. Kiulap",
+              "slug": "kg-kiulap-68"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP068",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP087",
+            "name": {
+              "local": "Kg. Mata-Mata",
+              "en": "Kg. Mata-Mata",
+              "slug": "kg-mata-mata-87"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP087",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP089",
+            "name": {
+              "local": "Kg. Menglait",
+              "en": "Kg. Menglait",
+              "slug": "kg-menglait-89"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP089",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP099",
+            "name": {
+              "local": "Kg. Pangkalan Gadong",
+              "en": "Kg. Pangkalan Gadong",
+              "slug": "kg-pangkalan-gadong-99"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP099",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP245",
+            "name": {
+              "local": "STKRJ Mata-Mata Kawasan 2",
+              "en": "STKRJ Mata-Mata Kawasan 2",
+              "slug": "stkrj-mata-mata-kawasan-2-245"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP245",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP246",
+            "name": {
+              "local": "Kg. Perpindahan Mata-Mata",
+              "en": "Kg. Perpindahan Mata-Mata",
+              "slug": "kg-perpindahan-mata-mata-246"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP246",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP247",
+            "name": {
+              "local": "STKRJ Mata-Mata Kawasan 3",
+              "en": "STKRJ Mata-Mata Kawasan 3",
+              "slug": "stkrj-mata-mata-kawasan-3-247"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP247",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK14-KP248",
+            "name": {
+              "local": "STKRJ Mata-Mata Kawasan 1",
+              "en": "STKRJ Mata-Mata Kawasan 1",
+              "slug": "stkrj-mata-mata-kawasan-1-248"
+            },
+            "code": {
+              "id": "BN-BM-MK14-KP248",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK15",
+        "name": {
+          "local": "Mukim Sungai Kebun",
+          "en": "Sungai Kebun",
+          "slug": "sungai-kebun-bn-bm-mk15"
+        },
+        "code": {
+          "id": "BN-BM-MK15",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK15-KP046",
+            "name": {
+              "local": "Kg. Bolkiah A",
+              "en": "Kg. Bolkiah A",
+              "slug": "kg-bolkiah-a-46"
+            },
+            "code": {
+              "id": "BN-BM-MK15-KP046",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK15-KP047",
+            "name": {
+              "local": "Kg. Bolkiah B",
+              "en": "Kg. Bolkiah B",
+              "slug": "kg-bolkiah-b-47"
+            },
+            "code": {
+              "id": "BN-BM-MK15-KP047",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK15-KP134",
+            "name": {
+              "local": "Kg. Setia A",
+              "en": "Kg. Setia A",
+              "slug": "kg-setia-a-134"
+            },
+            "code": {
+              "id": "BN-BM-MK15-KP134",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK15-KP135",
+            "name": {
+              "local": "Kg. Setia B",
+              "en": "Kg. Setia B",
+              "slug": "kg-setia-b-135"
+            },
+            "code": {
+              "id": "BN-BM-MK15-KP135",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK15-KP145",
+            "name": {
+              "local": "Kg. Sungai Kebun",
+              "en": "Kg. Sungai Kebun",
+              "slug": "kg-sungai-kebun-145"
+            },
+            "code": {
+              "id": "BN-BM-MK15-KP145",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK15-KP152",
+            "name": {
+              "local": "Kg. Sungai Siamas",
+              "en": "Kg. Sungai Siamas",
+              "slug": "kg-sungai-siamas-152"
+            },
+            "code": {
+              "id": "BN-BM-MK15-KP152",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK15-KP170",
+            "name": {
+              "local": "Kg. Ujong Kelinik",
+              "en": "Kg. Ujong Kelinik",
+              "slug": "kg-ujong-kelinik-170"
+            },
+            "code": {
+              "id": "BN-BM-MK15-KP170",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK16",
+        "name": {
+          "local": "Mukim Lumapas",
+          "en": "Lumapas",
+          "slug": "lumapas-bn-bm-mk16"
+        },
+        "code": {
+          "id": "BN-BM-MK16",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK16-KP048",
+            "name": {
+              "local": "Kg. Buang Sakar",
+              "en": "Kg. Buang Sakar",
+              "slug": "kg-buang-sakar-48"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP048",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP050",
+            "name": {
+              "local": "Kg. Buang Tekurok",
+              "en": "Kg. Buang Tekurok",
+              "slug": "kg-buang-tekurok-50"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP050",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP079",
+            "name": {
+              "local": "Kg. Lumapas",
+              "en": "Kg. Lumapas",
+              "slug": "kg-lumapas-79"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP079",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP080",
+            "name": {
+              "local": "Kg. Lupak Luas",
+              "en": "Kg. Lupak Luas",
+              "slug": "kg-lupak-luas-80"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP080",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP117",
+            "name": {
+              "local": "Kg. Putat",
+              "en": "Kg. Putat",
+              "slug": "kg-putat-117"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP117",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP141",
+            "name": {
+              "local": "Kg. Sungai Asam",
+              "en": "Kg. Sungai Asam",
+              "slug": "kg-sungai-asam-141"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP141",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP161",
+            "name": {
+              "local": "Kg. Tarap Bau",
+              "en": "Kg. Tarap Bau",
+              "slug": "kg-tarap-bau-161"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP161",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP257",
+            "name": {
+              "local": "Kg. Panchor Lumapas",
+              "en": "Kg. Panchor Lumapas",
+              "slug": "kg-panchor-lumapas-257"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP257",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP258",
+            "name": {
+              "local": "STKRJ Lumapas Kawasan 1",
+              "en": "STKRJ Lumapas Kawasan 1",
+              "slug": "stkrj-lumapas-kawasan-1-258"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP258",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP259",
+            "name": {
+              "local": "Kg. Kilugus",
+              "en": "Kg. Kilugus",
+              "slug": "kg-kilugus-259"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP259",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP261",
+            "name": {
+              "local": "Kg. Kasat",
+              "en": "Kg. Kasat",
+              "slug": "kg-kasat-261"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP261",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK16-KP262",
+            "name": {
+              "local": "Kg. Baong",
+              "en": "Kg. Baong",
+              "slug": "kg-baong-262"
+            },
+            "code": {
+              "id": "BN-BM-MK16-KP262",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK17",
+        "name": {
+          "local": "Mukim Burong Pingai Ayer",
+          "en": "Burong Pingai Ayer",
+          "slug": "burong-pingai-ayer-bn-bm-mk17"
+        },
+        "code": {
+          "id": "BN-BM-MK17",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK17-KP054",
+            "name": {
+              "local": "Kg. Burong Pingai Ayer",
+              "en": "Kg. Burong Pingai Ayer",
+              "slug": "kg-burong-pingai-ayer-54"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP054",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK17-KP081",
+            "name": {
+              "local": "Kg. Lurong Dalam",
+              "en": "Kg. Lurong Dalam",
+              "slug": "kg-lurong-dalam-81"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP081",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK17-KP096",
+            "name": {
+              "local": "Kg. Pandai Besi A",
+              "en": "Kg. Pandai Besi A",
+              "slug": "kg-pandai-besi-a-96"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP096",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK17-KP097",
+            "name": {
+              "local": "Kg. Pandai Besi B",
+              "en": "Kg. Pandai Besi B",
+              "slug": "kg-pandai-besi-b-97"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP097",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK17-KP102",
+            "name": {
+              "local": "Kg. Pekan Lama",
+              "en": "Kg. Pekan Lama",
+              "slug": "kg-pekan-lama-102"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP102",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK17-KP108",
+            "name": {
+              "local": "Kg. Pengiran Setia Negara",
+              "en": "Kg. Pengiran Setia Negara",
+              "slug": "kg-pengiran-setia-negara-108"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP108",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK17-KP150",
+            "name": {
+              "local": "Kg. Sungai Pandan A",
+              "en": "Kg. Sungai Pandan A",
+              "slug": "kg-sungai-pandan-a-150"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP150",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK17-KP151",
+            "name": {
+              "local": "Kg. Sungai Pandan B",
+              "en": "Kg. Sungai Pandan B",
+              "slug": "kg-sungai-pandan-b-151"
+            },
+            "code": {
+              "id": "BN-BM-MK17-KP151",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK18",
+        "name": {
+          "local": "Mukim Sengkurong",
+          "en": "Sengkurong",
+          "slug": "sengkurong-bn-bm-mk18"
+        },
+        "code": {
+          "id": "BN-BM-MK18",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK18-KP061",
+            "name": {
+              "local": "Kg. Jerudong",
+              "en": "Kg. Jerudong",
+              "slug": "kg-jerudong-61"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP061",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP064",
+            "name": {
+              "local": "Kg. Katimahar",
+              "en": "Kg. Katimahar",
+              "slug": "kg-katimahar-64"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP064",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP071",
+            "name": {
+              "local": "Kg. Kulapis",
+              "en": "Kg. Kulapis",
+              "slug": "kg-kulapis-71"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP071",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP078",
+            "name": {
+              "local": "Kg. Lugu",
+              "en": "Kg. Lugu",
+              "slug": "kg-lugu-78"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP078",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP092",
+            "name": {
+              "local": "Kg. Mulaut",
+              "en": "Kg. Mulaut",
+              "slug": "kg-mulaut-92"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP092",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP101",
+            "name": {
+              "local": "Kg. Pasai",
+              "en": "Kg. Pasai",
+              "slug": "kg-pasai-101"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP101",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP111",
+            "name": {
+              "local": "Kg. Peninjau",
+              "en": "Kg. Peninjau",
+              "slug": "kg-peninjau-111"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP111",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP128",
+            "name": {
+              "local": "Kg. Selayun",
+              "en": "Kg. Selayun",
+              "slug": "kg-selayun-128"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP128",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP129",
+            "name": {
+              "local": "Kg. Sengkurong A",
+              "en": "Kg. Sengkurong A",
+              "slug": "kg-sengkurong-a-129"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP129",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP130",
+            "name": {
+              "local": "Kg. Sengkurong B",
+              "en": "Kg. Sengkurong B",
+              "slug": "kg-sengkurong-b-130"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP130",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP154",
+            "name": {
+              "local": "Kg. Tagap",
+              "en": "Kg. Tagap",
+              "slug": "kg-tagap-154"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP154",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK18-KP160",
+            "name": {
+              "local": "Kg. Tanjong Nangka",
+              "en": "Kg. Tanjong Nangka",
+              "slug": "kg-tanjong-nangka-160"
+            },
+            "code": {
+              "id": "BN-BM-MK18-KP160",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK19",
+        "name": {
+          "local": "Mukim Serasa",
+          "en": "Serasa",
+          "slug": "serasa-bn-bm-mk19"
+        },
+        "code": {
+          "id": "BN-BM-MK19",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK19-KP063",
+            "name": {
+              "local": "Kg. Kapok",
+              "en": "Kg. Kapok",
+              "slug": "kg-kapok-63"
+            },
+            "code": {
+              "id": "BN-BM-MK19-KP063",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK19-KP125",
+            "name": {
+              "local": "Kg. Sabun",
+              "en": "Kg. Sabun",
+              "slug": "kg-sabun-125"
+            },
+            "code": {
+              "id": "BN-BM-MK19-KP125",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK19-KP131",
+            "name": {
+              "local": "Kg. Serasa",
+              "en": "Kg. Serasa",
+              "slug": "kg-serasa-131"
+            },
+            "code": {
+              "id": "BN-BM-MK19-KP131",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK19-KP174",
+            "name": {
+              "local": "Pekan Muara",
+              "en": "Pekan Muara",
+              "slug": "pekan-muara-174"
+            },
+            "code": {
+              "id": "BN-BM-MK19-KP174",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK19-KP177",
+            "name": {
+              "local": "Kg. Meragang",
+              "en": "Kg. Meragang",
+              "slug": "kg-meragang-177"
+            },
+            "code": {
+              "id": "BN-BM-MK19-KP177",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK20",
+        "name": {
+          "local": "Mukim Sungai Kedayan",
+          "en": "Sungai Kedayan",
+          "slug": "sungai-kedayan-bn-bm-mk20"
+        },
+        "code": {
+          "id": "BN-BM-MK20",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK20-KP070",
+            "name": {
+              "local": "Kg. Kuala Peminyak",
+              "en": "Kg. Kuala Peminyak",
+              "slug": "kg-kuala-peminyak-70"
+            },
+            "code": {
+              "id": "BN-BM-MK20-KP070",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK20-KP107",
+            "name": {
+              "local": "Kg. Pengiran Pemancha Lama",
+              "en": "Kg. Pengiran Pemancha Lama",
+              "slug": "kg-pengiran-pemancha-lama-107"
+            },
+            "code": {
+              "id": "BN-BM-MK20-KP107",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK20-KP146",
+            "name": {
+              "local": "Kg. Sungai Kedayan A",
+              "en": "Kg. Sungai Kedayan A",
+              "slug": "kg-sungai-kedayan-a-146"
+            },
+            "code": {
+              "id": "BN-BM-MK20-KP146",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK20-KP147",
+            "name": {
+              "local": "Kg. Sungai Kedayan B",
+              "en": "Kg. Sungai Kedayan B",
+              "slug": "kg-sungai-kedayan-b-147"
+            },
+            "code": {
+              "id": "BN-BM-MK20-KP147",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK20-KP171",
+            "name": {
+              "local": "Kg. Ujong Tanjong",
+              "en": "Kg. Ujong Tanjong",
+              "slug": "kg-ujong-tanjong-171"
+            },
+            "code": {
+              "id": "BN-BM-MK20-KP171",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK20-KP254",
+            "name": {
+              "local": "Kg. Sumbiling Lama Sungai Kedayan",
+              "en": "Kg. Sumbiling Lama Sungai Kedayan",
+              "slug": "kg-sumbiling-lama-sungai-kedayan-254"
+            },
+            "code": {
+              "id": "BN-BM-MK20-KP254",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK20-KP255",
+            "name": {
+              "local": "Kg. Bukit Salat",
+              "en": "Kg. Bukit Salat",
+              "slug": "kg-bukit-salat-255"
+            },
+            "code": {
+              "id": "BN-BM-MK20-KP255",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK21",
+        "name": {
+          "local": "Mukim Tamoi",
+          "en": "Tamoi",
+          "slug": "tamoi-bn-bm-mk21"
+        },
+        "code": {
+          "id": "BN-BM-MK21",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK21-KP077",
+            "name": {
+              "local": "Kg. Limbongan",
+              "en": "Kg. Limbongan",
+              "slug": "kg-limbongan-77"
+            },
+            "code": {
+              "id": "BN-BM-MK21-KP077",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK21-KP105",
+            "name": {
+              "local": "Kg. Pengiran Bendahara Lama",
+              "en": "Kg. Pengiran Bendahara Lama",
+              "slug": "kg-pengiran-bendahara-lama-105"
+            },
+            "code": {
+              "id": "BN-BM-MK21-KP105",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK21-KP106",
+            "name": {
+              "local": "Kg. Pengiran Kerma Indera Lama",
+              "en": "Kg. Pengiran Kerma Indera Lama",
+              "slug": "kg-pengiran-kerma-indera-lama-106"
+            },
+            "code": {
+              "id": "BN-BM-MK21-KP106",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK21-KP110",
+            "name": {
+              "local": "Kg. Pengiran Tajuddin Hitam",
+              "en": "Kg. Pengiran Tajuddin Hitam",
+              "slug": "kg-pengiran-tajuddin-hitam-110"
+            },
+            "code": {
+              "id": "BN-BM-MK21-KP110",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK21-KP155",
+            "name": {
+              "local": "Kg. Tamoi Tengah",
+              "en": "Kg. Tamoi Tengah",
+              "slug": "kg-tamoi-tengah-155"
+            },
+            "code": {
+              "id": "BN-BM-MK21-KP155",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK21-KP156",
+            "name": {
+              "local": "Kg. Tamoi Ujong",
+              "en": "Kg. Tamoi Ujong",
+              "slug": "kg-tamoi-ujong-156"
+            },
+            "code": {
+              "id": "BN-BM-MK21-KP156",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK21-KP169",
+            "name": {
+              "local": "Kg. Ujong Bukit",
+              "en": "Kg. Ujong Bukit",
+              "slug": "kg-ujong-bukit-169"
+            },
+            "code": {
+              "id": "BN-BM-MK21-KP169",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK22",
+        "name": {
+          "local": "Mukim Saba",
+          "en": "Saba",
+          "slug": "saba-bn-bm-mk22"
+        },
+        "code": {
+          "id": "BN-BM-MK22",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK22-KP120",
+            "name": {
+              "local": "Kg. Saba Darat A",
+              "en": "Kg. Saba Darat A",
+              "slug": "kg-saba-darat-a-120"
+            },
+            "code": {
+              "id": "BN-BM-MK22-KP120",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK22-KP121",
+            "name": {
+              "local": "Kg. Saba Darat B",
+              "en": "Kg. Saba Darat B",
+              "slug": "kg-saba-darat-b-121"
+            },
+            "code": {
+              "id": "BN-BM-MK22-KP121",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK22-KP122",
+            "name": {
+              "local": "Kg. Saba Laut",
+              "en": "Kg. Saba Laut",
+              "slug": "kg-saba-laut-122"
+            },
+            "code": {
+              "id": "BN-BM-MK22-KP122",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK22-KP123",
+            "name": {
+              "local": "Kg. Saba Tengah",
+              "en": "Kg. Saba Tengah",
+              "slug": "kg-saba-tengah-123"
+            },
+            "code": {
+              "id": "BN-BM-MK22-KP123",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK22-KP124",
+            "name": {
+              "local": "Kg. Saba Ujong",
+              "en": "Kg. Saba Ujong",
+              "slug": "kg-saba-ujong-124"
+            },
+            "code": {
+              "id": "BN-BM-MK22-KP124",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-BM-MK40",
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-bm-mk40"
+        },
+        "code": {
+          "id": "BN-BM-MK40",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-BM-MK40-KP882",
+            "name": {
+              "local": "Pulau Bedukang",
+              "en": "Pulau Bedukang",
+              "slug": "pulau-bedukang-882"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP882",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP883",
+            "name": {
+              "local": "Pulau Muara Besar",
+              "en": "Pulau Muara Besar",
+              "slug": "pulau-muara-besar-883"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP883",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP884",
+            "name": {
+              "local": "Tanjong Pelumpong",
+              "en": "Tanjong Pelumpong",
+              "slug": "tanjong-pelumpong-884"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP884",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP893",
+            "name": {
+              "local": "Pulau Si Mangga Besar",
+              "en": "Pulau Si Mangga Besar",
+              "slug": "pulau-si-mangga-besar-893"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP893",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP894",
+            "name": {
+              "local": "Pulau Suhung Damit",
+              "en": "Pulau Suhung Damit",
+              "slug": "pulau-suhung-damit-894"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP894",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP895",
+            "name": {
+              "local": "Pulau ...",
+              "en": "Pulau ...",
+              "slug": "pulau-895"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP895",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP896",
+            "name": {
+              "local": "Pulau ...",
+              "en": "Pulau ...",
+              "slug": "pulau-896"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP896",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP901",
+            "name": {
+              "local": "Pulau Chermin",
+              "en": "Pulau Chermin",
+              "slug": "pulau-chermin-901"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP901",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP902",
+            "name": {
+              "local": "Pulau Kaingaran",
+              "en": "Pulau Kaingaran",
+              "slug": "pulau-kaingaran-902"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP902",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP908",
+            "name": {
+              "local": "Pulau Baru-Baru",
+              "en": "Pulau Baru-Baru",
+              "slug": "pulau-baru-baru-908"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP908",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP917",
+            "name": {
+              "local": "Pulau Sibungor",
+              "en": "Pulau Sibungor",
+              "slug": "pulau-sibungor-917"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP917",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-BM-MK40-KP983",
+            "name": {
+              "local": "Pulau Pepatan",
+              "en": "Pulau Pepatan",
+              "slug": "pulau-pepatan-983"
+            },
+            "code": {
+              "id": "BN-BM-MK40-KP983",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "BN-TE",
+    "name": {
+      "local": "Temburong",
+      "en": "Temburong",
+      "slug": "temburong-bn-te"
+    },
+    "code": {
+      "id": "BN-TE",
+      "iso": null
+    },
+    "mukim": [
+      {
+        "id": "BN-TE-MK01",
+        "name": {
+          "local": "Mukim Amo",
+          "en": "Amo",
+          "slug": "amo-bn-te-mk01"
+        },
+        "code": {
+          "id": "BN-TE-MK01",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TE-MK01-KP001",
+            "name": {
+              "local": "Kg. Biang",
+              "en": "Kg. Biang",
+              "slug": "kg-biang-1"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP001",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP002",
+            "name": {
+              "local": "Kg. Amo",
+              "en": "Kg. Amo",
+              "slug": "kg-amo-2"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP002",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP003",
+            "name": {
+              "local": "Kg. Sibut",
+              "en": "Kg. Sibut",
+              "slug": "kg-sibut-3"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP003",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP004",
+            "name": {
+              "local": "Kg. Sumbiling Baru",
+              "en": "Kg. Sumbiling Baru",
+              "slug": "kg-sumbiling-baru-4"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP004",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP005",
+            "name": {
+              "local": "Kg. Batang Duri",
+              "en": "Kg. Batang Duri",
+              "slug": "kg-batang-duri-5"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP005",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP006",
+            "name": {
+              "local": "Kg. Sumbiling Lama Amo",
+              "en": "Kg. Sumbiling Lama Amo",
+              "slug": "kg-sumbiling-lama-amo-6"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP006",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP007",
+            "name": {
+              "local": "Hutan Simpan Batu Apoi",
+              "en": "Hutan Simpan Batu Apoi",
+              "slug": "hutan-simpan-batu-apoi-7"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP007",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP182",
+            "name": {
+              "local": "Kg. Belaban",
+              "en": "Kg. Belaban",
+              "slug": "kg-belaban-182"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP182",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP183",
+            "name": {
+              "local": "Kg. Sibulu",
+              "en": "Kg. Sibulu",
+              "slug": "kg-sibulu-183"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP183",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP184",
+            "name": {
+              "local": "Kg. Selangan",
+              "en": "Kg. Selangan",
+              "slug": "kg-selangan-184"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP184",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK01-KP185",
+            "name": {
+              "local": "Kg. Parit Amo",
+              "en": "Kg. Parit Amo",
+              "slug": "kg-parit-amo-185"
+            },
+            "code": {
+              "id": "BN-TE-MK01-KP185",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TE-MK02",
+        "name": {
+          "local": "Mukim Batu Apoi",
+          "en": "Batu Apoi",
+          "slug": "batu-apoi-bn-te-mk02"
+        },
+        "code": {
+          "id": "BN-TE-MK02",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TE-MK02-KP008",
+            "name": {
+              "local": "Kg. Selapon",
+              "en": "Kg. Selapon",
+              "slug": "kg-selapon-8"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP008",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP208",
+            "name": {
+              "local": "Kg. Luagan",
+              "en": "Kg. Luagan",
+              "slug": "kg-luagan-208"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP208",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP209",
+            "name": {
+              "local": "Kg. Negalang Unat",
+              "en": "Kg. Negalang Unat",
+              "slug": "kg-negalang-unat-209"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP209",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP210",
+            "name": {
+              "local": "Kg. Lakiun",
+              "en": "Kg. Lakiun",
+              "slug": "kg-lakiun-210"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP210",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP211",
+            "name": {
+              "local": "Kg. Negalang Ering",
+              "en": "Kg. Negalang Ering",
+              "slug": "kg-negalang-ering-211"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP211",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP212",
+            "name": {
+              "local": "Kg. Selilit",
+              "en": "Kg. Selilit",
+              "slug": "kg-selilit-212"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP212",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP213",
+            "name": {
+              "local": "Kg. Batu Apoi",
+              "en": "Kg. Batu Apoi",
+              "slug": "kg-batu-apoi-213"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP213",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP214",
+            "name": {
+              "local": "Kg. Peliunan Batu Apoi",
+              "en": "Kg. Peliunan Batu Apoi",
+              "slug": "kg-peliunan-batu-apoi-214"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP214",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP215",
+            "name": {
+              "local": "Kg. Tanjong Bungar",
+              "en": "Kg. Tanjong Bungar",
+              "slug": "kg-tanjong-bungar-215"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP215",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP216",
+            "name": {
+              "local": "Kg. Rebada",
+              "en": "Kg. Rebada",
+              "slug": "kg-rebada-216"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP216",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP217",
+            "name": {
+              "local": "Kg. Lamaling",
+              "en": "Kg. Lamaling",
+              "slug": "kg-lamaling-217"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP217",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP218",
+            "name": {
+              "local": "Kg. Sungai Radang",
+              "en": "Kg. Sungai Radang",
+              "slug": "kg-sungai-radang-218"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP218",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP219",
+            "name": {
+              "local": "Kg. Gadong Baru",
+              "en": "Kg. Gadong Baru",
+              "slug": "kg-gadong-baru-219"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP219",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP220",
+            "name": {
+              "local": "Kg. Simbatang Batu Apoi",
+              "en": "Kg. Simbatang Batu Apoi",
+              "slug": "kg-simbatang-batu-apoi-220"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP220",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK02-KP221",
+            "name": {
+              "local": "Kg. Sekurop",
+              "en": "Kg. Sekurop",
+              "slug": "kg-sekurop-221"
+            },
+            "code": {
+              "id": "BN-TE-MK02-KP221",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TE-MK03",
+        "name": {
+          "local": "Mukim Bokok",
+          "en": "Bokok",
+          "slug": "bokok-bn-te-mk03"
+        },
+        "code": {
+          "id": "BN-TE-MK03",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TE-MK03-KP009",
+            "name": {
+              "local": "Kg. Lepong",
+              "en": "Kg. Lepong",
+              "slug": "kg-lepong-9"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP009",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP010",
+            "name": {
+              "local": "Kg. Semabat",
+              "en": "Kg. Semabat",
+              "slug": "kg-semabat-10"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP010",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP011",
+            "name": {
+              "local": "Kawasan Bahaya Mukim Bokok",
+              "en": "Kawasan Bahaya Mukim Bokok",
+              "slug": "kawasan-bahaya-mukim-bokok-11"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP011",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP012",
+            "name": {
+              "local": "Kg. Temada",
+              "en": "Kg. Temada",
+              "slug": "kg-temada-12"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP012",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP013",
+            "name": {
+              "local": "Hutan Simpan Batu Apoi",
+              "en": "Hutan Simpan Batu Apoi",
+              "slug": "hutan-simpan-batu-apoi-13"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP013",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP222",
+            "name": {
+              "local": "Kg. Buda-Buda",
+              "en": "Kg. Buda-Buda",
+              "slug": "kg-buda-buda-222"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP222",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP223",
+            "name": {
+              "local": "Kg. Belais Kecil",
+              "en": "Kg. Belais Kecil",
+              "slug": "kg-belais-kecil-223"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP223",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP224",
+            "name": {
+              "local": "Kg. Belais Besar",
+              "en": "Kg. Belais Besar",
+              "slug": "kg-belais-besar-224"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP224",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP225",
+            "name": {
+              "local": "Kg. Rataie",
+              "en": "Kg. Rataie",
+              "slug": "kg-rataie-225"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP225",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP226",
+            "name": {
+              "local": "Kg. Paya Bagangan",
+              "en": "Kg. Paya Bagangan",
+              "slug": "kg-paya-bagangan-226"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP226",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP227",
+            "name": {
+              "local": "Kg. Bokok",
+              "en": "Kg. Bokok",
+              "slug": "kg-bokok-227"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP227",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP228",
+            "name": {
+              "local": "Kg. Maniup",
+              "en": "Kg. Maniup",
+              "slug": "kg-maniup-228"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP228",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP229",
+            "name": {
+              "local": "Kg. Bakarut",
+              "en": "Kg. Bakarut",
+              "slug": "kg-bakarut-229"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP229",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP230",
+            "name": {
+              "local": "Kg. Simbatang Bokok",
+              "en": "Kg. Simbatang Bokok",
+              "slug": "kg-simbatang-bokok-230"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP230",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK03-KP231",
+            "name": {
+              "local": "Kg. Kenua",
+              "en": "Kg. Kenua",
+              "slug": "kg-kenua-231"
+            },
+            "code": {
+              "id": "BN-TE-MK03-KP231",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TE-MK23",
+        "name": {
+          "local": "Mukim Bangar",
+          "en": "Bangar",
+          "slug": "bangar-bn-te-mk23"
+        },
+        "code": {
+          "id": "BN-TE-MK23",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TE-MK23-KP186",
+            "name": {
+              "local": "Kg. Kastam Lama",
+              "en": "Kg. Kastam Lama",
+              "slug": "kg-kastam-lama-186"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP186",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP187",
+            "name": {
+              "local": "Kg. Parit Belayang",
+              "en": "Kg. Parit Belayang",
+              "slug": "kg-parit-belayang-187"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP187",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP188",
+            "name": {
+              "local": "Kg. Peliunan Bangar",
+              "en": "Kg. Peliunan Bangar",
+              "slug": "kg-peliunan-bangar-188"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP188",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP189",
+            "name": {
+              "local": "Kg. Sungai Sulok",
+              "en": "Kg. Sungai Sulok",
+              "slug": "kg-sungai-sulok-189"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP189",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP190",
+            "name": {
+              "local": "Kg. Sungai Getahan",
+              "en": "Kg. Sungai Getahan",
+              "slug": "kg-sungai-getahan-190"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP190",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP191",
+            "name": {
+              "local": "Kg. Seri Tanjong Belayang",
+              "en": "Kg. Seri Tanjong Belayang",
+              "slug": "kg-seri-tanjong-belayang-191"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP191",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP192",
+            "name": {
+              "local": "Kg. Menengah Bangar",
+              "en": "Kg. Menengah Bangar",
+              "slug": "kg-menengah-bangar-192"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP192",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP193",
+            "name": {
+              "local": "Kg. Sungai Tanit",
+              "en": "Kg. Sungai Tanit",
+              "slug": "kg-sungai-tanit-193"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP193",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP194",
+            "name": {
+              "local": "Pekan Bangar",
+              "en": "Pekan Bangar",
+              "slug": "pekan-bangar-194"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP194",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP195",
+            "name": {
+              "local": "Kg. Batang Tuau",
+              "en": "Kg. Batang Tuau",
+              "slug": "kg-batang-tuau-195"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP195",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP196",
+            "name": {
+              "local": "Kg. Sungai Tanam",
+              "en": "Kg. Sungai Tanam",
+              "slug": "kg-sungai-tanam-196"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP196",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP197",
+            "name": {
+              "local": "Kg. Gadong",
+              "en": "Kg. Gadong",
+              "slug": "kg-gadong-197"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP197",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP198",
+            "name": {
+              "local": "Kg. Batu Bejarah",
+              "en": "Kg. Batu Bejarah",
+              "slug": "kg-batu-bejarah-198"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP198",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP199",
+            "name": {
+              "local": "Kg. Puni",
+              "en": "Kg. Puni",
+              "slug": "kg-puni-199"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP199",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP200",
+            "name": {
+              "local": "Kg. Semamang",
+              "en": "Kg. Semamang",
+              "slug": "kg-semamang-200"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP200",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP201",
+            "name": {
+              "local": "Kg. Subok Bangar",
+              "en": "Kg. Subok Bangar",
+              "slug": "kg-subok-bangar-201"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP201",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP202",
+            "name": {
+              "local": "Kg. Kinalong",
+              "en": "Kg. Kinalong",
+              "slug": "kg-kinalong-202"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP202",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP203",
+            "name": {
+              "local": "Kg. Ujong Jalan",
+              "en": "Kg. Ujong Jalan",
+              "slug": "kg-ujong-jalan-203"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP203",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP204",
+            "name": {
+              "local": "Kg. Bang Bulan",
+              "en": "Kg. Bang Bulan",
+              "slug": "kg-bang-bulan-204"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP204",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP205",
+            "name": {
+              "local": "Kg. Piungan",
+              "en": "Kg. Piungan",
+              "slug": "kg-piungan-205"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP205",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP206",
+            "name": {
+              "local": "Kg. Belingos",
+              "en": "Kg. Belingos",
+              "slug": "kg-belingos-206"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP206",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK23-KP207",
+            "name": {
+              "local": "Kg. Lagau",
+              "en": "Kg. Lagau",
+              "slug": "kg-lagau-207"
+            },
+            "code": {
+              "id": "BN-TE-MK23-KP207",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TE-MK24",
+        "name": {
+          "local": "Mukim Labu",
+          "en": "Labu",
+          "slug": "labu-bn-te-mk24"
+        },
+        "code": {
+          "id": "BN-TE-MK24",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TE-MK24-KP232",
+            "name": {
+              "local": "Hutan Simpan Labu",
+              "en": "Hutan Simpan Labu",
+              "slug": "hutan-simpan-labu-232"
+            },
+            "code": {
+              "id": "BN-TE-MK24-KP232",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK24-KP233",
+            "name": {
+              "local": "Kg. Piasau-Piasau",
+              "en": "Kg. Piasau-Piasau",
+              "slug": "kg-piasau-piasau-233"
+            },
+            "code": {
+              "id": "BN-TE-MK24-KP233",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK24-KP234",
+            "name": {
+              "local": "Kg. Perdayan",
+              "en": "Kg. Perdayan",
+              "slug": "kg-perdayan-234"
+            },
+            "code": {
+              "id": "BN-TE-MK24-KP234",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK24-KP235",
+            "name": {
+              "local": "Kg. Labu Estate",
+              "en": "Kg. Labu Estate",
+              "slug": "kg-labu-estate-235"
+            },
+            "code": {
+              "id": "BN-TE-MK24-KP235",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK24-KP236",
+            "name": {
+              "local": "Kg. Senukoh",
+              "en": "Kg. Senukoh",
+              "slug": "kg-senukoh-236"
+            },
+            "code": {
+              "id": "BN-TE-MK24-KP236",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK24-KP237",
+            "name": {
+              "local": "Hutan Simpan Perdayan",
+              "en": "Hutan Simpan Perdayan",
+              "slug": "hutan-simpan-perdayan-237"
+            },
+            "code": {
+              "id": "BN-TE-MK24-KP237",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "BN-TE-MK41",
+        "name": {
+          "local": "NA",
+          "en": "NA",
+          "slug": "na-bn-te-mk41"
+        },
+        "code": {
+          "id": "BN-TE-MK41",
+          "iso": null
+        },
+        "kampong": [
+          {
+            "id": "BN-TE-MK41-KP910",
+            "name": {
+              "local": "Pulau Berbunut",
+              "en": "Pulau Berbunut",
+              "slug": "pulau-berbunut-910"
+            },
+            "code": {
+              "id": "BN-TE-MK41-KP910",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK41-KP911",
+            "name": {
+              "local": "Pulau Selirong",
+              "en": "Pulau Selirong",
+              "slug": "pulau-selirong-911"
+            },
+            "code": {
+              "id": "BN-TE-MK41-KP911",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK41-KP915",
+            "name": {
+              "local": "Pulau Siarau",
+              "en": "Pulau Siarau",
+              "slug": "pulau-siarau-915"
+            },
+            "code": {
+              "id": "BN-TE-MK41-KP915",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK41-KP925",
+            "name": {
+              "local": "Pulau Tarap",
+              "en": "Pulau Tarap",
+              "slug": "pulau-tarap-925"
+            },
+            "code": {
+              "id": "BN-TE-MK41-KP925",
+              "iso": null
+            }
+          },
+          {
+            "id": "BN-TE-MK41-KP926",
+            "name": {
+              "local": "Pulau Selanjak",
+              "en": "Pulau Selanjak",
+              "slug": "pulau-selanjak-926"
+            },
+            "code": {
+              "id": "BN-TE-MK41-KP926",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

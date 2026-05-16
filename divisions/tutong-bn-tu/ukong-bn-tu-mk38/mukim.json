@@ -1,0 +1,47 @@
+{
+  "id": "BN-TU-MK38",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Ukong",
+    "en": "Ukong",
+    "slug": "ukong-bn-tu-mk38"
+  },
+  "code": {
+    "id": "BN-TU-MK38",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-TU",
+    "level": 1,
+    "name": {
+      "local": "Tutong",
+      "en": "Tutong",
+      "slug": "tutong-bn-tu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.621",
+    "lon": "114.633"
+  },
+  "metadata": {},
+  "source": {}
+}

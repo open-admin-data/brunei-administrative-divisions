@@ -1,0 +1,170 @@
+[
+  {
+    "id": "BN-BE-MK39-KP418",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bang Garang",
+      "en": "Kg. Bang Garang",
+      "slug": "kg-bang-garang-418"
+    },
+    "code": {
+      "id": "BN-BE-MK39-KP418",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK39",
+      "level": 2,
+      "name": {
+        "local": "Mukim Melilas",
+        "en": "Melilas",
+        "slug": "melilas-bn-be-mk39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK39",
+        "level": 2,
+        "name": {
+          "local": "Mukim Melilas",
+          "en": "Melilas",
+          "slug": "melilas-bn-be-mk39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KH1739"
+    ],
+    "geo": {
+      "lat": "4.108",
+      "lon": "114.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK39-KP420",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Tuding",
+      "en": "Kg. Bukit Tuding",
+      "slug": "kg-bukit-tuding-420"
+    },
+    "code": {
+      "id": "BN-BE-MK39-KP420",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK39",
+      "level": 2,
+      "name": {
+        "local": "Mukim Melilas",
+        "en": "Melilas",
+        "slug": "melilas-bn-be-mk39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK39",
+        "level": 2,
+        "name": {
+          "local": "Mukim Melilas",
+          "en": "Melilas",
+          "slug": "melilas-bn-be-mk39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KH1939"
+    ],
+    "geo": {
+      "lat": "4.108",
+      "lon": "114.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK39-KP417",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Melilas",
+      "en": "Kg. Melilas",
+      "slug": "kg-melilas-417"
+    },
+    "code": {
+      "id": "BN-BE-MK39-KP417",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK39",
+      "level": 2,
+      "name": {
+        "local": "Mukim Melilas",
+        "en": "Melilas",
+        "slug": "melilas-bn-be-mk39"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK39",
+        "level": 2,
+        "name": {
+          "local": "Mukim Melilas",
+          "en": "Melilas",
+          "slug": "melilas-bn-be-mk39"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KH1339"
+    ],
+    "geo": {
+      "lat": "4.108",
+      "lon": "114.679"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

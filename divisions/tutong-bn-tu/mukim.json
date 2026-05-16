@@ -1,0 +1,425 @@
+[
+  {
+    "id": "BN-TU-MK04",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Keriam",
+      "en": "Keriam",
+      "slug": "keriam-bn-tu-mk04"
+    },
+    "code": {
+      "id": "BN-TU-MK04",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.849",
+      "lon": "114.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK25",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Kiudang",
+      "en": "Kiudang",
+      "slug": "kiudang-bn-tu-mk25"
+    },
+    "code": {
+      "id": "BN-TU-MK25",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.753",
+      "lon": "114.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK28",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Lamunin",
+      "en": "Lamunin",
+      "slug": "lamunin-bn-tu-mk28"
+    },
+    "code": {
+      "id": "BN-TU-MK28",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.677",
+      "lon": "114.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK42",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "NA",
+      "en": "NA",
+      "slug": "na-bn-tu-mk42"
+    },
+    "code": {
+      "id": "BN-TU-MK42",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "114.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK34",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Pekan Tutong",
+      "en": "Pekan Tutong",
+      "slug": "pekan-tutong-bn-tu-mk34"
+    },
+    "code": {
+      "id": "BN-TU-MK34",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.805",
+      "lon": "114.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK27",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Rambai",
+      "en": "Rambai",
+      "slug": "rambai-bn-tu-mk27"
+    },
+    "code": {
+      "id": "BN-TU-MK27",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.481",
+      "lon": "114.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK35",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Tanjong Maya",
+      "en": "Tanjong Maya",
+      "slug": "tanjong-maya-bn-tu-mk35"
+    },
+    "code": {
+      "id": "BN-TU-MK35",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.732",
+      "lon": "114.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK33",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Telisai",
+      "en": "Telisai",
+      "slug": "telisai-bn-tu-mk33"
+    },
+    "code": {
+      "id": "BN-TU-MK33",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.719",
+      "lon": "114.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-TU-MK38",
+    "level": 2,
+    "level_name": {
+      "local": "Mukim",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "Mukim Ukong",
+      "en": "Ukong",
+      "slug": "ukong-bn-tu-mk38"
+    },
+    "code": {
+      "id": "BN-TU-MK38",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-TU",
+      "level": 1,
+      "name": {
+        "local": "Tutong",
+        "en": "Tutong",
+        "slug": "tutong-bn-tu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-TU",
+        "level": 1,
+        "name": {
+          "local": "Tutong",
+          "en": "Tutong",
+          "slug": "tutong-bn-tu"
+        }
+      }
+    ],
+    "children_count": {
+      "kampong": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.621",
+      "lon": "114.633"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

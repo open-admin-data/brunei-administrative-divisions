@@ -1,0 +1,381 @@
+# Belait — Brunei Administrative Divisions
+
+> 8 subdistricts, 83 villages
+> Code: BN-BE
+> Coordinates: 4.392, 114.581
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Subdistricts
+
+### Mukim Bukit Sawat (Bukit Sawat)
+
+Code: BN-BE-MK32, Coordinates: 4.553, 114.584
+Villages: 10
+
+#### Kg. Bisut
+
+Code: BN-BE-MK32-KP312, Postal: KF1338, Coordinates: 4.553, 114.584
+
+#### Kg. Bukit Kandol
+
+Code: BN-BE-MK32-KP313, Postal: KF2138, Coordinates: 4.553, 114.584
+
+#### Kg. Bukit Sawat
+
+Code: BN-BE-MK32-KP314, Postal: KF1938, Coordinates: 4.525, 114.554
+
+#### Kg. Merangking
+
+Code: BN-BE-MK32-KP315, Postal: KF4738, Coordinates: 4.553, 114.584
+
+#### Kg. Merangking Hilir
+
+Code: BN-BE-MK32-KP316, Postal: KF3338, Coordinates: 4.553, 114.584
+
+#### Kg. Merangking Ulu
+
+Code: BN-BE-MK32-KP317, Postal: KF3138, Coordinates: 4.553, 114.584
+
+#### Kg. Pangkalan Siong
+
+Code: BN-BE-MK32-KP318, Coordinates: 4.553, 114.584
+
+#### Kg. Pulau Apil
+
+Code: BN-BE-MK32-KP319, Postal: KF4538, Coordinates: 4.553, 114.584
+
+#### Kg. Sungai Mau
+
+Code: BN-BE-MK32-KP320, Postal: KF1138, Coordinates: 4.55, 114.487
+
+#### Kg. Tarap
+
+Code: BN-BE-MK32-KP321, Postal: KF3738, Coordinates: 4.869, 114.945
+
+### Mukim Kuala Balai (Kuala Balai)
+
+Code: BN-BE-MK31, Coordinates: 4.493, 114.312
+Villages: 13
+
+#### Hutan Simpan Kuala Balai
+
+Code: BN-BE-MK31-KP299, Coordinates: 4.493, 114.312
+
+#### Kg. Kajitan
+
+Code: BN-BE-MK31-KP287, Postal: KD2332, Coordinates: 4.493, 114.312
+
+#### Kg. Kuala Balai
+
+Code: BN-BE-MK31-KP288, Postal: KD1132, Coordinates: 4.455, 114.321
+
+#### Kg. Lubok Lanyap
+
+Code: BN-BE-MK31-KP290, Coordinates: 4.493, 114.312
+
+#### Kg. Lubok Tapang
+
+Code: BN-BE-MK31-KP289, Coordinates: 4.493, 114.312
+
+#### Kg. Pangalayan
+
+Code: BN-BE-MK31-KP291, Coordinates: 4.493, 114.312
+
+#### Kg. Penyarap
+
+Code: BN-BE-MK31-KP292, Postal: KD2732, Coordinates: 4.493, 114.312
+
+#### Kg. Sungai Damit
+
+Code: BN-BE-MK31-KP293, Postal: KD1532, Coordinates: 4.493, 114.312
+
+#### Kg. Sungai Lutong
+
+Code: BN-BE-MK31-KP294, Postal: KD3532, Coordinates: 4.493, 114.312
+
+#### Kg. Sungai Mendaram
+
+Code: BN-BE-MK31-KP295, Coordinates: 4.493, 114.312
+
+#### Kg. Tanjong Rangas
+
+Code: BN-BE-MK31-KP296, Coordinates: 4.493, 114.312
+
+#### Kg. Tanjong Sudai
+
+Code: BN-BE-MK31-KP297, Coordinates: 4.493, 114.312
+
+#### Kg. Tugong
+
+Code: BN-BE-MK31-KP298, Postal: KD1932, Coordinates: 4.493, 114.312
+
+### Mukim Kuala Belait (Kuala Belait)
+
+Code: BN-BE-MK30, Coordinates: 4.563, 114.225
+Villages: 8
+
+#### Kg. Mumong A
+
+Code: BN-BE-MK30-KP281, Postal: KA1531, Coordinates: 4.568, 114.223
+
+#### Kg. Mumong B
+
+Code: BN-BE-MK30-KP282, Coordinates: 4.566, 114.267
+
+#### Kg. Pandan A
+
+Code: BN-BE-MK30-KP284, Postal: KA1931, Coordinates: 4.587, 114.213
+
+#### Kg. Pandan B
+
+Code: BN-BE-MK30-KP285, Postal: KA2931, Coordinates: 4.589, 114.225
+
+#### Kg. Pandan C
+
+Code: BN-BE-MK30-KP286, Postal: KA2131, Coordinates: 4.59, 114.242
+
+#### Kg. Sungai Melilit
+
+Code: BN-BE-MK30-KP397, Postal: KA2731, Coordinates: 4.545, 114.248
+
+#### Kg. Sungai Teraban
+
+Code: BN-BE-MK30-KP398, Postal: KA3331, Coordinates: 4.586, 114.182
+
+#### Pekan Kuala Belait
+
+Code: BN-BE-MK30-KP283, Postal: KA1131, Coordinates: 4.585, 114.193
+
+### Mukim Labi (Labi)
+
+Code: BN-BE-MK29, Coordinates: 4.444, 114.432
+Villages: 15
+
+#### Kg. Bukit Puan
+
+Code: BN-BE-MK29-KP276, Postal: KE1137, Coordinates: 4.538, 114.468
+
+#### Kg. Gatas
+
+Code: BN-BE-MK29-KP300, Postal: KE2537, Coordinates: 4.444, 114.432
+
+#### Kg. Kenapol
+
+Code: BN-BE-MK29-KP301, Postal: KE2737, Coordinates: 4.403, 114.463
+
+#### Kg. Labi
+
+Code: BN-BE-MK29-KP302, Coordinates: 4.648, 114.509
+
+#### Kg. Labi Lama
+
+Code: BN-BE-MK29-KP303, Postal: KE3737, Coordinates: 4.4, 114.46
+
+#### Kg. Mendaram Kecil
+
+Code: BN-BE-MK29-KP421, Coordinates: 4.444, 114.432
+
+#### Kg. Rampayoh
+
+Code: BN-BE-MK29-KP304, Postal: KE4537, Coordinates: 4.374, 114.454
+
+#### Kg. Ratan
+
+Code: BN-BE-MK29-KP305, Postal: KE2137, Coordinates: 4.435, 114.463
+
+#### Kg. Simpang Tiga
+
+Code: BN-BE-MK29-KP306, Postal: KE4337, Coordinates: 4.599, 114.321
+
+#### Kg. Sungai Petai
+
+Code: BN-BE-MK29-KP307, Postal: KE1337, Coordinates: 4.444, 114.432
+
+#### Kg. Tanajor
+
+Code: BN-BE-MK29-KP308, Postal: KE1937, Coordinates: 4.444, 114.432
+
+#### Kg. Tapang Lupak
+
+Code: BN-BE-MK29-KP309, Postal: KE1737, Coordinates: 4.444, 114.432
+
+#### Kg. Teraja
+
+Code: BN-BE-MK29-KP422, Postal: KE3937, Coordinates: 4.896, 114.943
+
+#### Kg. Terawan
+
+Code: BN-BE-MK29-KP310, Postal: KE3137, Coordinates: 4.444, 114.432
+
+#### Kg. Terunan
+
+Code: BN-BE-MK29-KP311, Postal: KE2337, Coordinates: 4.444, 114.432
+
+### Mukim Liang (Liang)
+
+Code: BN-BE-MK36, Coordinates: 4.629, 114.468
+Villages: 21
+
+#### Badas Liang
+
+Code: BN-BE-MK36-KP370, Coordinates: 4.629, 114.468
+
+#### Hutan Simpan Andulau
+
+Code: BN-BE-MK36-KP375, Coordinates: 4.629, 114.468
+
+#### Kg. Agis-Agis
+
+Code: BN-BE-MK36-KP383, Postal: KC3335, Coordinates: 4.667, 114.483
+
+#### Kg. Keluyoh
+
+Code: BN-BE-MK36-KP382, Postal: KC1735, Coordinates: 4.661, 114.506
+
+#### Kg. Lilas
+
+Code: BN-BE-MK36-KP380, Postal: KC2535, Coordinates: 4.7, 114.521
+
+#### Kg. Lumut
+
+Code: BN-BE-MK36-KP374, Postal: KC4335, Coordinates: 4.66, 114.442
+
+#### Kg. Lumut Tersusun
+
+Code: BN-BE-MK36-KP394, Postal: KC4135, Coordinates: 4.655, 114.466
+
+#### Kg. Perumpong
+
+Code: BN-BE-MK36-KP378, Postal: KC1935, Coordinates: 4.674, 114.492
+
+#### Kg. Sungai Bakong
+
+Code: BN-BE-MK36-KP399, Postal: KC4535, Coordinates: 4.661, 114.452
+
+#### Kg. Sungai Gana
+
+Code: BN-BE-MK36-KP379, Postal: KC1335, Coordinates: 4.677, 114.502
+
+#### Kg. Sungai Kang
+
+Code: BN-BE-MK36-KP376, Coordinates: 4.658, 114.474
+
+#### Kg. Sungai Kuru
+
+Code: BN-BE-MK36-KP395, Coordinates: 4.662, 114.471
+
+#### Kg. Sungai Lalit
+
+Code: BN-BE-MK36-KP384, Postal: KC3535, Coordinates: 4.659, 114.481
+
+#### Kg. Sungai Liang
+
+Code: BN-BE-MK36-KP377, Postal: KC1135, Coordinates: 4.677, 114.495
+
+#### Kg. Sungai Tali
+
+Code: BN-BE-MK36-KP372, Coordinates: 4.651, 114.417
+
+#### Kg. Sungai Taring
+
+Code: BN-BE-MK36-KP385, Postal: KC4735, Coordinates: 4.657, 114.433
+
+#### Kg. Tunggulian
+
+Code: BN-BE-MK36-KP381, Postal: KC2735, Coordinates: 4.691, 114.513
+
+#### Perkhemahan Lumut
+
+Code: BN-BE-MK36-KP371, Coordinates: 4.639, 114.419
+
+#### Perumahan Negara Lumut Kawasan 1
+
+Code: BN-BE-MK36-KP400, Coordinates: 4.645, 114.437
+
+#### Perumahan Negara Lumut Kawasan 2
+
+Code: BN-BE-MK36-KP373, Coordinates: 4.649, 114.446
+
+#### STKRJ Lumut
+
+Code: BN-BE-MK36-KP393, Coordinates: 4.643, 114.431
+
+### Mukim Melilas (Melilas)
+
+Code: BN-BE-MK39, Coordinates: 4.108, 114.679
+Villages: 3
+
+#### Kg. Bang Garang
+
+Code: BN-BE-MK39-KP418, Postal: KH1739, Coordinates: 4.108, 114.679
+
+#### Kg. Bukit Tuding
+
+Code: BN-BE-MK39-KP420, Postal: KH1939, Coordinates: 4.108, 114.679
+
+#### Kg. Melilas
+
+Code: BN-BE-MK39-KP417, Postal: KH1339, Coordinates: 4.108, 114.679
+
+### Mukim Seria (Seria)
+
+Code: BN-BE-MK37, Coordinates: 4.582, 114.353
+Villages: 8
+
+#### Badas
+
+Code: BN-BE-MK37-KP392, Postal: KB2133, Coordinates: 4.56, 114.421
+
+#### Kg. Anduki
+
+Code: BN-BE-MK37-KP391, Postal: KB2333, Coordinates: 4.635, 114.381
+
+#### Kg. Lorong Tiga Selatan
+
+Code: BN-BE-MK37-KP388, Postal: KB1533, Coordinates: 4.599, 114.328
+
+#### Kg. Panaga
+
+Code: BN-BE-MK37-KP387, Postal: KB4533, Coordinates: 4.601, 114.286
+
+#### Kg. Sungai Bera
+
+Code: BN-BE-MK37-KP390, Postal: KB1933, Coordinates: 4.614, 114.359
+
+#### Pekan Seria Kawasan 1
+
+Code: BN-BE-MK37-KP386, Postal: KB1133, Coordinates: 4.615, 114.33
+
+#### Pekan Seria Kawasan 2
+
+Code: BN-BE-MK37-KP396, Postal: KB4733, Coordinates: 4.614, 114.341
+
+#### Perumahan Negara Lorong Tengah Seria
+
+Code: BN-BE-MK37-KP389, Coordinates: 4.6, 114.337
+
+### Mukim Sukang (Sukang)
+
+Code: BN-BE-MK26, Coordinates: 4.34, 114.706
+Villages: 5
+
+#### Kg. Apak-Apak
+
+Code: BN-BE-MK26-KP277, Postal: KG1139, Coordinates: 4.34, 114.706
+
+#### Kg. Dungun
+
+Code: BN-BE-MK26-KP419, Postal: KG2139, Coordinates: 4.34, 114.706
+
+#### Kg. Kukub
+
+Code: BN-BE-MK26-KP266, Postal: KG1739, Coordinates: 4.34, 114.706
+
+#### Kg. Sukang
+
+Code: BN-BE-MK26-KP416, Postal: KG1939, Coordinates: 4.34, 114.706
+
+#### Kg. Sungai Hilir
+
+Code: BN-BE-MK26-KP278, Postal: KG2339, Coordinates: 4.34, 114.706
+

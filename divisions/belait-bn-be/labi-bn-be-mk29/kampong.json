@@ -1,0 +1,838 @@
+[
+  {
+    "id": "BN-BE-MK29-KP276",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Bukit Puan",
+      "en": "Kg. Bukit Puan",
+      "slug": "kg-bukit-puan-276"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP276",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE1137"
+    ],
+    "geo": {
+      "lat": "4.538",
+      "lon": "114.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP300",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Gatas",
+      "en": "Kg. Gatas",
+      "slug": "kg-gatas-300"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP300",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE2537"
+    ],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP301",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Kenapol",
+      "en": "Kg. Kenapol",
+      "slug": "kg-kenapol-301"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP301",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE2737"
+    ],
+    "geo": {
+      "lat": "4.403",
+      "lon": "114.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP302",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Labi",
+      "en": "Kg. Labi",
+      "slug": "kg-labi-302"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP302",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.648",
+      "lon": "114.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP303",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Labi Lama",
+      "en": "Kg. Labi Lama",
+      "slug": "kg-labi-lama-303"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP303",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE3737"
+    ],
+    "geo": {
+      "lat": "4.4",
+      "lon": "114.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP421",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Mendaram Kecil",
+      "en": "Kg. Mendaram Kecil",
+      "slug": "kg-mendaram-kecil-421"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP421",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP304",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Rampayoh",
+      "en": "Kg. Rampayoh",
+      "slug": "kg-rampayoh-304"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP304",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE4537"
+    ],
+    "geo": {
+      "lat": "4.374",
+      "lon": "114.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP305",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Ratan",
+      "en": "Kg. Ratan",
+      "slug": "kg-ratan-305"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP305",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE2137"
+    ],
+    "geo": {
+      "lat": "4.435",
+      "lon": "114.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP306",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Simpang Tiga",
+      "en": "Kg. Simpang Tiga",
+      "slug": "kg-simpang-tiga-306"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP306",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE4337"
+    ],
+    "geo": {
+      "lat": "4.599",
+      "lon": "114.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP307",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Sungai Petai",
+      "en": "Kg. Sungai Petai",
+      "slug": "kg-sungai-petai-307"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP307",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE1337"
+    ],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP308",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tanajor",
+      "en": "Kg. Tanajor",
+      "slug": "kg-tanajor-308"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP308",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE1937"
+    ],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP309",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Tapang Lupak",
+      "en": "Kg. Tapang Lupak",
+      "slug": "kg-tapang-lupak-309"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP309",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE1737"
+    ],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP422",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Teraja",
+      "en": "Kg. Teraja",
+      "slug": "kg-teraja-422"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP422",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE3937"
+    ],
+    "geo": {
+      "lat": "4.896",
+      "lon": "114.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP310",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Terawan",
+      "en": "Kg. Terawan",
+      "slug": "kg-terawan-310"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP310",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE3137"
+    ],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "BN-BE-MK29-KP311",
+    "level": 3,
+    "level_name": {
+      "local": "Kampong",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kg. Terunan",
+      "en": "Kg. Terunan",
+      "slug": "kg-terunan-311"
+    },
+    "code": {
+      "id": "BN-BE-MK29-KP311",
+      "iso": null
+    },
+    "parent": {
+      "id": "BN-BE-MK29",
+      "level": 2,
+      "name": {
+        "local": "Mukim Labi",
+        "en": "Labi",
+        "slug": "labi-bn-be-mk29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "BN-BE",
+        "level": 1,
+        "name": {
+          "local": "Belait",
+          "en": "Belait",
+          "slug": "belait-bn-be"
+        }
+      },
+      {
+        "id": "BN-BE-MK29",
+        "level": 2,
+        "name": {
+          "local": "Mukim Labi",
+          "en": "Labi",
+          "slug": "labi-bn-be-mk29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "KE2337"
+    ],
+    "geo": {
+      "lat": "4.444",
+      "lon": "114.432"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

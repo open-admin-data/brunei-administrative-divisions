@@ -1,0 +1,47 @@
+{
+  "id": "BN-TE-MK24",
+  "level": 2,
+  "level_name": {
+    "local": "Mukim",
+    "en": "Subdistrict"
+  },
+  "name": {
+    "local": "Mukim Labu",
+    "en": "Labu",
+    "slug": "labu-bn-te-mk24"
+  },
+  "code": {
+    "id": "BN-TE-MK24",
+    "iso": null
+  },
+  "parent": {
+    "id": "BN-TE",
+    "level": 1,
+    "name": {
+      "local": "Temburong",
+      "en": "Temburong",
+      "slug": "temburong-bn-te"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "BN-TE",
+      "level": 1,
+      "name": {
+        "local": "Temburong",
+        "en": "Temburong",
+        "slug": "temburong-bn-te"
+      }
+    }
+  ],
+  "children_count": {
+    "kampong": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.766",
+    "lon": "115.123"
+  },
+  "metadata": {},
+  "source": {}
+}
