@@ -3,7 +3,7 @@
 > 9 subdistricts, 84 villages
 > Code: BN-TU
 > Coordinates: 4.585, 114.682
-> Last updated: 2026-05-16. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Subdistricts
 

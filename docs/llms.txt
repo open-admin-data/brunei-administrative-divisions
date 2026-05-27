@@ -10,7 +10,7 @@
 - Total subdistricts: 42
 - Total villages: 438
 - Coordinates: included (all levels)
-- Last updated: 2026-05-16
+- Last updated: 2026-05-27
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

@@ -3,7 +3,7 @@
 > 8 subdistricts, 83 villages
 > Code: BN-BE
 > Coordinates: 4.392, 114.581
-> Last updated: 2026-05-16. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Subdistricts
 

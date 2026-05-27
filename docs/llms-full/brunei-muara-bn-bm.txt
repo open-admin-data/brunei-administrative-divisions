@@ -3,7 +3,7 @@
 > 19 subdistricts, 197 villages
 > Code: BN-BM
 > Coordinates: 4.94, 115.014
-> Last updated: 2026-05-16. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Subdistricts
 

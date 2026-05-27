@@ -3,7 +3,7 @@
 > 6 subdistricts, 74 villages
 > Code: BN-TE
 > Coordinates: 4.624, 115.129
-> Last updated: 2026-05-16. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Subdistricts
 
