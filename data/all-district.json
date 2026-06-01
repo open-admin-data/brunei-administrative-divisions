@@ -27,7 +27,11 @@
       "lon": "114.581"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bn/districts/belait-bn-be/",
+      "api": "https://openadmindata.org/api/bn/"
+    }
   },
   {
     "id": "BN-TU",
@@ -57,7 +61,11 @@
       "lon": "114.682"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bn/districts/tutong-bn-tu/",
+      "api": "https://openadmindata.org/api/bn/"
+    }
   },
   {
     "id": "BN-BM",
@@ -87,7 +95,11 @@
       "lon": "115.014"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bn/districts/brunei-muara-bn-bm/",
+      "api": "https://openadmindata.org/api/bn/"
+    }
   },
   {
     "id": "BN-TE",
@@ -117,6 +129,10 @@
       "lon": "115.129"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/bn/districts/temburong-bn-te/",
+      "api": "https://openadmindata.org/api/bn/"
+    }
   }
 ]
