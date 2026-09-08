@@ -15,11 +15,12 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (village level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-09-02 |
+| Last Updated | 2026-09-08 |
 | Website | [openadmindata.org/bn](https://openadmindata.org/bn/) |
 | API | [openadmindata.org/api/bn](https://openadmindata.org/api/bn/) |
 | Flag | [PNG](https://onlygames.me/flags-png/bn/) · [CDN](https://www.freeflags.org/cdn/) · [CSS](https://www.freeflags.org/css/) · [Collections](https://www.freeflags.org/collections/) |
 | National Anthem | [🎵 Listen & Download Brunei National Anthem MP3](https://onlygames.me/national-anthems/bn/) |
+| Statistics | [GDP](https://nationdata.org/gdp/country/brn) · [Population](https://nationdata.org/population/country/brn) — via [NationData.org](https://nationdata.org) |
 
 ## Browse by District
 
